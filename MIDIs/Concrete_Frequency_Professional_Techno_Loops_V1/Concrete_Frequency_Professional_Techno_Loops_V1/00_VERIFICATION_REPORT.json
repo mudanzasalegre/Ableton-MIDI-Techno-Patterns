@@ -1,0 +1,22 @@
+{
+  "file_format": "Standard MIDI File Type 1",
+  "ppq": 480,
+  "time_signature": "4/4",
+  "library_folders": 19,
+  "core_kit_ids": 100,
+  "versions_per_kit": 4,
+  "8bar_loops": 7600,
+  "16bar_loops": 200,
+  "total_midi": 7800,
+  "total_note_on_events": 541581,
+  "pure_cc_loops": 400,
+  "multitrack_loops": 1000,
+  "all_file_validations_passed": true,
+  "validation_errors": 0,
+  "source_validation_reports": [
+    "00_VALIDATION_BATCH_1.json",
+    "00_VALIDATION_BATCH_2.json",
+    "00_VALIDATION_BATCH_3.json",
+    "00_VALIDATION_BATCH_4.json"
+  ]
+}

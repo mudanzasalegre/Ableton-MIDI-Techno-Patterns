@@ -1,0 +1,53 @@
+{
+  "kit_count": 100,
+  "families_with_100_patches": 19,
+  "variations_per_kit": 4,
+  "family_loops": 7600,
+  "extended_16bar_loops": 200,
+  "midi_files": 7800,
+  "files_per_family": {
+    "01_KICK_ENGINES": 400,
+    "02_SNARE_CLAP_RIM": 400,
+    "03_CLOSED_TIGHT_HATS": 400,
+    "04_OPEN_HATS_RIDES": 400,
+    "05_METALLIC_PERCUSSION": 400,
+    "06_TOMS_LOW_BODY": 400,
+    "07_BREAKBEAT_SHUFFLE": 400,
+    "08_RUMBLE_SUB_TRIGGERS": 400,
+    "09_SUB_BASS": 400,
+    "10_ROLLING_BASS": 400,
+    "11_ACID_303": 400,
+    "12_MONO_SYNTH_PULSES": 400,
+    "13_RAVE_CHORD_STABS": 400,
+    "14_FX_NOISE_SIGNALS": 400,
+    "15_DRONES_ATMOSPHERES": 400,
+    "16_FILLS_REENTRIES": 400,
+    "17_DRUM_STACKS_MULTITRACK": 400,
+    "18_HYBRID_KITS_MULTITRACK": 400,
+    "19_MACRO_CC_LOOPS": 400
+  },
+  "distinct_fingerprints": {
+    "01_KICK_ENGINES": 400,
+    "02_SNARE_CLAP_RIM": 400,
+    "03_CLOSED_TIGHT_HATS": 400,
+    "04_OPEN_HATS_RIDES": 400,
+    "05_METALLIC_PERCUSSION": 400,
+    "06_TOMS_LOW_BODY": 400,
+    "07_BREAKBEAT_SHUFFLE": 400,
+    "08_RUMBLE_SUB_TRIGGERS": 400,
+    "09_SUB_BASS": 400,
+    "10_ROLLING_BASS": 400,
+    "11_ACID_303": 400,
+    "12_MONO_SYNTH_PULSES": 400,
+    "13_RAVE_CHORD_STABS": 400,
+    "14_FX_NOISE_SIGNALS": 400,
+    "15_DRONES_ATMOSPHERES": 400,
+    "16_FILLS_REENTRIES": 400,
+    "19_MACRO_CC_LOOPS": 400
+  },
+  "empty_files": [],
+  "tempo_bpm_range": [
+    134,
+    150
+  ]
+}

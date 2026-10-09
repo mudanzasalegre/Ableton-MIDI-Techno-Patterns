@@ -1,0 +1,2109 @@
+[
+  {
+    "file": "01_Linear_Kick_Rails/linear_kick_rail_var_01_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar linear kick/ghost/sub rail variation 1."
+  },
+  {
+    "file": "01_Linear_Kick_Rails/linear_kick_rail_var_01_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar extended linear kick/ghost/sub rail variation 1."
+  },
+  {
+    "file": "01_Linear_Kick_Rails/linear_kick_rail_var_02_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar linear kick/ghost/sub rail variation 2."
+  },
+  {
+    "file": "01_Linear_Kick_Rails/linear_kick_rail_var_02_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar extended linear kick/ghost/sub rail variation 2."
+  },
+  {
+    "file": "01_Linear_Kick_Rails/linear_kick_rail_var_03_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar linear kick/ghost/sub rail variation 3."
+  },
+  {
+    "file": "01_Linear_Kick_Rails/linear_kick_rail_var_03_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar extended linear kick/ghost/sub rail variation 3."
+  },
+  {
+    "file": "01_Linear_Kick_Rails/linear_kick_rail_var_04_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar linear kick/ghost/sub rail variation 4."
+  },
+  {
+    "file": "01_Linear_Kick_Rails/linear_kick_rail_var_04_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar extended linear kick/ghost/sub rail variation 4."
+  },
+  {
+    "file": "01_Linear_Kick_Rails/linear_kick_rail_var_05_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar linear kick/ghost/sub rail variation 5."
+  },
+  {
+    "file": "01_Linear_Kick_Rails/linear_kick_rail_var_05_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar extended linear kick/ghost/sub rail variation 5."
+  },
+  {
+    "file": "01_Linear_Kick_Rails/linear_kick_rail_var_06_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar linear kick/ghost/sub rail variation 6."
+  },
+  {
+    "file": "01_Linear_Kick_Rails/linear_kick_rail_var_06_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar extended linear kick/ghost/sub rail variation 6."
+  },
+  {
+    "file": "01_Linear_Kick_Rails/linear_kick_rail_var_07_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar linear kick/ghost/sub rail variation 7."
+  },
+  {
+    "file": "01_Linear_Kick_Rails/linear_kick_rail_var_07_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar extended linear kick/ghost/sub rail variation 7."
+  },
+  {
+    "file": "01_Linear_Kick_Rails/linear_kick_rail_var_08_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar linear kick/ghost/sub rail variation 8."
+  },
+  {
+    "file": "01_Linear_Kick_Rails/linear_kick_rail_var_08_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar extended linear kick/ghost/sub rail variation 8."
+  },
+  {
+    "file": "01_Linear_Kick_Rails/linear_kick_rail_var_09_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar linear kick/ghost/sub rail variation 9."
+  },
+  {
+    "file": "01_Linear_Kick_Rails/linear_kick_rail_var_09_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar extended linear kick/ghost/sub rail variation 9."
+  },
+  {
+    "file": "01_Linear_Kick_Rails/linear_kick_rail_var_10_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar linear kick/ghost/sub rail variation 10."
+  },
+  {
+    "file": "01_Linear_Kick_Rails/linear_kick_rail_var_10_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar extended linear kick/ghost/sub rail variation 10."
+  },
+  {
+    "file": "01_Linear_Kick_Rails/linear_kick_rail_var_11_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar linear kick/ghost/sub rail variation 11."
+  },
+  {
+    "file": "01_Linear_Kick_Rails/linear_kick_rail_var_11_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar extended linear kick/ghost/sub rail variation 11."
+  },
+  {
+    "file": "01_Linear_Kick_Rails/linear_kick_rail_var_12_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar linear kick/ghost/sub rail variation 12."
+  },
+  {
+    "file": "01_Linear_Kick_Rails/linear_kick_rail_var_12_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar extended linear kick/ghost/sub rail variation 12."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_01_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar linear hypnotic percussion grid variation 1."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_01_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar linear hypnotic percussion grid variation 1."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_02_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar linear hypnotic percussion grid variation 2."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_02_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar linear hypnotic percussion grid variation 2."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_03_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar linear hypnotic percussion grid variation 3."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_03_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar linear hypnotic percussion grid variation 3."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_04_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar linear hypnotic percussion grid variation 4."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_04_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar linear hypnotic percussion grid variation 4."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_05_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar linear hypnotic percussion grid variation 5."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_05_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar linear hypnotic percussion grid variation 5."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_06_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar linear hypnotic percussion grid variation 6."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_06_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar linear hypnotic percussion grid variation 6."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_07_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar linear hypnotic percussion grid variation 7."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_07_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar linear hypnotic percussion grid variation 7."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_08_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar linear hypnotic percussion grid variation 8."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_08_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar linear hypnotic percussion grid variation 8."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_09_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar linear hypnotic percussion grid variation 9."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_09_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar linear hypnotic percussion grid variation 9."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_10_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar linear hypnotic percussion grid variation 10."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_10_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar linear hypnotic percussion grid variation 10."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_11_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar linear hypnotic percussion grid variation 11."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_11_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar linear hypnotic percussion grid variation 11."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_12_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar linear hypnotic percussion grid variation 12."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_12_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar linear hypnotic percussion grid variation 12."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_13_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar linear hypnotic percussion grid variation 13."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_13_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar linear hypnotic percussion grid variation 13."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_14_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar linear hypnotic percussion grid variation 14."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_14_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar linear hypnotic percussion grid variation 14."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_15_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar linear hypnotic percussion grid variation 15."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_15_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar linear hypnotic percussion grid variation 15."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_16_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar linear hypnotic percussion grid variation 16."
+  },
+  {
+    "file": "02_Hypnotic_Percussion_Grids/hypnotic_perc_grid_var_16_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar linear hypnotic percussion grid variation 16."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_01_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar percussion-only hook loop variation 1."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_01_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar percussion-only hook loop variation 1."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_02_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar percussion-only hook loop variation 2."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_02_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar percussion-only hook loop variation 2."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_03_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar percussion-only hook loop variation 3."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_03_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar percussion-only hook loop variation 3."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_04_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar percussion-only hook loop variation 4."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_04_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar percussion-only hook loop variation 4."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_05_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar percussion-only hook loop variation 5."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_05_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar percussion-only hook loop variation 5."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_06_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar percussion-only hook loop variation 6."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_06_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar percussion-only hook loop variation 6."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_07_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar percussion-only hook loop variation 7."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_07_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar percussion-only hook loop variation 7."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_08_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar percussion-only hook loop variation 8."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_08_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar percussion-only hook loop variation 8."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_09_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar percussion-only hook loop variation 9."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_09_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar percussion-only hook loop variation 9."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_10_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar percussion-only hook loop variation 10."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_10_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar percussion-only hook loop variation 10."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_11_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar percussion-only hook loop variation 11."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_11_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar percussion-only hook loop variation 11."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_12_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar percussion-only hook loop variation 12."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_12_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar percussion-only hook loop variation 12."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_13_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar percussion-only hook loop variation 13."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_13_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar percussion-only hook loop variation 13."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_14_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar percussion-only hook loop variation 14."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_14_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar percussion-only hook loop variation 14."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_15_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar percussion-only hook loop variation 15."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_15_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar percussion-only hook loop variation 15."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_16_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar percussion-only hook loop variation 16."
+  },
+  {
+    "file": "03_Percussion_Only_Hook_Loops/percussion_only_hook_var_16_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar percussion-only hook loop variation 16."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_01_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar fast linear full drum/percussion groove variation 1."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_01_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar fast linear full drum/percussion groove variation 1."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_02_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar fast linear full drum/percussion groove variation 2."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_02_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar fast linear full drum/percussion groove variation 2."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_03_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar fast linear full drum/percussion groove variation 3."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_03_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar fast linear full drum/percussion groove variation 3."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_04_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar fast linear full drum/percussion groove variation 4."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_04_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar fast linear full drum/percussion groove variation 4."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_05_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar fast linear full drum/percussion groove variation 5."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_05_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar fast linear full drum/percussion groove variation 5."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_06_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar fast linear full drum/percussion groove variation 6."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_06_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar fast linear full drum/percussion groove variation 6."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_07_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar fast linear full drum/percussion groove variation 7."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_07_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar fast linear full drum/percussion groove variation 7."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_08_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar fast linear full drum/percussion groove variation 8."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_08_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar fast linear full drum/percussion groove variation 8."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_09_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar fast linear full drum/percussion groove variation 9."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_09_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar fast linear full drum/percussion groove variation 9."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_10_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar fast linear full drum/percussion groove variation 10."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_10_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar fast linear full drum/percussion groove variation 10."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_11_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar fast linear full drum/percussion groove variation 11."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_11_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar fast linear full drum/percussion groove variation 11."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_12_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar fast linear full drum/percussion groove variation 12."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_12_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar fast linear full drum/percussion groove variation 12."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_13_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar fast linear full drum/percussion groove variation 13."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_13_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar fast linear full drum/percussion groove variation 13."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_14_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar fast linear full drum/percussion groove variation 14."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_14_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar fast linear full drum/percussion groove variation 14."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_15_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar fast linear full drum/percussion groove variation 15."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_15_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar fast linear full drum/percussion groove variation 15."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_16_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar fast linear full drum/percussion groove variation 16."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_16_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar fast linear full drum/percussion groove variation 16."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_17_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar fast linear full drum/percussion groove variation 17."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_17_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar fast linear full drum/percussion groove variation 17."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_18_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar fast linear full drum/percussion groove variation 18."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_18_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar fast linear full drum/percussion groove variation 18."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_19_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar fast linear full drum/percussion groove variation 19."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_19_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar fast linear full drum/percussion groove variation 19."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_20_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar fast linear full drum/percussion groove variation 20."
+  },
+  {
+    "file": "04_Linear_Full_Drum_Grooves/linear_full_drum_groove_var_20_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar fast linear full drum/percussion groove variation 20."
+  },
+  {
+    "file": "05_Body_Tom_Propulsion/body_tom_propulsion_var_01_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar body/tom propulsion loop variation 1."
+  },
+  {
+    "file": "05_Body_Tom_Propulsion/body_tom_propulsion_var_01_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar body/tom propulsion loop variation 1."
+  },
+  {
+    "file": "05_Body_Tom_Propulsion/body_tom_propulsion_var_02_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar body/tom propulsion loop variation 2."
+  },
+  {
+    "file": "05_Body_Tom_Propulsion/body_tom_propulsion_var_02_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar body/tom propulsion loop variation 2."
+  },
+  {
+    "file": "05_Body_Tom_Propulsion/body_tom_propulsion_var_03_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar body/tom propulsion loop variation 3."
+  },
+  {
+    "file": "05_Body_Tom_Propulsion/body_tom_propulsion_var_03_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar body/tom propulsion loop variation 3."
+  },
+  {
+    "file": "05_Body_Tom_Propulsion/body_tom_propulsion_var_04_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar body/tom propulsion loop variation 4."
+  },
+  {
+    "file": "05_Body_Tom_Propulsion/body_tom_propulsion_var_04_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar body/tom propulsion loop variation 4."
+  },
+  {
+    "file": "05_Body_Tom_Propulsion/body_tom_propulsion_var_05_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar body/tom propulsion loop variation 5."
+  },
+  {
+    "file": "05_Body_Tom_Propulsion/body_tom_propulsion_var_05_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar body/tom propulsion loop variation 5."
+  },
+  {
+    "file": "05_Body_Tom_Propulsion/body_tom_propulsion_var_06_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar body/tom propulsion loop variation 6."
+  },
+  {
+    "file": "05_Body_Tom_Propulsion/body_tom_propulsion_var_06_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar body/tom propulsion loop variation 6."
+  },
+  {
+    "file": "05_Body_Tom_Propulsion/body_tom_propulsion_var_07_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar body/tom propulsion loop variation 7."
+  },
+  {
+    "file": "05_Body_Tom_Propulsion/body_tom_propulsion_var_07_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar body/tom propulsion loop variation 7."
+  },
+  {
+    "file": "05_Body_Tom_Propulsion/body_tom_propulsion_var_08_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar body/tom propulsion loop variation 8."
+  },
+  {
+    "file": "05_Body_Tom_Propulsion/body_tom_propulsion_var_08_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar body/tom propulsion loop variation 8."
+  },
+  {
+    "file": "05_Body_Tom_Propulsion/body_tom_propulsion_var_09_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar body/tom propulsion loop variation 9."
+  },
+  {
+    "file": "05_Body_Tom_Propulsion/body_tom_propulsion_var_09_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar body/tom propulsion loop variation 9."
+  },
+  {
+    "file": "05_Body_Tom_Propulsion/body_tom_propulsion_var_10_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar body/tom propulsion loop variation 10."
+  },
+  {
+    "file": "05_Body_Tom_Propulsion/body_tom_propulsion_var_10_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar body/tom propulsion loop variation 10."
+  },
+  {
+    "file": "05_Body_Tom_Propulsion/body_tom_propulsion_var_11_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar body/tom propulsion loop variation 11."
+  },
+  {
+    "file": "05_Body_Tom_Propulsion/body_tom_propulsion_var_11_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar body/tom propulsion loop variation 11."
+  },
+  {
+    "file": "05_Body_Tom_Propulsion/body_tom_propulsion_var_12_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar body/tom propulsion loop variation 12."
+  },
+  {
+    "file": "05_Body_Tom_Propulsion/body_tom_propulsion_var_12_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar body/tom propulsion loop variation 12."
+  },
+  {
+    "file": "06_Snare_Rim_Line_Hooks/snare_rim_line_hook_var_01_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar snare/rim linear hook variation 1."
+  },
+  {
+    "file": "06_Snare_Rim_Line_Hooks/snare_rim_line_hook_var_01_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar snare/rim linear hook variation 1."
+  },
+  {
+    "file": "06_Snare_Rim_Line_Hooks/snare_rim_line_hook_var_02_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar snare/rim linear hook variation 2."
+  },
+  {
+    "file": "06_Snare_Rim_Line_Hooks/snare_rim_line_hook_var_02_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar snare/rim linear hook variation 2."
+  },
+  {
+    "file": "06_Snare_Rim_Line_Hooks/snare_rim_line_hook_var_03_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar snare/rim linear hook variation 3."
+  },
+  {
+    "file": "06_Snare_Rim_Line_Hooks/snare_rim_line_hook_var_03_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar snare/rim linear hook variation 3."
+  },
+  {
+    "file": "06_Snare_Rim_Line_Hooks/snare_rim_line_hook_var_04_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar snare/rim linear hook variation 4."
+  },
+  {
+    "file": "06_Snare_Rim_Line_Hooks/snare_rim_line_hook_var_04_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar snare/rim linear hook variation 4."
+  },
+  {
+    "file": "06_Snare_Rim_Line_Hooks/snare_rim_line_hook_var_05_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar snare/rim linear hook variation 5."
+  },
+  {
+    "file": "06_Snare_Rim_Line_Hooks/snare_rim_line_hook_var_05_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar snare/rim linear hook variation 5."
+  },
+  {
+    "file": "06_Snare_Rim_Line_Hooks/snare_rim_line_hook_var_06_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar snare/rim linear hook variation 6."
+  },
+  {
+    "file": "06_Snare_Rim_Line_Hooks/snare_rim_line_hook_var_06_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar snare/rim linear hook variation 6."
+  },
+  {
+    "file": "06_Snare_Rim_Line_Hooks/snare_rim_line_hook_var_07_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar snare/rim linear hook variation 7."
+  },
+  {
+    "file": "06_Snare_Rim_Line_Hooks/snare_rim_line_hook_var_07_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar snare/rim linear hook variation 7."
+  },
+  {
+    "file": "06_Snare_Rim_Line_Hooks/snare_rim_line_hook_var_08_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar snare/rim linear hook variation 8."
+  },
+  {
+    "file": "06_Snare_Rim_Line_Hooks/snare_rim_line_hook_var_08_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar snare/rim linear hook variation 8."
+  },
+  {
+    "file": "06_Snare_Rim_Line_Hooks/snare_rim_line_hook_var_09_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar snare/rim linear hook variation 9."
+  },
+  {
+    "file": "06_Snare_Rim_Line_Hooks/snare_rim_line_hook_var_09_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar snare/rim linear hook variation 9."
+  },
+  {
+    "file": "06_Snare_Rim_Line_Hooks/snare_rim_line_hook_var_10_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar snare/rim linear hook variation 10."
+  },
+  {
+    "file": "06_Snare_Rim_Line_Hooks/snare_rim_line_hook_var_10_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar snare/rim linear hook variation 10."
+  },
+  {
+    "file": "06_Snare_Rim_Line_Hooks/snare_rim_line_hook_var_11_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar snare/rim linear hook variation 11."
+  },
+  {
+    "file": "06_Snare_Rim_Line_Hooks/snare_rim_line_hook_var_11_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar snare/rim linear hook variation 11."
+  },
+  {
+    "file": "06_Snare_Rim_Line_Hooks/snare_rim_line_hook_var_12_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar snare/rim linear hook variation 12."
+  },
+  {
+    "file": "06_Snare_Rim_Line_Hooks/snare_rim_line_hook_var_12_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar snare/rim linear hook variation 12."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_01_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar top/percussion drive combo variation 1."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_01_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar top/percussion drive combo variation 1."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_02_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar top/percussion drive combo variation 2."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_02_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar top/percussion drive combo variation 2."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_03_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar top/percussion drive combo variation 3."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_03_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar top/percussion drive combo variation 3."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_04_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar top/percussion drive combo variation 4."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_04_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar top/percussion drive combo variation 4."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_05_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar top/percussion drive combo variation 5."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_05_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar top/percussion drive combo variation 5."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_06_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar top/percussion drive combo variation 6."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_06_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar top/percussion drive combo variation 6."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_07_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar top/percussion drive combo variation 7."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_07_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar top/percussion drive combo variation 7."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_08_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar top/percussion drive combo variation 8."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_08_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar top/percussion drive combo variation 8."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_09_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar top/percussion drive combo variation 9."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_09_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar top/percussion drive combo variation 9."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_10_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar top/percussion drive combo variation 10."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_10_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar top/percussion drive combo variation 10."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_11_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar top/percussion drive combo variation 11."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_11_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar top/percussion drive combo variation 11."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_12_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar top/percussion drive combo variation 12."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_12_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar top/percussion drive combo variation 12."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_13_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar top/percussion drive combo variation 13."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_13_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar top/percussion drive combo variation 13."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_14_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar top/percussion drive combo variation 14."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_14_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar top/percussion drive combo variation 14."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_15_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar top/percussion drive combo variation 15."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_15_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar top/percussion drive combo variation 15."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_16_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar top/percussion drive combo variation 16."
+  },
+  {
+    "file": "07_Top_Percussion_Drive_Combos/top_percussion_drive_combo_var_16_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar top/percussion drive combo variation 16."
+  },
+  {
+    "file": "08_Peak_Linear_Tools/peak_linear_tool_var_01_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar peak linear drum/percussion tool variation 1."
+  },
+  {
+    "file": "08_Peak_Linear_Tools/peak_linear_tool_var_01_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar peak linear drum/percussion tool variation 1."
+  },
+  {
+    "file": "08_Peak_Linear_Tools/peak_linear_tool_var_02_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar peak linear drum/percussion tool variation 2."
+  },
+  {
+    "file": "08_Peak_Linear_Tools/peak_linear_tool_var_02_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar peak linear drum/percussion tool variation 2."
+  },
+  {
+    "file": "08_Peak_Linear_Tools/peak_linear_tool_var_03_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar peak linear drum/percussion tool variation 3."
+  },
+  {
+    "file": "08_Peak_Linear_Tools/peak_linear_tool_var_03_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar peak linear drum/percussion tool variation 3."
+  },
+  {
+    "file": "08_Peak_Linear_Tools/peak_linear_tool_var_04_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar peak linear drum/percussion tool variation 4."
+  },
+  {
+    "file": "08_Peak_Linear_Tools/peak_linear_tool_var_04_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar peak linear drum/percussion tool variation 4."
+  },
+  {
+    "file": "08_Peak_Linear_Tools/peak_linear_tool_var_05_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar peak linear drum/percussion tool variation 5."
+  },
+  {
+    "file": "08_Peak_Linear_Tools/peak_linear_tool_var_05_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar peak linear drum/percussion tool variation 5."
+  },
+  {
+    "file": "08_Peak_Linear_Tools/peak_linear_tool_var_06_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar peak linear drum/percussion tool variation 6."
+  },
+  {
+    "file": "08_Peak_Linear_Tools/peak_linear_tool_var_06_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar peak linear drum/percussion tool variation 6."
+  },
+  {
+    "file": "08_Peak_Linear_Tools/peak_linear_tool_var_07_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar peak linear drum/percussion tool variation 7."
+  },
+  {
+    "file": "08_Peak_Linear_Tools/peak_linear_tool_var_07_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar peak linear drum/percussion tool variation 7."
+  },
+  {
+    "file": "08_Peak_Linear_Tools/peak_linear_tool_var_08_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar peak linear drum/percussion tool variation 8."
+  },
+  {
+    "file": "08_Peak_Linear_Tools/peak_linear_tool_var_08_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar peak linear drum/percussion tool variation 8."
+  },
+  {
+    "file": "08_Peak_Linear_Tools/peak_linear_tool_var_09_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar peak linear drum/percussion tool variation 9."
+  },
+  {
+    "file": "08_Peak_Linear_Tools/peak_linear_tool_var_09_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar peak linear drum/percussion tool variation 9."
+  },
+  {
+    "file": "08_Peak_Linear_Tools/peak_linear_tool_var_10_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar peak linear drum/percussion tool variation 10."
+  },
+  {
+    "file": "08_Peak_Linear_Tools/peak_linear_tool_var_10_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar peak linear drum/percussion tool variation 10."
+  },
+  {
+    "file": "08_Peak_Linear_Tools/peak_linear_tool_var_11_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar peak linear drum/percussion tool variation 11."
+  },
+  {
+    "file": "08_Peak_Linear_Tools/peak_linear_tool_var_11_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar peak linear drum/percussion tool variation 11."
+  },
+  {
+    "file": "08_Peak_Linear_Tools/peak_linear_tool_var_12_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "8-bar peak linear drum/percussion tool variation 12."
+  },
+  {
+    "file": "08_Peak_Linear_Tools/peak_linear_tool_var_12_16bar_140.mid",
+    "bars": 16,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "16-bar peak linear drum/percussion tool variation 12."
+  },
+  {
+    "file": "09_Fast_Linear_Fills_Reentries/fast_linear_fill_var_01_4bar_140.mid",
+    "bars": 4,
+    "bpm": 140,
+    "type": "fill",
+    "description": "4-bar fast linear percussive fill variation 1."
+  },
+  {
+    "file": "09_Fast_Linear_Fills_Reentries/fast_linear_fill_var_01_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "fill",
+    "description": "8-bar fast linear percussive fill variation 1."
+  },
+  {
+    "file": "09_Fast_Linear_Fills_Reentries/fast_linear_fill_var_02_4bar_140.mid",
+    "bars": 4,
+    "bpm": 140,
+    "type": "fill",
+    "description": "4-bar fast linear percussive fill variation 2."
+  },
+  {
+    "file": "09_Fast_Linear_Fills_Reentries/fast_linear_fill_var_02_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "fill",
+    "description": "8-bar fast linear percussive fill variation 2."
+  },
+  {
+    "file": "09_Fast_Linear_Fills_Reentries/fast_linear_fill_var_03_4bar_140.mid",
+    "bars": 4,
+    "bpm": 140,
+    "type": "fill",
+    "description": "4-bar fast linear percussive fill variation 3."
+  },
+  {
+    "file": "09_Fast_Linear_Fills_Reentries/fast_linear_fill_var_03_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "fill",
+    "description": "8-bar fast linear percussive fill variation 3."
+  },
+  {
+    "file": "09_Fast_Linear_Fills_Reentries/fast_linear_fill_var_04_4bar_140.mid",
+    "bars": 4,
+    "bpm": 140,
+    "type": "fill",
+    "description": "4-bar fast linear percussive fill variation 4."
+  },
+  {
+    "file": "09_Fast_Linear_Fills_Reentries/fast_linear_fill_var_04_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "fill",
+    "description": "8-bar fast linear percussive fill variation 4."
+  },
+  {
+    "file": "09_Fast_Linear_Fills_Reentries/fast_linear_fill_var_05_4bar_140.mid",
+    "bars": 4,
+    "bpm": 140,
+    "type": "fill",
+    "description": "4-bar fast linear percussive fill variation 5."
+  },
+  {
+    "file": "09_Fast_Linear_Fills_Reentries/fast_linear_fill_var_05_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "fill",
+    "description": "8-bar fast linear percussive fill variation 5."
+  },
+  {
+    "file": "09_Fast_Linear_Fills_Reentries/fast_linear_fill_var_06_4bar_140.mid",
+    "bars": 4,
+    "bpm": 140,
+    "type": "fill",
+    "description": "4-bar fast linear percussive fill variation 6."
+  },
+  {
+    "file": "09_Fast_Linear_Fills_Reentries/fast_linear_fill_var_06_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "fill",
+    "description": "8-bar fast linear percussive fill variation 6."
+  },
+  {
+    "file": "09_Fast_Linear_Fills_Reentries/fast_linear_fill_var_07_4bar_140.mid",
+    "bars": 4,
+    "bpm": 140,
+    "type": "fill",
+    "description": "4-bar fast linear percussive fill variation 7."
+  },
+  {
+    "file": "09_Fast_Linear_Fills_Reentries/fast_linear_fill_var_07_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "fill",
+    "description": "8-bar fast linear percussive fill variation 7."
+  },
+  {
+    "file": "09_Fast_Linear_Fills_Reentries/fast_linear_fill_var_08_4bar_140.mid",
+    "bars": 4,
+    "bpm": 140,
+    "type": "fill",
+    "description": "4-bar fast linear percussive fill variation 8."
+  },
+  {
+    "file": "09_Fast_Linear_Fills_Reentries/fast_linear_fill_var_08_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "fill",
+    "description": "8-bar fast linear percussive fill variation 8."
+  },
+  {
+    "file": "09_Fast_Linear_Fills_Reentries/fast_linear_fill_var_09_4bar_140.mid",
+    "bars": 4,
+    "bpm": 140,
+    "type": "fill",
+    "description": "4-bar fast linear percussive fill variation 9."
+  },
+  {
+    "file": "09_Fast_Linear_Fills_Reentries/fast_linear_fill_var_09_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "fill",
+    "description": "8-bar fast linear percussive fill variation 9."
+  },
+  {
+    "file": "09_Fast_Linear_Fills_Reentries/fast_linear_fill_var_10_4bar_140.mid",
+    "bars": 4,
+    "bpm": 140,
+    "type": "fill",
+    "description": "4-bar fast linear percussive fill variation 10."
+  },
+  {
+    "file": "09_Fast_Linear_Fills_Reentries/fast_linear_fill_var_10_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "fill",
+    "description": "8-bar fast linear percussive fill variation 10."
+  },
+  {
+    "file": "09_Fast_Linear_Fills_Reentries/fast_linear_fill_var_11_4bar_140.mid",
+    "bars": 4,
+    "bpm": 140,
+    "type": "fill",
+    "description": "4-bar fast linear percussive fill variation 11."
+  },
+  {
+    "file": "09_Fast_Linear_Fills_Reentries/fast_linear_fill_var_11_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "fill",
+    "description": "8-bar fast linear percussive fill variation 11."
+  },
+  {
+    "file": "09_Fast_Linear_Fills_Reentries/fast_linear_fill_var_12_4bar_140.mid",
+    "bars": 4,
+    "bpm": 140,
+    "type": "fill",
+    "description": "4-bar fast linear percussive fill variation 12."
+  },
+  {
+    "file": "09_Fast_Linear_Fills_Reentries/fast_linear_fill_var_12_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "fill",
+    "description": "8-bar fast linear percussive fill variation 12."
+  },
+  {
+    "file": "10_Long_Linear_Drum_Perc_Arrangements/linear_drum_perc_arrangement_64bar_var_01_140.mid",
+    "bars": 64,
+    "bpm": 140,
+    "type": "long_arrangement",
+    "description": "64-bar fast linear drum/percussion arrangement variation 1."
+  },
+  {
+    "file": "10_Long_Linear_Drum_Perc_Arrangements/linear_drum_perc_arrangement_64bar_var_02_140.mid",
+    "bars": 64,
+    "bpm": 140,
+    "type": "long_arrangement",
+    "description": "64-bar fast linear drum/percussion arrangement variation 2."
+  },
+  {
+    "file": "10_Long_Linear_Drum_Perc_Arrangements/linear_drum_perc_arrangement_64bar_var_03_140.mid",
+    "bars": 64,
+    "bpm": 140,
+    "type": "long_arrangement",
+    "description": "64-bar fast linear drum/percussion arrangement variation 3."
+  },
+  {
+    "file": "10_Long_Linear_Drum_Perc_Arrangements/linear_drum_perc_arrangement_64bar_var_04_140.mid",
+    "bars": 64,
+    "bpm": 140,
+    "type": "long_arrangement",
+    "description": "64-bar fast linear drum/percussion arrangement variation 4."
+  },
+  {
+    "file": "10_Long_Linear_Drum_Perc_Arrangements/linear_drum_perc_arrangement_64bar_var_05_140.mid",
+    "bars": 64,
+    "bpm": 140,
+    "type": "long_arrangement",
+    "description": "64-bar fast linear drum/percussion arrangement variation 5."
+  },
+  {
+    "file": "10_Long_Linear_Drum_Perc_Arrangements/linear_drum_perc_arrangement_64bar_var_06_140.mid",
+    "bars": 64,
+    "bpm": 140,
+    "type": "long_arrangement",
+    "description": "64-bar fast linear drum/percussion arrangement variation 6."
+  },
+  {
+    "file": "10_Long_Linear_Drum_Perc_Arrangements/linear_drum_perc_arrangement_128bar_var_01_140.mid",
+    "bars": 128,
+    "bpm": 140,
+    "type": "long_arrangement",
+    "description": "128-bar fast linear drum/percussion arrangement variation 1."
+  },
+  {
+    "file": "10_Long_Linear_Drum_Perc_Arrangements/linear_drum_perc_arrangement_128bar_var_02_140.mid",
+    "bars": 128,
+    "bpm": 140,
+    "type": "long_arrangement",
+    "description": "128-bar fast linear drum/percussion arrangement variation 2."
+  },
+  {
+    "file": "10_Long_Linear_Drum_Perc_Arrangements/linear_drum_perc_arrangement_128bar_var_03_140.mid",
+    "bars": 128,
+    "bpm": 140,
+    "type": "long_arrangement",
+    "description": "128-bar fast linear drum/percussion arrangement variation 3."
+  },
+  {
+    "file": "10_Long_Linear_Drum_Perc_Arrangements/linear_drum_perc_arrangement_128bar_var_04_140.mid",
+    "bars": 128,
+    "bpm": 140,
+    "type": "long_arrangement",
+    "description": "128-bar fast linear drum/percussion arrangement variation 4."
+  },
+  {
+    "file": "10_Long_Linear_Drum_Perc_Arrangements/linear_drum_perc_arrangement_128bar_var_05_140.mid",
+    "bars": 128,
+    "bpm": 140,
+    "type": "long_arrangement",
+    "description": "128-bar fast linear drum/percussion arrangement variation 5."
+  },
+  {
+    "file": "10_Long_Linear_Drum_Perc_Arrangements/linear_drum_perc_arrangement_128bar_var_06_140.mid",
+    "bars": 128,
+    "bpm": 140,
+    "type": "long_arrangement",
+    "description": "128-bar fast linear drum/percussion arrangement variation 6."
+  },
+  {
+    "file": "11_Alt_Tempos/linear_full_groove_A_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_perc_notes",
+    "description": "Linear full groove A embedded at 136 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos/percussion_only_hook_A_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_perc_notes",
+    "description": "Percussion-only hook A embedded at 136 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos/peak_linear_tool_A_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_perc_notes",
+    "description": "Peak linear tool A embedded at 136 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos/top_percussion_drive_A_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_perc_notes",
+    "description": "Top/percussion drive A embedded at 136 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos/linear_kick_rail_A_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_perc_notes",
+    "description": "Linear kick rail A embedded at 136 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos/linear_full_groove_A_8bar_138.mid",
+    "bars": 8,
+    "bpm": 138,
+    "type": "drum_perc_notes",
+    "description": "Linear full groove A embedded at 138 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos/percussion_only_hook_A_8bar_138.mid",
+    "bars": 8,
+    "bpm": 138,
+    "type": "drum_perc_notes",
+    "description": "Percussion-only hook A embedded at 138 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos/peak_linear_tool_A_8bar_138.mid",
+    "bars": 8,
+    "bpm": 138,
+    "type": "drum_perc_notes",
+    "description": "Peak linear tool A embedded at 138 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos/top_percussion_drive_A_8bar_138.mid",
+    "bars": 8,
+    "bpm": 138,
+    "type": "drum_perc_notes",
+    "description": "Top/percussion drive A embedded at 138 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos/linear_kick_rail_A_8bar_138.mid",
+    "bars": 8,
+    "bpm": 138,
+    "type": "drum_perc_notes",
+    "description": "Linear kick rail A embedded at 138 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos/linear_full_groove_A_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "Linear full groove A embedded at 140 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos/percussion_only_hook_A_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "Percussion-only hook A embedded at 140 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos/peak_linear_tool_A_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "Peak linear tool A embedded at 140 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos/top_percussion_drive_A_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "Top/percussion drive A embedded at 140 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos/linear_kick_rail_A_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_perc_notes",
+    "description": "Linear kick rail A embedded at 140 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos/linear_full_groove_A_8bar_142.mid",
+    "bars": 8,
+    "bpm": 142,
+    "type": "drum_perc_notes",
+    "description": "Linear full groove A embedded at 142 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos/percussion_only_hook_A_8bar_142.mid",
+    "bars": 8,
+    "bpm": 142,
+    "type": "drum_perc_notes",
+    "description": "Percussion-only hook A embedded at 142 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos/peak_linear_tool_A_8bar_142.mid",
+    "bars": 8,
+    "bpm": 142,
+    "type": "drum_perc_notes",
+    "description": "Peak linear tool A embedded at 142 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos/top_percussion_drive_A_8bar_142.mid",
+    "bars": 8,
+    "bpm": 142,
+    "type": "drum_perc_notes",
+    "description": "Top/percussion drive A embedded at 142 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos/linear_kick_rail_A_8bar_142.mid",
+    "bars": 8,
+    "bpm": 142,
+    "type": "drum_perc_notes",
+    "description": "Linear kick rail A embedded at 142 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos/linear_full_groove_A_8bar_144.mid",
+    "bars": 8,
+    "bpm": 144,
+    "type": "drum_perc_notes",
+    "description": "Linear full groove A embedded at 144 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos/percussion_only_hook_A_8bar_144.mid",
+    "bars": 8,
+    "bpm": 144,
+    "type": "drum_perc_notes",
+    "description": "Percussion-only hook A embedded at 144 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos/peak_linear_tool_A_8bar_144.mid",
+    "bars": 8,
+    "bpm": 144,
+    "type": "drum_perc_notes",
+    "description": "Peak linear tool A embedded at 144 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos/top_percussion_drive_A_8bar_144.mid",
+    "bars": 8,
+    "bpm": 144,
+    "type": "drum_perc_notes",
+    "description": "Top/percussion drive A embedded at 144 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos/linear_kick_rail_A_8bar_144.mid",
+    "bars": 8,
+    "bpm": 144,
+    "type": "drum_perc_notes",
+    "description": "Linear kick rail A embedded at 144 BPM."
+  },
+  {
+    "file": "12_Drum_Percussion_CC_Macros/drum_perc_density_build_64bar_CC70_CC74_CC76.mid",
+    "bars": 64,
+    "bpm": 140,
+    "type": "cc_only",
+    "description": "Density/filter/drive build macro."
+  },
+  {
+    "file": "12_Drum_Percussion_CC_Macros/percussion_filter_orbit_64bar_CC74_CC71_CC75.mid",
+    "bars": 64,
+    "bpm": 140,
+    "type": "cc_only",
+    "description": "Percussion filter/resonance/shape orbit."
+  },
+  {
+    "file": "12_Drum_Percussion_CC_Macros/drum_decay_drive_64bar_CC73_CC76_CC72.mid",
+    "bars": 64,
+    "bpm": 140,
+    "type": "cc_only",
+    "description": "Decay/drive/release macro."
+  },
+  {
+    "file": "12_Drum_Percussion_CC_Macros/perc_space_sends_64bar_CC91_CC93_CC74.mid",
+    "bars": 64,
+    "bpm": 140,
+    "type": "cc_only",
+    "description": "Space sends/filter macro."
+  },
+  {
+    "file": "12_Drum_Percussion_CC_Macros/linear_groove_strip_64bar_CC74_CC73_CC70.mid",
+    "bars": 64,
+    "bpm": 140,
+    "type": "cc_only",
+    "description": "Strip/mixout macro."
+  },
+  {
+    "file": "12_Drum_Percussion_CC_Macros/drum_perc_density_fast_32bar_CC70_CC74_CC76.mid",
+    "bars": 32,
+    "bpm": 140,
+    "type": "cc_only",
+    "description": "32-bar density build."
+  },
+  {
+    "file": "12_Drum_Percussion_CC_Macros/percussion_filter_fast_32bar_CC74_CC71_CC75.mid",
+    "bars": 32,
+    "bpm": 140,
+    "type": "cc_only",
+    "description": "32-bar filter orbit."
+  },
+  {
+    "file": "12_Drum_Percussion_CC_Macros/linear_groove_strip_fast_32bar_CC74_CC73_CC70.mid",
+    "bars": 32,
+    "bpm": 140,
+    "type": "cc_only",
+    "description": "32-bar strip macro."
+  }
+]

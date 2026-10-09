@@ -1,0 +1,191 @@
+[
+  {
+    "file": "01_LaReal_Counterbalance/drums_lareal_loop_A_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - LaReal A",
+    "description": "Straight 4x4, sparse industrial snare, offbeat open hats and machine-like closed-hat layer."
+  },
+  {
+    "file": "01_LaReal_Counterbalance/drums_lareal_loop_B_ghosts_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - LaReal B Ghosts",
+    "description": "LaReal-style straight loop with ghost kick/rumble triggers and 5-step metallic displacement."
+  },
+  {
+    "file": "01_LaReal_Counterbalance/hats_lareal_cutting_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - Cutting Hats",
+    "description": "Offbeat hats plus irregular closed-hat accents for pressure without melody."
+  },
+  {
+    "file": "01_LaReal_Counterbalance/perc_lareal_filtered_5step_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - Filtered 5-Step Perc",
+    "description": "Metallic 5-step pattern over 16-step grid; designed for filtering, delay and muting."
+  },
+  {
+    "file": "01_LaReal_Counterbalance/bass_lareal_rumble_trigger_F_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Bass - F Rumble Trigger",
+    "description": "Four F1 rumble/sub triggers per bar for a reverb/delay bass chain."
+  },
+  {
+    "file": "01_LaReal_Counterbalance/full_groove_lareal_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - LaReal Full, Bass - LaReal F/Gb",
+    "description": "8-bar full groove: straight pressure, sparse snare, metallic displacement and short F/Gb bass."
+  },
+  {
+    "file": "02_MidnightClub/drums_midnight_club_A_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - Midnight Club A",
+    "description": "Compact club loop with 4x4 kick, 2/4 snare, offbeat hats, dense closed-hat pressure."
+  },
+  {
+    "file": "02_MidnightClub/drums_midnight_club_B_sparse_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - Midnight Club B Sparse",
+    "description": "Sparser club loop: less obvious snare behavior, good for intro/bridge sections."
+  },
+  {
+    "file": "02_MidnightClub/hats_midnight_club_machine_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - Midnight Hats Machine",
+    "description": "Machine-hat pattern with uneven velocity accents and occasional ride/noise endpoint."
+  },
+  {
+    "file": "02_MidnightClub/bass_midnight_club_F_Gb_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Bass - Midnight F/Gb",
+    "description": "Short monophonic low line around F/Gb with occasional C2 tension note."
+  },
+  {
+    "file": "02_MidnightClub/full_groove_midnight_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - Midnight Full, Bass - Midnight F/Gb",
+    "description": "8-bar club pressure groove; use mutes and filter automation for movement."
+  },
+  {
+    "file": "03_BadHands/drums_bad_hands_break_A_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - Bad Hands Break A",
+    "description": "Broken industrial techno drum loop with non-standard kick placement and noisy hats."
+  },
+  {
+    "file": "03_BadHands/drums_bad_hands_break_B_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - Bad Hands Break B",
+    "description": "Broken/straight hybrid; useful for moving from 4x4 into pressure-break sections."
+  },
+  {
+    "file": "03_BadHands/perc_bad_hands_industrial_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - Bad Hands Industrial Perc",
+    "description": "Noisy/metallic percussion grid with 5-step and 7-step interference."
+  },
+  {
+    "file": "03_BadHands/bass_bad_hands_dark_F_Eb_Gb_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Bass - Bad Hands F/Eb/Gb",
+    "description": "Dark short-note bass around F, Eb and Gb; works with mono glide/distortion."
+  },
+  {
+    "file": "03_BadHands/full_groove_bad_hands_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - Bad Hands Full, Bass - Bad Hands F/Eb/Gb",
+    "description": "8-bar broken industrial groove: percussion interference, short dark bass, less predictable kick grid."
+  },
+  {
+    "file": "04_Fills/fill_hat_pressure_4bar_136.mid",
+    "bars": 4,
+    "bpm": 136,
+    "tracks": "Drum Rack - Hat Pressure Fill",
+    "description": "Four-bar hat pressure fill ending in a dense machine run."
+  },
+  {
+    "file": "04_Fills/fill_metallic_roll_4bar_136.mid",
+    "bars": 4,
+    "bpm": 136,
+    "tracks": "Drum Rack - Metallic Roll Fill",
+    "description": "Four-bar metallic displacement fill with final-bar roll."
+  },
+  {
+    "file": "04_Fills/fill_kick_drop_reentry_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - Kick Drop Reentry",
+    "description": "Eight-bar DJ-style drop/re-entry: kick disappears then returns with impact."
+  },
+  {
+    "file": "04_Fills/fill_bad_hands_breakdown_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - Bad Hands Breakdown Fill",
+    "description": "Broken industrial fill for tension/breakdown sections."
+  },
+  {
+    "file": "05_Arrangements/arrangement_64bar_counterbalance_style_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "tracks": "Drum Rack - Arrangement Drums, Drum Rack - Arrangement Perc, Bass - Arrangement F/Gb",
+    "description": "64-bar straight techno arrangement with long loop pressure, break and return."
+  },
+  {
+    "file": "05_Arrangements/arrangement_64bar_bad_hands_break_style_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "tracks": "Drum Rack - Broken Drums, Drum Rack - Industrial Perc, Bass - Dark F/Eb/Gb",
+    "description": "64-bar broken/industrial techno arrangement inspired by darker Dynamic Tension-type pressure."
+  },
+  {
+    "file": "05_Arrangements/arrangement_128bar_live_mutation_136.mid",
+    "bars": 128,
+    "bpm": 136,
+    "tracks": "Drum Rack - Live Mutation Drums, Drum Rack - Live Mutation Perc, Bass - Live Mutation Bass",
+    "description": "128-bar live-set style MIDI sketch built around mutes, density changes and slow mutation."
+  },
+  {
+    "file": "06_Bonus/modular_trigger_grid_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "tracks": "Drum Rack - Modular Trigger Grid",
+    "description": "Kick, ghost and polyrhythmic triggers for modular/sampler routing."
+  },
+  {
+    "file": "06_Bonus/polyrhythm_5step_vs_16_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - 5 Step vs 16",
+    "description": "Pure percussion interference: 5-step, 7-step and 13-step grids over 4/4."
+  },
+  {
+    "file": "06_Bonus/rumble_triggers_sparse_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Bass - Sparse Rumble Triggers",
+    "description": "Sparse rumble/sub trigger pattern intended for sidechained reverb or resonant low chain."
+  },
+  {
+    "file": "06_Bonus/top_loop_no_kick_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - Top Loop No Kick",
+    "description": "No-kick top loop: hats and filtered metal for layering over your own kick/bass."
+  }
+]

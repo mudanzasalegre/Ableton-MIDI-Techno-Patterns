@@ -1,0 +1,1458 @@
+[
+  {
+    "file": "01_Tunnel_Mono_Sequences/tunnel_mono_sequence_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Monophonic tunnel sequence variation 1."
+  },
+  {
+    "file": "01_Tunnel_Mono_Sequences/tunnel_mono_sequence_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended monophonic tunnel sequence variation 1."
+  },
+  {
+    "file": "01_Tunnel_Mono_Sequences/tunnel_mono_sequence_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Monophonic tunnel sequence variation 2."
+  },
+  {
+    "file": "01_Tunnel_Mono_Sequences/tunnel_mono_sequence_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended monophonic tunnel sequence variation 2."
+  },
+  {
+    "file": "01_Tunnel_Mono_Sequences/tunnel_mono_sequence_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Monophonic tunnel sequence variation 3."
+  },
+  {
+    "file": "01_Tunnel_Mono_Sequences/tunnel_mono_sequence_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended monophonic tunnel sequence variation 3."
+  },
+  {
+    "file": "01_Tunnel_Mono_Sequences/tunnel_mono_sequence_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Monophonic tunnel sequence variation 4."
+  },
+  {
+    "file": "01_Tunnel_Mono_Sequences/tunnel_mono_sequence_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended monophonic tunnel sequence variation 4."
+  },
+  {
+    "file": "01_Tunnel_Mono_Sequences/tunnel_mono_sequence_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Monophonic tunnel sequence variation 5."
+  },
+  {
+    "file": "01_Tunnel_Mono_Sequences/tunnel_mono_sequence_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended monophonic tunnel sequence variation 5."
+  },
+  {
+    "file": "01_Tunnel_Mono_Sequences/tunnel_mono_sequence_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Monophonic tunnel sequence variation 6."
+  },
+  {
+    "file": "01_Tunnel_Mono_Sequences/tunnel_mono_sequence_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended monophonic tunnel sequence variation 6."
+  },
+  {
+    "file": "01_Tunnel_Mono_Sequences/tunnel_mono_sequence_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Monophonic tunnel sequence variation 7."
+  },
+  {
+    "file": "01_Tunnel_Mono_Sequences/tunnel_mono_sequence_var_07_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended monophonic tunnel sequence variation 7."
+  },
+  {
+    "file": "01_Tunnel_Mono_Sequences/tunnel_mono_sequence_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Monophonic tunnel sequence variation 8."
+  },
+  {
+    "file": "01_Tunnel_Mono_Sequences/tunnel_mono_sequence_var_08_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended monophonic tunnel sequence variation 8."
+  },
+  {
+    "file": "01_Tunnel_Mono_Sequences/tunnel_mono_sequence_var_09_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Monophonic tunnel sequence variation 9."
+  },
+  {
+    "file": "01_Tunnel_Mono_Sequences/tunnel_mono_sequence_var_09_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended monophonic tunnel sequence variation 9."
+  },
+  {
+    "file": "01_Tunnel_Mono_Sequences/tunnel_mono_sequence_var_10_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Monophonic tunnel sequence variation 10."
+  },
+  {
+    "file": "01_Tunnel_Mono_Sequences/tunnel_mono_sequence_var_10_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended monophonic tunnel sequence variation 10."
+  },
+  {
+    "file": "01_Tunnel_Mono_Sequences/tunnel_mono_sequence_var_11_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Monophonic tunnel sequence variation 11."
+  },
+  {
+    "file": "01_Tunnel_Mono_Sequences/tunnel_mono_sequence_var_11_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended monophonic tunnel sequence variation 11."
+  },
+  {
+    "file": "01_Tunnel_Mono_Sequences/tunnel_mono_sequence_var_12_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Monophonic tunnel sequence variation 12."
+  },
+  {
+    "file": "01_Tunnel_Mono_Sequences/tunnel_mono_sequence_var_12_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended monophonic tunnel sequence variation 12."
+  },
+  {
+    "file": "02_Filtered_Stabs/filtered_stabs_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Filtered stab pattern variation 1."
+  },
+  {
+    "file": "02_Filtered_Stabs/filtered_stabs_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended filtered stab pattern variation 1."
+  },
+  {
+    "file": "02_Filtered_Stabs/filtered_stabs_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Filtered stab pattern variation 2."
+  },
+  {
+    "file": "02_Filtered_Stabs/filtered_stabs_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended filtered stab pattern variation 2."
+  },
+  {
+    "file": "02_Filtered_Stabs/filtered_stabs_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Filtered stab pattern variation 3."
+  },
+  {
+    "file": "02_Filtered_Stabs/filtered_stabs_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended filtered stab pattern variation 3."
+  },
+  {
+    "file": "02_Filtered_Stabs/filtered_stabs_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Filtered stab pattern variation 4."
+  },
+  {
+    "file": "02_Filtered_Stabs/filtered_stabs_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended filtered stab pattern variation 4."
+  },
+  {
+    "file": "02_Filtered_Stabs/filtered_stabs_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Filtered stab pattern variation 5."
+  },
+  {
+    "file": "02_Filtered_Stabs/filtered_stabs_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended filtered stab pattern variation 5."
+  },
+  {
+    "file": "02_Filtered_Stabs/filtered_stabs_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Filtered stab pattern variation 6."
+  },
+  {
+    "file": "02_Filtered_Stabs/filtered_stabs_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended filtered stab pattern variation 6."
+  },
+  {
+    "file": "02_Filtered_Stabs/filtered_stabs_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Filtered stab pattern variation 7."
+  },
+  {
+    "file": "02_Filtered_Stabs/filtered_stabs_var_07_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended filtered stab pattern variation 7."
+  },
+  {
+    "file": "02_Filtered_Stabs/filtered_stabs_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Filtered stab pattern variation 8."
+  },
+  {
+    "file": "02_Filtered_Stabs/filtered_stabs_var_08_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended filtered stab pattern variation 8."
+  },
+  {
+    "file": "02_Filtered_Stabs/filtered_stabs_var_09_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Filtered stab pattern variation 9."
+  },
+  {
+    "file": "02_Filtered_Stabs/filtered_stabs_var_09_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended filtered stab pattern variation 9."
+  },
+  {
+    "file": "02_Filtered_Stabs/filtered_stabs_var_10_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Filtered stab pattern variation 10."
+  },
+  {
+    "file": "02_Filtered_Stabs/filtered_stabs_var_10_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended filtered stab pattern variation 10."
+  },
+  {
+    "file": "02_Filtered_Stabs/filtered_stabs_var_11_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Filtered stab pattern variation 11."
+  },
+  {
+    "file": "02_Filtered_Stabs/filtered_stabs_var_11_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended filtered stab pattern variation 11."
+  },
+  {
+    "file": "02_Filtered_Stabs/filtered_stabs_var_12_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Filtered stab pattern variation 12."
+  },
+  {
+    "file": "02_Filtered_Stabs/filtered_stabs_var_12_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended filtered stab pattern variation 12."
+  },
+  {
+    "file": "03_Dark_Drones_Textures/dark_drone_texture_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Dark drone / texture variation 1."
+  },
+  {
+    "file": "03_Dark_Drones_Textures/dark_drone_texture_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended dark drone / texture variation 1."
+  },
+  {
+    "file": "03_Dark_Drones_Textures/dark_drone_texture_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Dark drone / texture variation 2."
+  },
+  {
+    "file": "03_Dark_Drones_Textures/dark_drone_texture_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended dark drone / texture variation 2."
+  },
+  {
+    "file": "03_Dark_Drones_Textures/dark_drone_texture_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Dark drone / texture variation 3."
+  },
+  {
+    "file": "03_Dark_Drones_Textures/dark_drone_texture_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended dark drone / texture variation 3."
+  },
+  {
+    "file": "03_Dark_Drones_Textures/dark_drone_texture_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Dark drone / texture variation 4."
+  },
+  {
+    "file": "03_Dark_Drones_Textures/dark_drone_texture_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended dark drone / texture variation 4."
+  },
+  {
+    "file": "03_Dark_Drones_Textures/dark_drone_texture_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Dark drone / texture variation 5."
+  },
+  {
+    "file": "03_Dark_Drones_Textures/dark_drone_texture_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended dark drone / texture variation 5."
+  },
+  {
+    "file": "03_Dark_Drones_Textures/dark_drone_texture_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Dark drone / texture variation 6."
+  },
+  {
+    "file": "03_Dark_Drones_Textures/dark_drone_texture_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended dark drone / texture variation 6."
+  },
+  {
+    "file": "03_Dark_Drones_Textures/dark_drone_texture_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Dark drone / texture variation 7."
+  },
+  {
+    "file": "03_Dark_Drones_Textures/dark_drone_texture_var_07_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended dark drone / texture variation 7."
+  },
+  {
+    "file": "03_Dark_Drones_Textures/dark_drone_texture_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Dark drone / texture variation 8."
+  },
+  {
+    "file": "03_Dark_Drones_Textures/dark_drone_texture_var_08_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended dark drone / texture variation 8."
+  },
+  {
+    "file": "03_Dark_Drones_Textures/dark_drone_texture_var_09_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Dark drone / texture variation 9."
+  },
+  {
+    "file": "03_Dark_Drones_Textures/dark_drone_texture_var_09_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended dark drone / texture variation 9."
+  },
+  {
+    "file": "03_Dark_Drones_Textures/dark_drone_texture_var_10_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Dark drone / texture variation 10."
+  },
+  {
+    "file": "03_Dark_Drones_Textures/dark_drone_texture_var_10_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended dark drone / texture variation 10."
+  },
+  {
+    "file": "03_Dark_Drones_Textures/dark_drone_texture_var_11_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Dark drone / texture variation 11."
+  },
+  {
+    "file": "03_Dark_Drones_Textures/dark_drone_texture_var_11_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended dark drone / texture variation 11."
+  },
+  {
+    "file": "03_Dark_Drones_Textures/dark_drone_texture_var_12_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Dark drone / texture variation 12."
+  },
+  {
+    "file": "03_Dark_Drones_Textures/dark_drone_texture_var_12_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended dark drone / texture variation 12."
+  },
+  {
+    "file": "04_Noise_FX_Triggers/noise_fx_trigger_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Noise/texture FX trigger variation 1."
+  },
+  {
+    "file": "04_Noise_FX_Triggers/noise_fx_trigger_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended noise/texture FX trigger variation 1."
+  },
+  {
+    "file": "04_Noise_FX_Triggers/noise_fx_trigger_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Noise/texture FX trigger variation 2."
+  },
+  {
+    "file": "04_Noise_FX_Triggers/noise_fx_trigger_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended noise/texture FX trigger variation 2."
+  },
+  {
+    "file": "04_Noise_FX_Triggers/noise_fx_trigger_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Noise/texture FX trigger variation 3."
+  },
+  {
+    "file": "04_Noise_FX_Triggers/noise_fx_trigger_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended noise/texture FX trigger variation 3."
+  },
+  {
+    "file": "04_Noise_FX_Triggers/noise_fx_trigger_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Noise/texture FX trigger variation 4."
+  },
+  {
+    "file": "04_Noise_FX_Triggers/noise_fx_trigger_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended noise/texture FX trigger variation 4."
+  },
+  {
+    "file": "04_Noise_FX_Triggers/noise_fx_trigger_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Noise/texture FX trigger variation 5."
+  },
+  {
+    "file": "04_Noise_FX_Triggers/noise_fx_trigger_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended noise/texture FX trigger variation 5."
+  },
+  {
+    "file": "04_Noise_FX_Triggers/noise_fx_trigger_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Noise/texture FX trigger variation 6."
+  },
+  {
+    "file": "04_Noise_FX_Triggers/noise_fx_trigger_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended noise/texture FX trigger variation 6."
+  },
+  {
+    "file": "04_Noise_FX_Triggers/noise_fx_trigger_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Noise/texture FX trigger variation 7."
+  },
+  {
+    "file": "04_Noise_FX_Triggers/noise_fx_trigger_var_07_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended noise/texture FX trigger variation 7."
+  },
+  {
+    "file": "04_Noise_FX_Triggers/noise_fx_trigger_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Noise/texture FX trigger variation 8."
+  },
+  {
+    "file": "04_Noise_FX_Triggers/noise_fx_trigger_var_08_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended noise/texture FX trigger variation 8."
+  },
+  {
+    "file": "04_Noise_FX_Triggers/noise_fx_trigger_var_09_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Noise/texture FX trigger variation 9."
+  },
+  {
+    "file": "04_Noise_FX_Triggers/noise_fx_trigger_var_09_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended noise/texture FX trigger variation 9."
+  },
+  {
+    "file": "04_Noise_FX_Triggers/noise_fx_trigger_var_10_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Noise/texture FX trigger variation 10."
+  },
+  {
+    "file": "04_Noise_FX_Triggers/noise_fx_trigger_var_10_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended noise/texture FX trigger variation 10."
+  },
+  {
+    "file": "04_Noise_FX_Triggers/noise_fx_trigger_var_11_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Noise/texture FX trigger variation 11."
+  },
+  {
+    "file": "04_Noise_FX_Triggers/noise_fx_trigger_var_11_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended noise/texture FX trigger variation 11."
+  },
+  {
+    "file": "04_Noise_FX_Triggers/noise_fx_trigger_var_12_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Noise/texture FX trigger variation 12."
+  },
+  {
+    "file": "04_Noise_FX_Triggers/noise_fx_trigger_var_12_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended noise/texture FX trigger variation 12."
+  },
+  {
+    "file": "05_FM_Zaps_And_Signals/fm_zaps_signals_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "FM zap/signal pattern variation 1."
+  },
+  {
+    "file": "05_FM_Zaps_And_Signals/fm_zaps_signals_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended FM zap/signal pattern variation 1."
+  },
+  {
+    "file": "05_FM_Zaps_And_Signals/fm_zaps_signals_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "FM zap/signal pattern variation 2."
+  },
+  {
+    "file": "05_FM_Zaps_And_Signals/fm_zaps_signals_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended FM zap/signal pattern variation 2."
+  },
+  {
+    "file": "05_FM_Zaps_And_Signals/fm_zaps_signals_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "FM zap/signal pattern variation 3."
+  },
+  {
+    "file": "05_FM_Zaps_And_Signals/fm_zaps_signals_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended FM zap/signal pattern variation 3."
+  },
+  {
+    "file": "05_FM_Zaps_And_Signals/fm_zaps_signals_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "FM zap/signal pattern variation 4."
+  },
+  {
+    "file": "05_FM_Zaps_And_Signals/fm_zaps_signals_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended FM zap/signal pattern variation 4."
+  },
+  {
+    "file": "05_FM_Zaps_And_Signals/fm_zaps_signals_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "FM zap/signal pattern variation 5."
+  },
+  {
+    "file": "05_FM_Zaps_And_Signals/fm_zaps_signals_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended FM zap/signal pattern variation 5."
+  },
+  {
+    "file": "05_FM_Zaps_And_Signals/fm_zaps_signals_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "FM zap/signal pattern variation 6."
+  },
+  {
+    "file": "05_FM_Zaps_And_Signals/fm_zaps_signals_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended FM zap/signal pattern variation 6."
+  },
+  {
+    "file": "05_FM_Zaps_And_Signals/fm_zaps_signals_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "FM zap/signal pattern variation 7."
+  },
+  {
+    "file": "05_FM_Zaps_And_Signals/fm_zaps_signals_var_07_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended FM zap/signal pattern variation 7."
+  },
+  {
+    "file": "05_FM_Zaps_And_Signals/fm_zaps_signals_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "FM zap/signal pattern variation 8."
+  },
+  {
+    "file": "05_FM_Zaps_And_Signals/fm_zaps_signals_var_08_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended FM zap/signal pattern variation 8."
+  },
+  {
+    "file": "05_FM_Zaps_And_Signals/fm_zaps_signals_var_09_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "FM zap/signal pattern variation 9."
+  },
+  {
+    "file": "05_FM_Zaps_And_Signals/fm_zaps_signals_var_09_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended FM zap/signal pattern variation 9."
+  },
+  {
+    "file": "05_FM_Zaps_And_Signals/fm_zaps_signals_var_10_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "FM zap/signal pattern variation 10."
+  },
+  {
+    "file": "05_FM_Zaps_And_Signals/fm_zaps_signals_var_10_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended FM zap/signal pattern variation 10."
+  },
+  {
+    "file": "06_Hypnotic_Two_Note_Cells/two_note_cell_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Hypnotic two-note cell variation 1."
+  },
+  {
+    "file": "06_Hypnotic_Two_Note_Cells/two_note_cell_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended hypnotic two-note cell variation 1."
+  },
+  {
+    "file": "06_Hypnotic_Two_Note_Cells/two_note_cell_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Hypnotic two-note cell variation 2."
+  },
+  {
+    "file": "06_Hypnotic_Two_Note_Cells/two_note_cell_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended hypnotic two-note cell variation 2."
+  },
+  {
+    "file": "06_Hypnotic_Two_Note_Cells/two_note_cell_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Hypnotic two-note cell variation 3."
+  },
+  {
+    "file": "06_Hypnotic_Two_Note_Cells/two_note_cell_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended hypnotic two-note cell variation 3."
+  },
+  {
+    "file": "06_Hypnotic_Two_Note_Cells/two_note_cell_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Hypnotic two-note cell variation 4."
+  },
+  {
+    "file": "06_Hypnotic_Two_Note_Cells/two_note_cell_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended hypnotic two-note cell variation 4."
+  },
+  {
+    "file": "06_Hypnotic_Two_Note_Cells/two_note_cell_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Hypnotic two-note cell variation 5."
+  },
+  {
+    "file": "06_Hypnotic_Two_Note_Cells/two_note_cell_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended hypnotic two-note cell variation 5."
+  },
+  {
+    "file": "06_Hypnotic_Two_Note_Cells/two_note_cell_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Hypnotic two-note cell variation 6."
+  },
+  {
+    "file": "06_Hypnotic_Two_Note_Cells/two_note_cell_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended hypnotic two-note cell variation 6."
+  },
+  {
+    "file": "06_Hypnotic_Two_Note_Cells/two_note_cell_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Hypnotic two-note cell variation 7."
+  },
+  {
+    "file": "06_Hypnotic_Two_Note_Cells/two_note_cell_var_07_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended hypnotic two-note cell variation 7."
+  },
+  {
+    "file": "06_Hypnotic_Two_Note_Cells/two_note_cell_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Hypnotic two-note cell variation 8."
+  },
+  {
+    "file": "06_Hypnotic_Two_Note_Cells/two_note_cell_var_08_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended hypnotic two-note cell variation 8."
+  },
+  {
+    "file": "06_Hypnotic_Two_Note_Cells/two_note_cell_var_09_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Hypnotic two-note cell variation 9."
+  },
+  {
+    "file": "06_Hypnotic_Two_Note_Cells/two_note_cell_var_09_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended hypnotic two-note cell variation 9."
+  },
+  {
+    "file": "06_Hypnotic_Two_Note_Cells/two_note_cell_var_10_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Hypnotic two-note cell variation 10."
+  },
+  {
+    "file": "06_Hypnotic_Two_Note_Cells/two_note_cell_var_10_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended hypnotic two-note cell variation 10."
+  },
+  {
+    "file": "06_Hypnotic_Two_Note_Cells/two_note_cell_var_11_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Hypnotic two-note cell variation 11."
+  },
+  {
+    "file": "06_Hypnotic_Two_Note_Cells/two_note_cell_var_11_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended hypnotic two-note cell variation 11."
+  },
+  {
+    "file": "06_Hypnotic_Two_Note_Cells/two_note_cell_var_12_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Hypnotic two-note cell variation 12."
+  },
+  {
+    "file": "06_Hypnotic_Two_Note_Cells/two_note_cell_var_12_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended hypnotic two-note cell variation 12."
+  },
+  {
+    "file": "07_Polymetric_Synth_Pulses/polymetric_synth_pulse_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Polymetric synth pulse variation 1."
+  },
+  {
+    "file": "07_Polymetric_Synth_Pulses/polymetric_synth_pulse_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended polymetric synth pulse variation 1."
+  },
+  {
+    "file": "07_Polymetric_Synth_Pulses/polymetric_synth_pulse_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Polymetric synth pulse variation 2."
+  },
+  {
+    "file": "07_Polymetric_Synth_Pulses/polymetric_synth_pulse_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended polymetric synth pulse variation 2."
+  },
+  {
+    "file": "07_Polymetric_Synth_Pulses/polymetric_synth_pulse_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Polymetric synth pulse variation 3."
+  },
+  {
+    "file": "07_Polymetric_Synth_Pulses/polymetric_synth_pulse_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended polymetric synth pulse variation 3."
+  },
+  {
+    "file": "07_Polymetric_Synth_Pulses/polymetric_synth_pulse_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Polymetric synth pulse variation 4."
+  },
+  {
+    "file": "07_Polymetric_Synth_Pulses/polymetric_synth_pulse_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended polymetric synth pulse variation 4."
+  },
+  {
+    "file": "07_Polymetric_Synth_Pulses/polymetric_synth_pulse_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Polymetric synth pulse variation 5."
+  },
+  {
+    "file": "07_Polymetric_Synth_Pulses/polymetric_synth_pulse_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended polymetric synth pulse variation 5."
+  },
+  {
+    "file": "07_Polymetric_Synth_Pulses/polymetric_synth_pulse_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Polymetric synth pulse variation 6."
+  },
+  {
+    "file": "07_Polymetric_Synth_Pulses/polymetric_synth_pulse_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended polymetric synth pulse variation 6."
+  },
+  {
+    "file": "07_Polymetric_Synth_Pulses/polymetric_synth_pulse_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Polymetric synth pulse variation 7."
+  },
+  {
+    "file": "07_Polymetric_Synth_Pulses/polymetric_synth_pulse_var_07_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended polymetric synth pulse variation 7."
+  },
+  {
+    "file": "07_Polymetric_Synth_Pulses/polymetric_synth_pulse_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Polymetric synth pulse variation 8."
+  },
+  {
+    "file": "07_Polymetric_Synth_Pulses/polymetric_synth_pulse_var_08_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended polymetric synth pulse variation 8."
+  },
+  {
+    "file": "07_Polymetric_Synth_Pulses/polymetric_synth_pulse_var_09_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Polymetric synth pulse variation 9."
+  },
+  {
+    "file": "07_Polymetric_Synth_Pulses/polymetric_synth_pulse_var_09_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended polymetric synth pulse variation 9."
+  },
+  {
+    "file": "07_Polymetric_Synth_Pulses/polymetric_synth_pulse_var_10_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "Polymetric synth pulse variation 10."
+  },
+  {
+    "file": "07_Polymetric_Synth_Pulses/polymetric_synth_pulse_var_10_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended polymetric synth pulse variation 10."
+  },
+  {
+    "file": "08_Break_Interlude_Textures/break_interlude_texture_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "No-kick/break mental texture variation 1."
+  },
+  {
+    "file": "08_Break_Interlude_Textures/break_interlude_texture_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "No-kick/break mental texture variation 2."
+  },
+  {
+    "file": "08_Break_Interlude_Textures/break_interlude_texture_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "No-kick/break mental texture variation 3."
+  },
+  {
+    "file": "08_Break_Interlude_Textures/break_interlude_texture_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "No-kick/break mental texture variation 4."
+  },
+  {
+    "file": "08_Break_Interlude_Textures/break_interlude_texture_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "No-kick/break mental texture variation 5."
+  },
+  {
+    "file": "08_Break_Interlude_Textures/break_interlude_texture_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "No-kick/break mental texture variation 6."
+  },
+  {
+    "file": "08_Break_Interlude_Textures/break_interlude_texture_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "No-kick/break mental texture variation 7."
+  },
+  {
+    "file": "08_Break_Interlude_Textures/break_interlude_texture_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "note",
+    "description": "No-kick/break mental texture variation 8."
+  },
+  {
+    "file": "08_Break_Interlude_Textures/break_interlude_texture_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended no-kick/break mental texture variation 1."
+  },
+  {
+    "file": "08_Break_Interlude_Textures/break_interlude_texture_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended no-kick/break mental texture variation 2."
+  },
+  {
+    "file": "08_Break_Interlude_Textures/break_interlude_texture_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended no-kick/break mental texture variation 3."
+  },
+  {
+    "file": "08_Break_Interlude_Textures/break_interlude_texture_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "note",
+    "description": "Extended no-kick/break mental texture variation 4."
+  },
+  {
+    "file": "09_Synth_Texture_Arrangements/synth_texture_arrangement_64bar_style_01_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "note",
+    "description": "64-bar mental synth/texture arrangement style 1."
+  },
+  {
+    "file": "09_Synth_Texture_Arrangements/synth_texture_arrangement_64bar_style_02_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "note",
+    "description": "64-bar mental synth/texture arrangement style 2."
+  },
+  {
+    "file": "09_Synth_Texture_Arrangements/synth_texture_arrangement_64bar_style_03_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "note",
+    "description": "64-bar mental synth/texture arrangement style 3."
+  },
+  {
+    "file": "09_Synth_Texture_Arrangements/synth_texture_arrangement_64bar_style_04_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "note",
+    "description": "64-bar mental synth/texture arrangement style 4."
+  },
+  {
+    "file": "09_Synth_Texture_Arrangements/synth_texture_arrangement_64bar_style_05_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "note",
+    "description": "64-bar mental synth/texture arrangement style 5."
+  },
+  {
+    "file": "09_Synth_Texture_Arrangements/synth_texture_arrangement_64bar_style_06_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "note",
+    "description": "64-bar mental synth/texture arrangement style 6."
+  },
+  {
+    "file": "09_Synth_Texture_Arrangements/synth_texture_arrangement_64bar_style_07_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "note",
+    "description": "64-bar mental synth/texture arrangement style 7."
+  },
+  {
+    "file": "09_Synth_Texture_Arrangements/synth_texture_arrangement_64bar_style_08_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "note",
+    "description": "64-bar mental synth/texture arrangement style 8."
+  },
+  {
+    "file": "09_Synth_Texture_Arrangements/synth_texture_arrangement_128bar_dark_tunnel_01_136.mid",
+    "bars": 128,
+    "bpm": 136,
+    "type": "note",
+    "description": "128-bar dark tunnel synth/texture arrangement 1."
+  },
+  {
+    "file": "09_Synth_Texture_Arrangements/synth_texture_arrangement_128bar_dark_tunnel_02_136.mid",
+    "bars": 128,
+    "bpm": 136,
+    "type": "note",
+    "description": "128-bar dark tunnel synth/texture arrangement 2."
+  },
+  {
+    "file": "10_Alt_Tempos/tunnel_mono_A_8bar_132.mid",
+    "bars": 8,
+    "bpm": 132,
+    "type": "note",
+    "description": "Tunnel mono sequence A embedded at 132 BPM."
+  },
+  {
+    "file": "10_Alt_Tempos/filtered_stabs_A_8bar_132.mid",
+    "bars": 8,
+    "bpm": 132,
+    "type": "note",
+    "description": "Filtered stabs A embedded at 132 BPM."
+  },
+  {
+    "file": "10_Alt_Tempos/dark_drone_A_8bar_132.mid",
+    "bars": 8,
+    "bpm": 132,
+    "type": "note",
+    "description": "Dark drone A embedded at 132 BPM."
+  },
+  {
+    "file": "10_Alt_Tempos/fm_zaps_A_8bar_132.mid",
+    "bars": 8,
+    "bpm": 132,
+    "type": "note",
+    "description": "FM zaps A embedded at 132 BPM."
+  },
+  {
+    "file": "10_Alt_Tempos/two_note_cell_A_8bar_132.mid",
+    "bars": 8,
+    "bpm": 132,
+    "type": "note",
+    "description": "Two-note cell A embedded at 132 BPM."
+  },
+  {
+    "file": "10_Alt_Tempos/tunnel_mono_A_8bar_134.mid",
+    "bars": 8,
+    "bpm": 134,
+    "type": "note",
+    "description": "Tunnel mono sequence A embedded at 134 BPM."
+  },
+  {
+    "file": "10_Alt_Tempos/filtered_stabs_A_8bar_134.mid",
+    "bars": 8,
+    "bpm": 134,
+    "type": "note",
+    "description": "Filtered stabs A embedded at 134 BPM."
+  },
+  {
+    "file": "10_Alt_Tempos/dark_drone_A_8bar_134.mid",
+    "bars": 8,
+    "bpm": 134,
+    "type": "note",
+    "description": "Dark drone A embedded at 134 BPM."
+  },
+  {
+    "file": "10_Alt_Tempos/fm_zaps_A_8bar_134.mid",
+    "bars": 8,
+    "bpm": 134,
+    "type": "note",
+    "description": "FM zaps A embedded at 134 BPM."
+  },
+  {
+    "file": "10_Alt_Tempos/two_note_cell_A_8bar_134.mid",
+    "bars": 8,
+    "bpm": 134,
+    "type": "note",
+    "description": "Two-note cell A embedded at 134 BPM."
+  },
+  {
+    "file": "10_Alt_Tempos/tunnel_mono_A_8bar_138.mid",
+    "bars": 8,
+    "bpm": 138,
+    "type": "note",
+    "description": "Tunnel mono sequence A embedded at 138 BPM."
+  },
+  {
+    "file": "10_Alt_Tempos/filtered_stabs_A_8bar_138.mid",
+    "bars": 8,
+    "bpm": 138,
+    "type": "note",
+    "description": "Filtered stabs A embedded at 138 BPM."
+  },
+  {
+    "file": "10_Alt_Tempos/dark_drone_A_8bar_138.mid",
+    "bars": 8,
+    "bpm": 138,
+    "type": "note",
+    "description": "Dark drone A embedded at 138 BPM."
+  },
+  {
+    "file": "10_Alt_Tempos/fm_zaps_A_8bar_138.mid",
+    "bars": 8,
+    "bpm": 138,
+    "type": "note",
+    "description": "FM zaps A embedded at 138 BPM."
+  },
+  {
+    "file": "10_Alt_Tempos/two_note_cell_A_8bar_138.mid",
+    "bars": 8,
+    "bpm": 138,
+    "type": "note",
+    "description": "Two-note cell A embedded at 138 BPM."
+  },
+  {
+    "file": "10_Alt_Tempos/tunnel_mono_A_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "note",
+    "description": "Tunnel mono sequence A embedded at 140 BPM."
+  },
+  {
+    "file": "10_Alt_Tempos/filtered_stabs_A_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "note",
+    "description": "Filtered stabs A embedded at 140 BPM."
+  },
+  {
+    "file": "10_Alt_Tempos/dark_drone_A_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "note",
+    "description": "Dark drone A embedded at 140 BPM."
+  },
+  {
+    "file": "10_Alt_Tempos/fm_zaps_A_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "note",
+    "description": "FM zaps A embedded at 140 BPM."
+  },
+  {
+    "file": "10_Alt_Tempos/two_note_cell_A_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "note",
+    "description": "Two-note cell A embedded at 140 BPM."
+  },
+  {
+    "file": "11_Synth_Texture_CC_Macros/filter_resonance_64bar_CC74_CC71.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "cc_only",
+    "description": "CC74 filter/brightness and CC71 resonance."
+  },
+  {
+    "file": "11_Synth_Texture_CC_Macros/drive_decay_64bar_CC76_CC73.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "cc_only",
+    "description": "CC76 drive/saturation and CC73 decay."
+  },
+  {
+    "file": "11_Synth_Texture_CC_Macros/space_sends_64bar_CC91_CC93.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "cc_only",
+    "description": "CC91 reverb send and CC93 delay/mod send."
+  },
+  {
+    "file": "11_Synth_Texture_CC_Macros/shape_release_64bar_CC75_CC72.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "cc_only",
+    "description": "CC75 shape/contour and CC72 release."
+  },
+  {
+    "file": "11_Synth_Texture_CC_Macros/texture_noise_motion_64bar_CC70_CC77.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "cc_only",
+    "description": "CC70 texture amount and CC77 noise/attack macro."
+  },
+  {
+    "file": "11_Synth_Texture_CC_Macros/combined_tunnel_motion_64bar_CC74_CC76_CC91.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "cc_only",
+    "description": "Combined filter, drive and space motion."
+  }
+]

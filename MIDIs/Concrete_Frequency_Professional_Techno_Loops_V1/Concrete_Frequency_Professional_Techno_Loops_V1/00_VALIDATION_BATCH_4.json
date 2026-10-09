@@ -1,0 +1,12 @@
+{
+  "batch": 4,
+  "count": 1950,
+  "midi_note_ons": 151860,
+  "multitrack": 250,
+  "cc_only": 100,
+  "durations_ticks": {
+    "15360": 1900,
+    "30720": 50
+  },
+  "errors": []
+}

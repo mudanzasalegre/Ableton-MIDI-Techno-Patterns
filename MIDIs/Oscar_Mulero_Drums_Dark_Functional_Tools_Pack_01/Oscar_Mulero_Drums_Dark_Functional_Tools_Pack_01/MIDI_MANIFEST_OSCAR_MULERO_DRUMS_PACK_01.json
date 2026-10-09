@@ -1,0 +1,1311 @@
+[
+  {
+    "file": "01_Kick_Engines/kick_engine_dark_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dark kick/ghost/sub-pulse engine variation 1."
+  },
+  {
+    "file": "01_Kick_Engines/kick_engine_dark_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dark kick/ghost/sub-pulse engine variation 1."
+  },
+  {
+    "file": "01_Kick_Engines/kick_engine_dark_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dark kick/ghost/sub-pulse engine variation 2."
+  },
+  {
+    "file": "01_Kick_Engines/kick_engine_dark_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dark kick/ghost/sub-pulse engine variation 2."
+  },
+  {
+    "file": "01_Kick_Engines/kick_engine_dark_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dark kick/ghost/sub-pulse engine variation 3."
+  },
+  {
+    "file": "01_Kick_Engines/kick_engine_dark_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dark kick/ghost/sub-pulse engine variation 3."
+  },
+  {
+    "file": "01_Kick_Engines/kick_engine_dark_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dark kick/ghost/sub-pulse engine variation 4."
+  },
+  {
+    "file": "01_Kick_Engines/kick_engine_dark_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dark kick/ghost/sub-pulse engine variation 4."
+  },
+  {
+    "file": "01_Kick_Engines/kick_engine_dark_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dark kick/ghost/sub-pulse engine variation 5."
+  },
+  {
+    "file": "01_Kick_Engines/kick_engine_dark_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dark kick/ghost/sub-pulse engine variation 5."
+  },
+  {
+    "file": "01_Kick_Engines/kick_engine_dark_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dark kick/ghost/sub-pulse engine variation 6."
+  },
+  {
+    "file": "01_Kick_Engines/kick_engine_dark_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dark kick/ghost/sub-pulse engine variation 6."
+  },
+  {
+    "file": "01_Kick_Engines/kick_engine_dark_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dark kick/ghost/sub-pulse engine variation 7."
+  },
+  {
+    "file": "01_Kick_Engines/kick_engine_dark_var_07_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dark kick/ghost/sub-pulse engine variation 7."
+  },
+  {
+    "file": "01_Kick_Engines/kick_engine_dark_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dark kick/ghost/sub-pulse engine variation 8."
+  },
+  {
+    "file": "01_Kick_Engines/kick_engine_dark_var_08_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dark kick/ghost/sub-pulse engine variation 8."
+  },
+  {
+    "file": "01_Kick_Engines/kick_engine_dark_var_09_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dark kick/ghost/sub-pulse engine variation 9."
+  },
+  {
+    "file": "01_Kick_Engines/kick_engine_dark_var_09_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dark kick/ghost/sub-pulse engine variation 9."
+  },
+  {
+    "file": "01_Kick_Engines/kick_engine_dark_var_10_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dark kick/ghost/sub-pulse engine variation 10."
+  },
+  {
+    "file": "01_Kick_Engines/kick_engine_dark_var_10_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dark kick/ghost/sub-pulse engine variation 10."
+  },
+  {
+    "file": "02_Dark_4x4_Grooves/dark_4x4_groove_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dark functional 4x4 groove variation 1."
+  },
+  {
+    "file": "02_Dark_4x4_Grooves/dark_4x4_groove_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dark functional 4x4 groove variation 1."
+  },
+  {
+    "file": "02_Dark_4x4_Grooves/dark_4x4_groove_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dark functional 4x4 groove variation 2."
+  },
+  {
+    "file": "02_Dark_4x4_Grooves/dark_4x4_groove_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dark functional 4x4 groove variation 2."
+  },
+  {
+    "file": "02_Dark_4x4_Grooves/dark_4x4_groove_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dark functional 4x4 groove variation 3."
+  },
+  {
+    "file": "02_Dark_4x4_Grooves/dark_4x4_groove_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dark functional 4x4 groove variation 3."
+  },
+  {
+    "file": "02_Dark_4x4_Grooves/dark_4x4_groove_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dark functional 4x4 groove variation 4."
+  },
+  {
+    "file": "02_Dark_4x4_Grooves/dark_4x4_groove_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dark functional 4x4 groove variation 4."
+  },
+  {
+    "file": "02_Dark_4x4_Grooves/dark_4x4_groove_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dark functional 4x4 groove variation 5."
+  },
+  {
+    "file": "02_Dark_4x4_Grooves/dark_4x4_groove_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dark functional 4x4 groove variation 5."
+  },
+  {
+    "file": "02_Dark_4x4_Grooves/dark_4x4_groove_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dark functional 4x4 groove variation 6."
+  },
+  {
+    "file": "02_Dark_4x4_Grooves/dark_4x4_groove_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dark functional 4x4 groove variation 6."
+  },
+  {
+    "file": "02_Dark_4x4_Grooves/dark_4x4_groove_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dark functional 4x4 groove variation 7."
+  },
+  {
+    "file": "02_Dark_4x4_Grooves/dark_4x4_groove_var_07_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dark functional 4x4 groove variation 7."
+  },
+  {
+    "file": "02_Dark_4x4_Grooves/dark_4x4_groove_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dark functional 4x4 groove variation 8."
+  },
+  {
+    "file": "02_Dark_4x4_Grooves/dark_4x4_groove_var_08_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dark functional 4x4 groove variation 8."
+  },
+  {
+    "file": "02_Dark_4x4_Grooves/dark_4x4_groove_var_09_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dark functional 4x4 groove variation 9."
+  },
+  {
+    "file": "02_Dark_4x4_Grooves/dark_4x4_groove_var_09_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dark functional 4x4 groove variation 9."
+  },
+  {
+    "file": "02_Dark_4x4_Grooves/dark_4x4_groove_var_10_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dark functional 4x4 groove variation 10."
+  },
+  {
+    "file": "02_Dark_4x4_Grooves/dark_4x4_groove_var_10_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dark functional 4x4 groove variation 10."
+  },
+  {
+    "file": "02_Dark_4x4_Grooves/dark_4x4_groove_var_11_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dark functional 4x4 groove variation 11."
+  },
+  {
+    "file": "02_Dark_4x4_Grooves/dark_4x4_groove_var_11_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dark functional 4x4 groove variation 11."
+  },
+  {
+    "file": "02_Dark_4x4_Grooves/dark_4x4_groove_var_12_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dark functional 4x4 groove variation 12."
+  },
+  {
+    "file": "02_Dark_4x4_Grooves/dark_4x4_groove_var_12_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dark functional 4x4 groove variation 12."
+  },
+  {
+    "file": "03_Hypnotic_Top_Loops/cold_hat_layer_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Cold hats-only layer variation 1."
+  },
+  {
+    "file": "03_Hypnotic_Top_Loops/hypnotic_top_loop_no_kick_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Hypnotic no-kick top loop variation 1."
+  },
+  {
+    "file": "03_Hypnotic_Top_Loops/cold_hat_layer_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Cold hats-only layer variation 2."
+  },
+  {
+    "file": "03_Hypnotic_Top_Loops/hypnotic_top_loop_no_kick_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Hypnotic no-kick top loop variation 2."
+  },
+  {
+    "file": "03_Hypnotic_Top_Loops/cold_hat_layer_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Cold hats-only layer variation 3."
+  },
+  {
+    "file": "03_Hypnotic_Top_Loops/hypnotic_top_loop_no_kick_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Hypnotic no-kick top loop variation 3."
+  },
+  {
+    "file": "03_Hypnotic_Top_Loops/cold_hat_layer_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Cold hats-only layer variation 4."
+  },
+  {
+    "file": "03_Hypnotic_Top_Loops/hypnotic_top_loop_no_kick_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Hypnotic no-kick top loop variation 4."
+  },
+  {
+    "file": "03_Hypnotic_Top_Loops/cold_hat_layer_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Cold hats-only layer variation 5."
+  },
+  {
+    "file": "03_Hypnotic_Top_Loops/hypnotic_top_loop_no_kick_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Hypnotic no-kick top loop variation 5."
+  },
+  {
+    "file": "03_Hypnotic_Top_Loops/cold_hat_layer_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Cold hats-only layer variation 6."
+  },
+  {
+    "file": "03_Hypnotic_Top_Loops/hypnotic_top_loop_no_kick_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Hypnotic no-kick top loop variation 6."
+  },
+  {
+    "file": "03_Hypnotic_Top_Loops/cold_hat_layer_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Cold hats-only layer variation 7."
+  },
+  {
+    "file": "03_Hypnotic_Top_Loops/hypnotic_top_loop_no_kick_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Hypnotic no-kick top loop variation 7."
+  },
+  {
+    "file": "03_Hypnotic_Top_Loops/cold_hat_layer_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Cold hats-only layer variation 8."
+  },
+  {
+    "file": "03_Hypnotic_Top_Loops/hypnotic_top_loop_no_kick_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Hypnotic no-kick top loop variation 8."
+  },
+  {
+    "file": "03_Hypnotic_Top_Loops/cold_hat_layer_var_09_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Cold hats-only layer variation 9."
+  },
+  {
+    "file": "03_Hypnotic_Top_Loops/hypnotic_top_loop_no_kick_var_09_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Hypnotic no-kick top loop variation 9."
+  },
+  {
+    "file": "03_Hypnotic_Top_Loops/cold_hat_layer_var_10_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Cold hats-only layer variation 10."
+  },
+  {
+    "file": "03_Hypnotic_Top_Loops/hypnotic_top_loop_no_kick_var_10_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Hypnotic no-kick top loop variation 10."
+  },
+  {
+    "file": "03_Hypnotic_Top_Loops/cold_hat_layer_var_11_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Cold hats-only layer variation 11."
+  },
+  {
+    "file": "03_Hypnotic_Top_Loops/hypnotic_top_loop_no_kick_var_11_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Hypnotic no-kick top loop variation 11."
+  },
+  {
+    "file": "03_Hypnotic_Top_Loops/cold_hat_layer_var_12_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Cold hats-only layer variation 12."
+  },
+  {
+    "file": "03_Hypnotic_Top_Loops/hypnotic_top_loop_no_kick_var_12_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Hypnotic no-kick top loop variation 12."
+  },
+  {
+    "file": "04_Metallic_Percussion/metallic_perc_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Metallic/mineral percussion grid variation 1."
+  },
+  {
+    "file": "04_Metallic_Percussion/metallic_perc_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended metallic/mineral percussion grid variation 1."
+  },
+  {
+    "file": "04_Metallic_Percussion/metallic_perc_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Metallic/mineral percussion grid variation 2."
+  },
+  {
+    "file": "04_Metallic_Percussion/metallic_perc_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended metallic/mineral percussion grid variation 2."
+  },
+  {
+    "file": "04_Metallic_Percussion/metallic_perc_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Metallic/mineral percussion grid variation 3."
+  },
+  {
+    "file": "04_Metallic_Percussion/metallic_perc_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended metallic/mineral percussion grid variation 3."
+  },
+  {
+    "file": "04_Metallic_Percussion/metallic_perc_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Metallic/mineral percussion grid variation 4."
+  },
+  {
+    "file": "04_Metallic_Percussion/metallic_perc_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended metallic/mineral percussion grid variation 4."
+  },
+  {
+    "file": "04_Metallic_Percussion/metallic_perc_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Metallic/mineral percussion grid variation 5."
+  },
+  {
+    "file": "04_Metallic_Percussion/metallic_perc_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended metallic/mineral percussion grid variation 5."
+  },
+  {
+    "file": "04_Metallic_Percussion/metallic_perc_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Metallic/mineral percussion grid variation 6."
+  },
+  {
+    "file": "04_Metallic_Percussion/metallic_perc_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended metallic/mineral percussion grid variation 6."
+  },
+  {
+    "file": "04_Metallic_Percussion/metallic_perc_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Metallic/mineral percussion grid variation 7."
+  },
+  {
+    "file": "04_Metallic_Percussion/metallic_perc_var_07_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended metallic/mineral percussion grid variation 7."
+  },
+  {
+    "file": "04_Metallic_Percussion/metallic_perc_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Metallic/mineral percussion grid variation 8."
+  },
+  {
+    "file": "04_Metallic_Percussion/metallic_perc_var_08_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended metallic/mineral percussion grid variation 8."
+  },
+  {
+    "file": "04_Metallic_Percussion/metallic_perc_var_09_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Metallic/mineral percussion grid variation 9."
+  },
+  {
+    "file": "04_Metallic_Percussion/metallic_perc_var_09_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended metallic/mineral percussion grid variation 9."
+  },
+  {
+    "file": "04_Metallic_Percussion/metallic_perc_var_10_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Metallic/mineral percussion grid variation 10."
+  },
+  {
+    "file": "04_Metallic_Percussion/metallic_perc_var_10_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended metallic/mineral percussion grid variation 10."
+  },
+  {
+    "file": "04_Metallic_Percussion/metallic_perc_var_11_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Metallic/mineral percussion grid variation 11."
+  },
+  {
+    "file": "04_Metallic_Percussion/metallic_perc_var_11_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended metallic/mineral percussion grid variation 11."
+  },
+  {
+    "file": "04_Metallic_Percussion/metallic_perc_var_12_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Metallic/mineral percussion grid variation 12."
+  },
+  {
+    "file": "04_Metallic_Percussion/metallic_perc_var_12_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended metallic/mineral percussion grid variation 12."
+  },
+  {
+    "file": "05_Broken_Dark_Tools/broken_dark_tool_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Broken/off-kilter dark drum tool variation 1."
+  },
+  {
+    "file": "05_Broken_Dark_Tools/broken_dark_tool_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended broken/off-kilter dark drum tool variation 1."
+  },
+  {
+    "file": "05_Broken_Dark_Tools/broken_dark_tool_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Broken/off-kilter dark drum tool variation 2."
+  },
+  {
+    "file": "05_Broken_Dark_Tools/broken_dark_tool_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended broken/off-kilter dark drum tool variation 2."
+  },
+  {
+    "file": "05_Broken_Dark_Tools/broken_dark_tool_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Broken/off-kilter dark drum tool variation 3."
+  },
+  {
+    "file": "05_Broken_Dark_Tools/broken_dark_tool_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended broken/off-kilter dark drum tool variation 3."
+  },
+  {
+    "file": "05_Broken_Dark_Tools/broken_dark_tool_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Broken/off-kilter dark drum tool variation 4."
+  },
+  {
+    "file": "05_Broken_Dark_Tools/broken_dark_tool_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended broken/off-kilter dark drum tool variation 4."
+  },
+  {
+    "file": "05_Broken_Dark_Tools/broken_dark_tool_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Broken/off-kilter dark drum tool variation 5."
+  },
+  {
+    "file": "05_Broken_Dark_Tools/broken_dark_tool_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended broken/off-kilter dark drum tool variation 5."
+  },
+  {
+    "file": "05_Broken_Dark_Tools/broken_dark_tool_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Broken/off-kilter dark drum tool variation 6."
+  },
+  {
+    "file": "05_Broken_Dark_Tools/broken_dark_tool_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended broken/off-kilter dark drum tool variation 6."
+  },
+  {
+    "file": "05_Broken_Dark_Tools/broken_dark_tool_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Broken/off-kilter dark drum tool variation 7."
+  },
+  {
+    "file": "05_Broken_Dark_Tools/broken_dark_tool_var_07_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended broken/off-kilter dark drum tool variation 7."
+  },
+  {
+    "file": "05_Broken_Dark_Tools/broken_dark_tool_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Broken/off-kilter dark drum tool variation 8."
+  },
+  {
+    "file": "05_Broken_Dark_Tools/broken_dark_tool_var_08_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended broken/off-kilter dark drum tool variation 8."
+  },
+  {
+    "file": "05_Broken_Dark_Tools/broken_dark_tool_var_09_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Broken/off-kilter dark drum tool variation 9."
+  },
+  {
+    "file": "05_Broken_Dark_Tools/broken_dark_tool_var_09_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended broken/off-kilter dark drum tool variation 9."
+  },
+  {
+    "file": "05_Broken_Dark_Tools/broken_dark_tool_var_10_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Broken/off-kilter dark drum tool variation 10."
+  },
+  {
+    "file": "05_Broken_Dark_Tools/broken_dark_tool_var_10_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended broken/off-kilter dark drum tool variation 10."
+  },
+  {
+    "file": "06_Ride_And_Hat_Pressure/ride_hat_pressure_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dark ride/hat pressure loop variation 1."
+  },
+  {
+    "file": "06_Ride_And_Hat_Pressure/ride_hat_pressure_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dark ride/hat pressure loop variation 1."
+  },
+  {
+    "file": "06_Ride_And_Hat_Pressure/ride_hat_pressure_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dark ride/hat pressure loop variation 2."
+  },
+  {
+    "file": "06_Ride_And_Hat_Pressure/ride_hat_pressure_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dark ride/hat pressure loop variation 2."
+  },
+  {
+    "file": "06_Ride_And_Hat_Pressure/ride_hat_pressure_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dark ride/hat pressure loop variation 3."
+  },
+  {
+    "file": "06_Ride_And_Hat_Pressure/ride_hat_pressure_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dark ride/hat pressure loop variation 3."
+  },
+  {
+    "file": "06_Ride_And_Hat_Pressure/ride_hat_pressure_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dark ride/hat pressure loop variation 4."
+  },
+  {
+    "file": "06_Ride_And_Hat_Pressure/ride_hat_pressure_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dark ride/hat pressure loop variation 4."
+  },
+  {
+    "file": "06_Ride_And_Hat_Pressure/ride_hat_pressure_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dark ride/hat pressure loop variation 5."
+  },
+  {
+    "file": "06_Ride_And_Hat_Pressure/ride_hat_pressure_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dark ride/hat pressure loop variation 5."
+  },
+  {
+    "file": "06_Ride_And_Hat_Pressure/ride_hat_pressure_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dark ride/hat pressure loop variation 6."
+  },
+  {
+    "file": "06_Ride_And_Hat_Pressure/ride_hat_pressure_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dark ride/hat pressure loop variation 6."
+  },
+  {
+    "file": "06_Ride_And_Hat_Pressure/ride_hat_pressure_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dark ride/hat pressure loop variation 7."
+  },
+  {
+    "file": "06_Ride_And_Hat_Pressure/ride_hat_pressure_var_07_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dark ride/hat pressure loop variation 7."
+  },
+  {
+    "file": "06_Ride_And_Hat_Pressure/ride_hat_pressure_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dark ride/hat pressure loop variation 8."
+  },
+  {
+    "file": "06_Ride_And_Hat_Pressure/ride_hat_pressure_var_08_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dark ride/hat pressure loop variation 8."
+  },
+  {
+    "file": "07_Fills_And_Reentries/fill_reentry_var_01_4bar_136.mid",
+    "bars": 4,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "4-bar dark fill/re-entry variation 1."
+  },
+  {
+    "file": "07_Fills_And_Reentries/fill_reentry_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "8-bar dark fill/re-entry variation 1."
+  },
+  {
+    "file": "07_Fills_And_Reentries/fill_reentry_var_02_4bar_136.mid",
+    "bars": 4,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "4-bar dark fill/re-entry variation 2."
+  },
+  {
+    "file": "07_Fills_And_Reentries/fill_reentry_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "8-bar dark fill/re-entry variation 2."
+  },
+  {
+    "file": "07_Fills_And_Reentries/fill_reentry_var_03_4bar_136.mid",
+    "bars": 4,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "4-bar dark fill/re-entry variation 3."
+  },
+  {
+    "file": "07_Fills_And_Reentries/fill_reentry_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "8-bar dark fill/re-entry variation 3."
+  },
+  {
+    "file": "07_Fills_And_Reentries/fill_reentry_var_04_4bar_136.mid",
+    "bars": 4,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "4-bar dark fill/re-entry variation 4."
+  },
+  {
+    "file": "07_Fills_And_Reentries/fill_reentry_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "8-bar dark fill/re-entry variation 4."
+  },
+  {
+    "file": "07_Fills_And_Reentries/fill_reentry_var_05_4bar_136.mid",
+    "bars": 4,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "4-bar dark fill/re-entry variation 5."
+  },
+  {
+    "file": "07_Fills_And_Reentries/fill_reentry_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "8-bar dark fill/re-entry variation 5."
+  },
+  {
+    "file": "07_Fills_And_Reentries/fill_reentry_var_06_4bar_136.mid",
+    "bars": 4,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "4-bar dark fill/re-entry variation 6."
+  },
+  {
+    "file": "07_Fills_And_Reentries/fill_reentry_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "8-bar dark fill/re-entry variation 6."
+  },
+  {
+    "file": "07_Fills_And_Reentries/fill_reentry_var_07_4bar_136.mid",
+    "bars": 4,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "4-bar dark fill/re-entry variation 7."
+  },
+  {
+    "file": "07_Fills_And_Reentries/fill_reentry_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "8-bar dark fill/re-entry variation 7."
+  },
+  {
+    "file": "07_Fills_And_Reentries/fill_reentry_var_08_4bar_136.mid",
+    "bars": 4,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "4-bar dark fill/re-entry variation 8."
+  },
+  {
+    "file": "07_Fills_And_Reentries/fill_reentry_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "8-bar dark fill/re-entry variation 8."
+  },
+  {
+    "file": "07_Fills_And_Reentries/fill_reentry_var_09_4bar_136.mid",
+    "bars": 4,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "4-bar dark fill/re-entry variation 9."
+  },
+  {
+    "file": "07_Fills_And_Reentries/fill_reentry_var_09_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "8-bar dark fill/re-entry variation 9."
+  },
+  {
+    "file": "07_Fills_And_Reentries/fill_reentry_var_10_4bar_136.mid",
+    "bars": 4,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "4-bar dark fill/re-entry variation 10."
+  },
+  {
+    "file": "07_Fills_And_Reentries/fill_reentry_var_10_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "8-bar dark fill/re-entry variation 10."
+  },
+  {
+    "file": "07_Fills_And_Reentries/fill_reentry_var_11_4bar_136.mid",
+    "bars": 4,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "4-bar dark fill/re-entry variation 11."
+  },
+  {
+    "file": "07_Fills_And_Reentries/fill_reentry_var_11_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "8-bar dark fill/re-entry variation 11."
+  },
+  {
+    "file": "07_Fills_And_Reentries/fill_reentry_var_12_4bar_136.mid",
+    "bars": 4,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "4-bar dark fill/re-entry variation 12."
+  },
+  {
+    "file": "07_Fills_And_Reentries/fill_reentry_var_12_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "8-bar dark fill/re-entry variation 12."
+  },
+  {
+    "file": "07_Fills_And_Reentries/fill_reentry_var_13_4bar_136.mid",
+    "bars": 4,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "4-bar dark fill/re-entry variation 13."
+  },
+  {
+    "file": "07_Fills_And_Reentries/fill_reentry_var_13_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "8-bar dark fill/re-entry variation 13."
+  },
+  {
+    "file": "07_Fills_And_Reentries/fill_reentry_var_14_4bar_136.mid",
+    "bars": 4,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "4-bar dark fill/re-entry variation 14."
+  },
+  {
+    "file": "07_Fills_And_Reentries/fill_reentry_var_14_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "8-bar dark fill/re-entry variation 14."
+  },
+  {
+    "file": "08_Drum_Arrangements/drum_arrangement_64bar_dark_style_01_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "64-bar dark drums-only arrangement style 1."
+  },
+  {
+    "file": "08_Drum_Arrangements/drum_arrangement_64bar_dark_style_02_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "64-bar dark drums-only arrangement style 2."
+  },
+  {
+    "file": "08_Drum_Arrangements/drum_arrangement_64bar_dark_style_03_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "64-bar dark drums-only arrangement style 3."
+  },
+  {
+    "file": "08_Drum_Arrangements/drum_arrangement_64bar_dark_style_04_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "64-bar dark drums-only arrangement style 4."
+  },
+  {
+    "file": "08_Drum_Arrangements/drum_arrangement_64bar_dark_style_05_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "64-bar dark drums-only arrangement style 5."
+  },
+  {
+    "file": "08_Drum_Arrangements/drum_arrangement_64bar_dark_style_06_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "64-bar dark drums-only arrangement style 6."
+  },
+  {
+    "file": "08_Drum_Arrangements/drum_arrangement_64bar_dark_style_07_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "64-bar dark drums-only arrangement style 7."
+  },
+  {
+    "file": "08_Drum_Arrangements/drum_arrangement_64bar_dark_style_08_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "64-bar dark drums-only arrangement style 8."
+  },
+  {
+    "file": "08_Drum_Arrangements/drum_arrangement_128bar_dark_tunnel_01_136.mid",
+    "bars": 128,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "128-bar dark/tunnel drums-only arrangement 1."
+  },
+  {
+    "file": "08_Drum_Arrangements/drum_arrangement_128bar_dark_tunnel_02_136.mid",
+    "bars": 128,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "128-bar dark/tunnel drums-only arrangement 2."
+  },
+  {
+    "file": "09_Alt_Tempos/dark_4x4_groove_A_8bar_132.mid",
+    "bars": 8,
+    "bpm": 132,
+    "type": "drum_notes",
+    "description": "Dark 4x4 groove A embedded at 132 BPM."
+  },
+  {
+    "file": "09_Alt_Tempos/kick_engine_A_8bar_132.mid",
+    "bars": 8,
+    "bpm": 132,
+    "type": "drum_notes",
+    "description": "Kick engine A embedded at 132 BPM."
+  },
+  {
+    "file": "09_Alt_Tempos/broken_dark_tool_A_8bar_132.mid",
+    "bars": 8,
+    "bpm": 132,
+    "type": "drum_notes",
+    "description": "Broken dark tool A embedded at 132 BPM."
+  },
+  {
+    "file": "09_Alt_Tempos/hypnotic_top_loop_A_8bar_132.mid",
+    "bars": 8,
+    "bpm": 132,
+    "type": "drum_notes",
+    "description": "Hypnotic top loop A embedded at 132 BPM."
+  },
+  {
+    "file": "09_Alt_Tempos/dark_4x4_groove_A_8bar_134.mid",
+    "bars": 8,
+    "bpm": 134,
+    "type": "drum_notes",
+    "description": "Dark 4x4 groove A embedded at 134 BPM."
+  },
+  {
+    "file": "09_Alt_Tempos/kick_engine_A_8bar_134.mid",
+    "bars": 8,
+    "bpm": 134,
+    "type": "drum_notes",
+    "description": "Kick engine A embedded at 134 BPM."
+  },
+  {
+    "file": "09_Alt_Tempos/broken_dark_tool_A_8bar_134.mid",
+    "bars": 8,
+    "bpm": 134,
+    "type": "drum_notes",
+    "description": "Broken dark tool A embedded at 134 BPM."
+  },
+  {
+    "file": "09_Alt_Tempos/hypnotic_top_loop_A_8bar_134.mid",
+    "bars": 8,
+    "bpm": 134,
+    "type": "drum_notes",
+    "description": "Hypnotic top loop A embedded at 134 BPM."
+  },
+  {
+    "file": "09_Alt_Tempos/dark_4x4_groove_A_8bar_138.mid",
+    "bars": 8,
+    "bpm": 138,
+    "type": "drum_notes",
+    "description": "Dark 4x4 groove A embedded at 138 BPM."
+  },
+  {
+    "file": "09_Alt_Tempos/kick_engine_A_8bar_138.mid",
+    "bars": 8,
+    "bpm": 138,
+    "type": "drum_notes",
+    "description": "Kick engine A embedded at 138 BPM."
+  },
+  {
+    "file": "09_Alt_Tempos/broken_dark_tool_A_8bar_138.mid",
+    "bars": 8,
+    "bpm": 138,
+    "type": "drum_notes",
+    "description": "Broken dark tool A embedded at 138 BPM."
+  },
+  {
+    "file": "09_Alt_Tempos/hypnotic_top_loop_A_8bar_138.mid",
+    "bars": 8,
+    "bpm": 138,
+    "type": "drum_notes",
+    "description": "Hypnotic top loop A embedded at 138 BPM."
+  },
+  {
+    "file": "09_Alt_Tempos/dark_4x4_groove_A_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_notes",
+    "description": "Dark 4x4 groove A embedded at 140 BPM."
+  },
+  {
+    "file": "09_Alt_Tempos/kick_engine_A_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_notes",
+    "description": "Kick engine A embedded at 140 BPM."
+  },
+  {
+    "file": "09_Alt_Tempos/broken_dark_tool_A_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_notes",
+    "description": "Broken dark tool A embedded at 140 BPM."
+  },
+  {
+    "file": "09_Alt_Tempos/hypnotic_top_loop_A_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_notes",
+    "description": "Hypnotic top loop A embedded at 140 BPM."
+  },
+  {
+    "file": "10_Drum_CC_Macros/filter_resonance_64bar_CC74_CC71.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "drum_cc_only",
+    "description": "CC74 filter/brightness and CC71 resonance macro clip."
+  },
+  {
+    "file": "10_Drum_CC_Macros/decay_drive_64bar_CC73_CC76.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "drum_cc_only",
+    "description": "CC73 decay and CC76 drive macro clip."
+  },
+  {
+    "file": "10_Drum_CC_Macros/space_sends_64bar_CC91_CC93.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "drum_cc_only",
+    "description": "CC91 reverb send and CC93 delay/mod send macro clip."
+  },
+  {
+    "file": "10_Drum_CC_Macros/shape_release_64bar_CC75_CC72.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "drum_cc_only",
+    "description": "CC75 shape and CC72 release macro clip."
+  },
+  {
+    "file": "10_Drum_CC_Macros/noise_attack_64bar_CC70_CC77.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "drum_cc_only",
+    "description": "CC70 spare macro and CC77 attack/noise macro clip."
+  }
+]

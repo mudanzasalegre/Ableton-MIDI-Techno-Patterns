@@ -1,0 +1,2697 @@
+[
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Closed-hat groove variation 1."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended closed-hat groove variation 1."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Closed-hat groove variation 2."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended closed-hat groove variation 2."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Closed-hat groove variation 3."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended closed-hat groove variation 3."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Closed-hat groove variation 4."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended closed-hat groove variation 4."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Closed-hat groove variation 5."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended closed-hat groove variation 5."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Closed-hat groove variation 6."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended closed-hat groove variation 6."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Closed-hat groove variation 7."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_07_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended closed-hat groove variation 7."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Closed-hat groove variation 8."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_08_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended closed-hat groove variation 8."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_09_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Closed-hat groove variation 9."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_09_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended closed-hat groove variation 9."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_10_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Closed-hat groove variation 10."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_10_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended closed-hat groove variation 10."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_11_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Closed-hat groove variation 11."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_11_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended closed-hat groove variation 11."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_12_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Closed-hat groove variation 12."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_12_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended closed-hat groove variation 12."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_13_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Closed-hat groove variation 13."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_13_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended closed-hat groove variation 13."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_14_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Closed-hat groove variation 14."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_14_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended closed-hat groove variation 14."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_15_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Closed-hat groove variation 15."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_15_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended closed-hat groove variation 15."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_16_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Closed-hat groove variation 16."
+  },
+  {
+    "file": "01_Closed_Hat_Grooves/closed_hat_groove_var_16_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended closed-hat groove variation 16."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Open-hat offbeat drive variation 1."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended open-hat offbeat drive variation 1."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Open-hat offbeat drive variation 2."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended open-hat offbeat drive variation 2."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Open-hat offbeat drive variation 3."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended open-hat offbeat drive variation 3."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Open-hat offbeat drive variation 4."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended open-hat offbeat drive variation 4."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Open-hat offbeat drive variation 5."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended open-hat offbeat drive variation 5."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Open-hat offbeat drive variation 6."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended open-hat offbeat drive variation 6."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Open-hat offbeat drive variation 7."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_07_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended open-hat offbeat drive variation 7."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Open-hat offbeat drive variation 8."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_08_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended open-hat offbeat drive variation 8."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_09_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Open-hat offbeat drive variation 9."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_09_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended open-hat offbeat drive variation 9."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_10_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Open-hat offbeat drive variation 10."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_10_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended open-hat offbeat drive variation 10."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_11_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Open-hat offbeat drive variation 11."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_11_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended open-hat offbeat drive variation 11."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_12_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Open-hat offbeat drive variation 12."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_12_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended open-hat offbeat drive variation 12."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_13_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Open-hat offbeat drive variation 13."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_13_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended open-hat offbeat drive variation 13."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_14_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Open-hat offbeat drive variation 14."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_14_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended open-hat offbeat drive variation 14."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_15_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Open-hat offbeat drive variation 15."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_15_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended open-hat offbeat drive variation 15."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_16_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Open-hat offbeat drive variation 16."
+  },
+  {
+    "file": "02_Open_Hat_Offbeat_Drive/open_hat_offbeat_drive_var_16_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended open-hat offbeat drive variation 16."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Tight-hat groove layer variation 1."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended tight-hat groove layer variation 1."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Tight-hat groove layer variation 2."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended tight-hat groove layer variation 2."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Tight-hat groove layer variation 3."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended tight-hat groove layer variation 3."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Tight-hat groove layer variation 4."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended tight-hat groove layer variation 4."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Tight-hat groove layer variation 5."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended tight-hat groove layer variation 5."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Tight-hat groove layer variation 6."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended tight-hat groove layer variation 6."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Tight-hat groove layer variation 7."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_07_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended tight-hat groove layer variation 7."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Tight-hat groove layer variation 8."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_08_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended tight-hat groove layer variation 8."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_09_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Tight-hat groove layer variation 9."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_09_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended tight-hat groove layer variation 9."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_10_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Tight-hat groove layer variation 10."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_10_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended tight-hat groove layer variation 10."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_11_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Tight-hat groove layer variation 11."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_11_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended tight-hat groove layer variation 11."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_12_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Tight-hat groove layer variation 12."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_12_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended tight-hat groove layer variation 12."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_13_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Tight-hat groove layer variation 13."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_13_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended tight-hat groove layer variation 13."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_14_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Tight-hat groove layer variation 14."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_14_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended tight-hat groove layer variation 14."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_15_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Tight-hat groove layer variation 15."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_15_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended tight-hat groove layer variation 15."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_16_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Tight-hat groove layer variation 16."
+  },
+  {
+    "file": "03_Tight_Hat_Groove_Layers/tight_hat_layer_var_16_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended tight-hat groove layer variation 16."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Ride pressure pattern variation 1."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended ride pressure pattern variation 1."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Ride pressure pattern variation 2."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended ride pressure pattern variation 2."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Ride pressure pattern variation 3."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended ride pressure pattern variation 3."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Ride pressure pattern variation 4."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended ride pressure pattern variation 4."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Ride pressure pattern variation 5."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended ride pressure pattern variation 5."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Ride pressure pattern variation 6."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended ride pressure pattern variation 6."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Ride pressure pattern variation 7."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_07_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended ride pressure pattern variation 7."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Ride pressure pattern variation 8."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_08_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended ride pressure pattern variation 8."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_09_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Ride pressure pattern variation 9."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_09_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended ride pressure pattern variation 9."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_10_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Ride pressure pattern variation 10."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_10_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended ride pressure pattern variation 10."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_11_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Ride pressure pattern variation 11."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_11_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended ride pressure pattern variation 11."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_12_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Ride pressure pattern variation 12."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_12_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended ride pressure pattern variation 12."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_13_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Ride pressure pattern variation 13."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_13_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended ride pressure pattern variation 13."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_14_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Ride pressure pattern variation 14."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_14_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended ride pressure pattern variation 14."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_15_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Ride pressure pattern variation 15."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_15_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended ride pressure pattern variation 15."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_16_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Ride pressure pattern variation 16."
+  },
+  {
+    "file": "04_Ride_Pressure_Patterns/ride_pressure_var_16_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended ride pressure pattern variation 16."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Hat + ride combo variation 1."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended hat + ride combo variation 1."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Hat + ride combo variation 2."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended hat + ride combo variation 2."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Hat + ride combo variation 3."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended hat + ride combo variation 3."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Hat + ride combo variation 4."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended hat + ride combo variation 4."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Hat + ride combo variation 5."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended hat + ride combo variation 5."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Hat + ride combo variation 6."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended hat + ride combo variation 6."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Hat + ride combo variation 7."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_07_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended hat + ride combo variation 7."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Hat + ride combo variation 8."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_08_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended hat + ride combo variation 8."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_09_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Hat + ride combo variation 9."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_09_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended hat + ride combo variation 9."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_10_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Hat + ride combo variation 10."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_10_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended hat + ride combo variation 10."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_11_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Hat + ride combo variation 11."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_11_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended hat + ride combo variation 11."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_12_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Hat + ride combo variation 12."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_12_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended hat + ride combo variation 12."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_13_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Hat + ride combo variation 13."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_13_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended hat + ride combo variation 13."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_14_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Hat + ride combo variation 14."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_14_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended hat + ride combo variation 14."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_15_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Hat + ride combo variation 15."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_15_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended hat + ride combo variation 15."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_16_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Hat + ride combo variation 16."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_16_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended hat + ride combo variation 16."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_17_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Hat + ride combo variation 17."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_17_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended hat + ride combo variation 17."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_18_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Hat + ride combo variation 18."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_18_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended hat + ride combo variation 18."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_19_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Hat + ride combo variation 19."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_19_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended hat + ride combo variation 19."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_20_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Hat + ride combo variation 20."
+  },
+  {
+    "file": "05_Hat_Ride_Combos/hat_ride_combo_var_20_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended hat + ride combo variation 20."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Rolling hats/rides variation 1."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended rolling hats/rides variation 1."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Rolling hats/rides variation 2."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended rolling hats/rides variation 2."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Rolling hats/rides variation 3."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended rolling hats/rides variation 3."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Rolling hats/rides variation 4."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended rolling hats/rides variation 4."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Rolling hats/rides variation 5."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended rolling hats/rides variation 5."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Rolling hats/rides variation 6."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended rolling hats/rides variation 6."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Rolling hats/rides variation 7."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_07_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended rolling hats/rides variation 7."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Rolling hats/rides variation 8."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_08_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended rolling hats/rides variation 8."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_09_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Rolling hats/rides variation 9."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_09_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended rolling hats/rides variation 9."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_10_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Rolling hats/rides variation 10."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_10_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended rolling hats/rides variation 10."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_11_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Rolling hats/rides variation 11."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_11_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended rolling hats/rides variation 11."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_12_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Rolling hats/rides variation 12."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_12_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended rolling hats/rides variation 12."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_13_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Rolling hats/rides variation 13."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_13_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended rolling hats/rides variation 13."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_14_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Rolling hats/rides variation 14."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_14_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended rolling hats/rides variation 14."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_15_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Rolling hats/rides variation 15."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_15_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended rolling hats/rides variation 15."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_16_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Rolling hats/rides variation 16."
+  },
+  {
+    "file": "06_Rolling_Hats_And_Rides/rolling_hats_rides_var_16_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended rolling hats/rides variation 16."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Broken cymbal groove variation 1."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended broken cymbal groove variation 1."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Broken cymbal groove variation 2."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended broken cymbal groove variation 2."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Broken cymbal groove variation 3."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended broken cymbal groove variation 3."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Broken cymbal groove variation 4."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended broken cymbal groove variation 4."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Broken cymbal groove variation 5."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended broken cymbal groove variation 5."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Broken cymbal groove variation 6."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended broken cymbal groove variation 6."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Broken cymbal groove variation 7."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_07_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended broken cymbal groove variation 7."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Broken cymbal groove variation 8."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_08_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended broken cymbal groove variation 8."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_09_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Broken cymbal groove variation 9."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_09_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended broken cymbal groove variation 9."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_10_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Broken cymbal groove variation 10."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_10_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended broken cymbal groove variation 10."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_11_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Broken cymbal groove variation 11."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_11_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended broken cymbal groove variation 11."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_12_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Broken cymbal groove variation 12."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_12_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended broken cymbal groove variation 12."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_13_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Broken cymbal groove variation 13."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_13_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended broken cymbal groove variation 13."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_14_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Broken cymbal groove variation 14."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_14_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended broken cymbal groove variation 14."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_15_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Broken cymbal groove variation 15."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_15_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended broken cymbal groove variation 15."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_16_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Broken cymbal groove variation 16."
+  },
+  {
+    "file": "07_Broken_Cymbal_Grooves/broken_cymbal_groove_var_16_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended broken cymbal groove variation 16."
+  },
+  {
+    "file": "08_Shuffled_MicroSwing_Hats/shuffled_hat_groove_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Shuffled/micro-swing hat groove variation 1."
+  },
+  {
+    "file": "08_Shuffled_MicroSwing_Hats/shuffled_hat_groove_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended shuffled/micro-swing hat groove variation 1."
+  },
+  {
+    "file": "08_Shuffled_MicroSwing_Hats/shuffled_hat_groove_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Shuffled/micro-swing hat groove variation 2."
+  },
+  {
+    "file": "08_Shuffled_MicroSwing_Hats/shuffled_hat_groove_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended shuffled/micro-swing hat groove variation 2."
+  },
+  {
+    "file": "08_Shuffled_MicroSwing_Hats/shuffled_hat_groove_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Shuffled/micro-swing hat groove variation 3."
+  },
+  {
+    "file": "08_Shuffled_MicroSwing_Hats/shuffled_hat_groove_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended shuffled/micro-swing hat groove variation 3."
+  },
+  {
+    "file": "08_Shuffled_MicroSwing_Hats/shuffled_hat_groove_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Shuffled/micro-swing hat groove variation 4."
+  },
+  {
+    "file": "08_Shuffled_MicroSwing_Hats/shuffled_hat_groove_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended shuffled/micro-swing hat groove variation 4."
+  },
+  {
+    "file": "08_Shuffled_MicroSwing_Hats/shuffled_hat_groove_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Shuffled/micro-swing hat groove variation 5."
+  },
+  {
+    "file": "08_Shuffled_MicroSwing_Hats/shuffled_hat_groove_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended shuffled/micro-swing hat groove variation 5."
+  },
+  {
+    "file": "08_Shuffled_MicroSwing_Hats/shuffled_hat_groove_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Shuffled/micro-swing hat groove variation 6."
+  },
+  {
+    "file": "08_Shuffled_MicroSwing_Hats/shuffled_hat_groove_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended shuffled/micro-swing hat groove variation 6."
+  },
+  {
+    "file": "08_Shuffled_MicroSwing_Hats/shuffled_hat_groove_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Shuffled/micro-swing hat groove variation 7."
+  },
+  {
+    "file": "08_Shuffled_MicroSwing_Hats/shuffled_hat_groove_var_07_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended shuffled/micro-swing hat groove variation 7."
+  },
+  {
+    "file": "08_Shuffled_MicroSwing_Hats/shuffled_hat_groove_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Shuffled/micro-swing hat groove variation 8."
+  },
+  {
+    "file": "08_Shuffled_MicroSwing_Hats/shuffled_hat_groove_var_08_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended shuffled/micro-swing hat groove variation 8."
+  },
+  {
+    "file": "08_Shuffled_MicroSwing_Hats/shuffled_hat_groove_var_09_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Shuffled/micro-swing hat groove variation 9."
+  },
+  {
+    "file": "08_Shuffled_MicroSwing_Hats/shuffled_hat_groove_var_09_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended shuffled/micro-swing hat groove variation 9."
+  },
+  {
+    "file": "08_Shuffled_MicroSwing_Hats/shuffled_hat_groove_var_10_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Shuffled/micro-swing hat groove variation 10."
+  },
+  {
+    "file": "08_Shuffled_MicroSwing_Hats/shuffled_hat_groove_var_10_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended shuffled/micro-swing hat groove variation 10."
+  },
+  {
+    "file": "08_Shuffled_MicroSwing_Hats/shuffled_hat_groove_var_11_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Shuffled/micro-swing hat groove variation 11."
+  },
+  {
+    "file": "08_Shuffled_MicroSwing_Hats/shuffled_hat_groove_var_11_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended shuffled/micro-swing hat groove variation 11."
+  },
+  {
+    "file": "08_Shuffled_MicroSwing_Hats/shuffled_hat_groove_var_12_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Shuffled/micro-swing hat groove variation 12."
+  },
+  {
+    "file": "08_Shuffled_MicroSwing_Hats/shuffled_hat_groove_var_12_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended shuffled/micro-swing hat groove variation 12."
+  },
+  {
+    "file": "09_Sparse_Dub_Hypnotic_Cymbals/sparse_dub_cymbals_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Sparse dub/hypnotic cymbal layer variation 1."
+  },
+  {
+    "file": "09_Sparse_Dub_Hypnotic_Cymbals/sparse_dub_cymbals_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended sparse dub/hypnotic cymbal layer variation 1."
+  },
+  {
+    "file": "09_Sparse_Dub_Hypnotic_Cymbals/sparse_dub_cymbals_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Sparse dub/hypnotic cymbal layer variation 2."
+  },
+  {
+    "file": "09_Sparse_Dub_Hypnotic_Cymbals/sparse_dub_cymbals_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended sparse dub/hypnotic cymbal layer variation 2."
+  },
+  {
+    "file": "09_Sparse_Dub_Hypnotic_Cymbals/sparse_dub_cymbals_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Sparse dub/hypnotic cymbal layer variation 3."
+  },
+  {
+    "file": "09_Sparse_Dub_Hypnotic_Cymbals/sparse_dub_cymbals_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended sparse dub/hypnotic cymbal layer variation 3."
+  },
+  {
+    "file": "09_Sparse_Dub_Hypnotic_Cymbals/sparse_dub_cymbals_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Sparse dub/hypnotic cymbal layer variation 4."
+  },
+  {
+    "file": "09_Sparse_Dub_Hypnotic_Cymbals/sparse_dub_cymbals_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended sparse dub/hypnotic cymbal layer variation 4."
+  },
+  {
+    "file": "09_Sparse_Dub_Hypnotic_Cymbals/sparse_dub_cymbals_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Sparse dub/hypnotic cymbal layer variation 5."
+  },
+  {
+    "file": "09_Sparse_Dub_Hypnotic_Cymbals/sparse_dub_cymbals_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended sparse dub/hypnotic cymbal layer variation 5."
+  },
+  {
+    "file": "09_Sparse_Dub_Hypnotic_Cymbals/sparse_dub_cymbals_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Sparse dub/hypnotic cymbal layer variation 6."
+  },
+  {
+    "file": "09_Sparse_Dub_Hypnotic_Cymbals/sparse_dub_cymbals_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended sparse dub/hypnotic cymbal layer variation 6."
+  },
+  {
+    "file": "09_Sparse_Dub_Hypnotic_Cymbals/sparse_dub_cymbals_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Sparse dub/hypnotic cymbal layer variation 7."
+  },
+  {
+    "file": "09_Sparse_Dub_Hypnotic_Cymbals/sparse_dub_cymbals_var_07_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended sparse dub/hypnotic cymbal layer variation 7."
+  },
+  {
+    "file": "09_Sparse_Dub_Hypnotic_Cymbals/sparse_dub_cymbals_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Sparse dub/hypnotic cymbal layer variation 8."
+  },
+  {
+    "file": "09_Sparse_Dub_Hypnotic_Cymbals/sparse_dub_cymbals_var_08_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended sparse dub/hypnotic cymbal layer variation 8."
+  },
+  {
+    "file": "09_Sparse_Dub_Hypnotic_Cymbals/sparse_dub_cymbals_var_09_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Sparse dub/hypnotic cymbal layer variation 9."
+  },
+  {
+    "file": "09_Sparse_Dub_Hypnotic_Cymbals/sparse_dub_cymbals_var_09_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended sparse dub/hypnotic cymbal layer variation 9."
+  },
+  {
+    "file": "09_Sparse_Dub_Hypnotic_Cymbals/sparse_dub_cymbals_var_10_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Sparse dub/hypnotic cymbal layer variation 10."
+  },
+  {
+    "file": "09_Sparse_Dub_Hypnotic_Cymbals/sparse_dub_cymbals_var_10_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended sparse dub/hypnotic cymbal layer variation 10."
+  },
+  {
+    "file": "09_Sparse_Dub_Hypnotic_Cymbals/sparse_dub_cymbals_var_11_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Sparse dub/hypnotic cymbal layer variation 11."
+  },
+  {
+    "file": "09_Sparse_Dub_Hypnotic_Cymbals/sparse_dub_cymbals_var_11_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended sparse dub/hypnotic cymbal layer variation 11."
+  },
+  {
+    "file": "09_Sparse_Dub_Hypnotic_Cymbals/sparse_dub_cymbals_var_12_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Sparse dub/hypnotic cymbal layer variation 12."
+  },
+  {
+    "file": "09_Sparse_Dub_Hypnotic_Cymbals/sparse_dub_cymbals_var_12_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended sparse dub/hypnotic cymbal layer variation 12."
+  },
+  {
+    "file": "10_PeakTime_Cymbal_Engines/peak_time_cymbal_engine_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Peak-time cymbal engine variation 1."
+  },
+  {
+    "file": "10_PeakTime_Cymbal_Engines/peak_time_cymbal_engine_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended peak-time cymbal engine variation 1."
+  },
+  {
+    "file": "10_PeakTime_Cymbal_Engines/peak_time_cymbal_engine_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Peak-time cymbal engine variation 2."
+  },
+  {
+    "file": "10_PeakTime_Cymbal_Engines/peak_time_cymbal_engine_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended peak-time cymbal engine variation 2."
+  },
+  {
+    "file": "10_PeakTime_Cymbal_Engines/peak_time_cymbal_engine_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Peak-time cymbal engine variation 3."
+  },
+  {
+    "file": "10_PeakTime_Cymbal_Engines/peak_time_cymbal_engine_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended peak-time cymbal engine variation 3."
+  },
+  {
+    "file": "10_PeakTime_Cymbal_Engines/peak_time_cymbal_engine_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Peak-time cymbal engine variation 4."
+  },
+  {
+    "file": "10_PeakTime_Cymbal_Engines/peak_time_cymbal_engine_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended peak-time cymbal engine variation 4."
+  },
+  {
+    "file": "10_PeakTime_Cymbal_Engines/peak_time_cymbal_engine_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Peak-time cymbal engine variation 5."
+  },
+  {
+    "file": "10_PeakTime_Cymbal_Engines/peak_time_cymbal_engine_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended peak-time cymbal engine variation 5."
+  },
+  {
+    "file": "10_PeakTime_Cymbal_Engines/peak_time_cymbal_engine_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Peak-time cymbal engine variation 6."
+  },
+  {
+    "file": "10_PeakTime_Cymbal_Engines/peak_time_cymbal_engine_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended peak-time cymbal engine variation 6."
+  },
+  {
+    "file": "10_PeakTime_Cymbal_Engines/peak_time_cymbal_engine_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Peak-time cymbal engine variation 7."
+  },
+  {
+    "file": "10_PeakTime_Cymbal_Engines/peak_time_cymbal_engine_var_07_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended peak-time cymbal engine variation 7."
+  },
+  {
+    "file": "10_PeakTime_Cymbal_Engines/peak_time_cymbal_engine_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Peak-time cymbal engine variation 8."
+  },
+  {
+    "file": "10_PeakTime_Cymbal_Engines/peak_time_cymbal_engine_var_08_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended peak-time cymbal engine variation 8."
+  },
+  {
+    "file": "10_PeakTime_Cymbal_Engines/peak_time_cymbal_engine_var_09_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Peak-time cymbal engine variation 9."
+  },
+  {
+    "file": "10_PeakTime_Cymbal_Engines/peak_time_cymbal_engine_var_09_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended peak-time cymbal engine variation 9."
+  },
+  {
+    "file": "10_PeakTime_Cymbal_Engines/peak_time_cymbal_engine_var_10_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Peak-time cymbal engine variation 10."
+  },
+  {
+    "file": "10_PeakTime_Cymbal_Engines/peak_time_cymbal_engine_var_10_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended peak-time cymbal engine variation 10."
+  },
+  {
+    "file": "10_PeakTime_Cymbal_Engines/peak_time_cymbal_engine_var_11_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Peak-time cymbal engine variation 11."
+  },
+  {
+    "file": "10_PeakTime_Cymbal_Engines/peak_time_cymbal_engine_var_11_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended peak-time cymbal engine variation 11."
+  },
+  {
+    "file": "10_PeakTime_Cymbal_Engines/peak_time_cymbal_engine_var_12_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Peak-time cymbal engine variation 12."
+  },
+  {
+    "file": "10_PeakTime_Cymbal_Engines/peak_time_cymbal_engine_var_12_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Extended peak-time cymbal engine variation 12."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/build_cymbal_transition_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "16-bar cymbal build transition/fill variation 1."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/build_cymbal_transition_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "16-bar cymbal build transition/fill variation 2."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/build_cymbal_transition_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "16-bar cymbal build transition/fill variation 3."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/build_cymbal_transition_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "16-bar cymbal build transition/fill variation 4."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/build_cymbal_transition_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "16-bar cymbal build transition/fill variation 5."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/build_cymbal_transition_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "16-bar cymbal build transition/fill variation 6."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/build_cymbal_transition_var_07_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "16-bar cymbal build transition/fill variation 7."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/build_cymbal_transition_var_08_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "16-bar cymbal build transition/fill variation 8."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/strip_cymbal_transition_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "16-bar cymbal strip transition/fill variation 1."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/strip_cymbal_transition_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "16-bar cymbal strip transition/fill variation 2."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/strip_cymbal_transition_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "16-bar cymbal strip transition/fill variation 3."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/strip_cymbal_transition_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "16-bar cymbal strip transition/fill variation 4."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/strip_cymbal_transition_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "16-bar cymbal strip transition/fill variation 5."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/strip_cymbal_transition_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "16-bar cymbal strip transition/fill variation 6."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/strip_cymbal_transition_var_07_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "16-bar cymbal strip transition/fill variation 7."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/strip_cymbal_transition_var_08_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "16-bar cymbal strip transition/fill variation 8."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/reentry_cymbal_transition_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "8-bar cymbal reentry transition/fill variation 1."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/reentry_cymbal_transition_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "8-bar cymbal reentry transition/fill variation 2."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/reentry_cymbal_transition_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "8-bar cymbal reentry transition/fill variation 3."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/reentry_cymbal_transition_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "8-bar cymbal reentry transition/fill variation 4."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/reentry_cymbal_transition_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "8-bar cymbal reentry transition/fill variation 5."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/reentry_cymbal_transition_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "8-bar cymbal reentry transition/fill variation 6."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/reentry_cymbal_transition_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "8-bar cymbal reentry transition/fill variation 7."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/reentry_cymbal_transition_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "8-bar cymbal reentry transition/fill variation 8."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/fill_cymbal_transition_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "8-bar cymbal fill transition/fill variation 1."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/fill_cymbal_transition_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "8-bar cymbal fill transition/fill variation 2."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/fill_cymbal_transition_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "8-bar cymbal fill transition/fill variation 3."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/fill_cymbal_transition_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "8-bar cymbal fill transition/fill variation 4."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/fill_cymbal_transition_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "8-bar cymbal fill transition/fill variation 5."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/fill_cymbal_transition_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "8-bar cymbal fill transition/fill variation 6."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/fill_cymbal_transition_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "8-bar cymbal fill transition/fill variation 7."
+  },
+  {
+    "file": "11_Cymbal_Transitions_Fills/fill_cymbal_transition_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_transition",
+    "description": "8-bar cymbal fill transition/fill variation 8."
+  },
+  {
+    "file": "12_Long_Cymbal_Arrangements/cymbal_arrangement_64bar_var_01_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "long_cymbal_arrangement",
+    "description": "64-bar cymbal-only arrangement variation 1."
+  },
+  {
+    "file": "12_Long_Cymbal_Arrangements/cymbal_arrangement_64bar_var_02_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "long_cymbal_arrangement",
+    "description": "64-bar cymbal-only arrangement variation 2."
+  },
+  {
+    "file": "12_Long_Cymbal_Arrangements/cymbal_arrangement_64bar_var_03_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "long_cymbal_arrangement",
+    "description": "64-bar cymbal-only arrangement variation 3."
+  },
+  {
+    "file": "12_Long_Cymbal_Arrangements/cymbal_arrangement_64bar_var_04_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "long_cymbal_arrangement",
+    "description": "64-bar cymbal-only arrangement variation 4."
+  },
+  {
+    "file": "12_Long_Cymbal_Arrangements/cymbal_arrangement_64bar_var_05_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "long_cymbal_arrangement",
+    "description": "64-bar cymbal-only arrangement variation 5."
+  },
+  {
+    "file": "12_Long_Cymbal_Arrangements/cymbal_arrangement_64bar_var_06_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "long_cymbal_arrangement",
+    "description": "64-bar cymbal-only arrangement variation 6."
+  },
+  {
+    "file": "12_Long_Cymbal_Arrangements/cymbal_arrangement_64bar_var_07_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "long_cymbal_arrangement",
+    "description": "64-bar cymbal-only arrangement variation 7."
+  },
+  {
+    "file": "12_Long_Cymbal_Arrangements/cymbal_arrangement_64bar_var_08_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "long_cymbal_arrangement",
+    "description": "64-bar cymbal-only arrangement variation 8."
+  },
+  {
+    "file": "12_Long_Cymbal_Arrangements/cymbal_arrangement_128bar_var_01_136.mid",
+    "bars": 128,
+    "bpm": 136,
+    "type": "long_cymbal_arrangement",
+    "description": "128-bar cymbal-only arrangement variation 1."
+  },
+  {
+    "file": "12_Long_Cymbal_Arrangements/cymbal_arrangement_128bar_var_02_136.mid",
+    "bars": 128,
+    "bpm": 136,
+    "type": "long_cymbal_arrangement",
+    "description": "128-bar cymbal-only arrangement variation 2."
+  },
+  {
+    "file": "12_Long_Cymbal_Arrangements/cymbal_arrangement_128bar_var_03_136.mid",
+    "bars": 128,
+    "bpm": 136,
+    "type": "long_cymbal_arrangement",
+    "description": "128-bar cymbal-only arrangement variation 3."
+  },
+  {
+    "file": "12_Long_Cymbal_Arrangements/cymbal_arrangement_128bar_var_04_136.mid",
+    "bars": 128,
+    "bpm": 136,
+    "type": "long_cymbal_arrangement",
+    "description": "128-bar cymbal-only arrangement variation 4."
+  },
+  {
+    "file": "12_Long_Cymbal_Arrangements/cymbal_arrangement_128bar_var_05_136.mid",
+    "bars": 128,
+    "bpm": 136,
+    "type": "long_cymbal_arrangement",
+    "description": "128-bar cymbal-only arrangement variation 5."
+  },
+  {
+    "file": "12_Long_Cymbal_Arrangements/cymbal_arrangement_128bar_var_06_136.mid",
+    "bars": 128,
+    "bpm": 136,
+    "type": "long_cymbal_arrangement",
+    "description": "128-bar cymbal-only arrangement variation 6."
+  },
+  {
+    "file": "12_Long_Cymbal_Arrangements/cymbal_arrangement_128bar_var_07_136.mid",
+    "bars": 128,
+    "bpm": 136,
+    "type": "long_cymbal_arrangement",
+    "description": "128-bar cymbal-only arrangement variation 7."
+  },
+  {
+    "file": "12_Long_Cymbal_Arrangements/cymbal_arrangement_128bar_var_08_136.mid",
+    "bars": 128,
+    "bpm": 136,
+    "type": "long_cymbal_arrangement",
+    "description": "128-bar cymbal-only arrangement variation 8."
+  },
+  {
+    "file": "13_Alt_Tempos/closed_hat_groove_A_8bar_132.mid",
+    "bars": 8,
+    "bpm": 132,
+    "type": "cymbal_notes",
+    "description": "Closed-hat groove A embedded at 132 BPM."
+  },
+  {
+    "file": "13_Alt_Tempos/open_hat_drive_A_8bar_132.mid",
+    "bars": 8,
+    "bpm": 132,
+    "type": "cymbal_notes",
+    "description": "Open-hat drive A embedded at 132 BPM."
+  },
+  {
+    "file": "13_Alt_Tempos/ride_pressure_A_8bar_132.mid",
+    "bars": 8,
+    "bpm": 132,
+    "type": "cymbal_notes",
+    "description": "Ride pressure A embedded at 132 BPM."
+  },
+  {
+    "file": "13_Alt_Tempos/hat_ride_combo_A_8bar_132.mid",
+    "bars": 8,
+    "bpm": 132,
+    "type": "cymbal_notes",
+    "description": "Hat+ride combo A embedded at 132 BPM."
+  },
+  {
+    "file": "13_Alt_Tempos/peak_time_cymbal_engine_A_8bar_132.mid",
+    "bars": 8,
+    "bpm": 132,
+    "type": "cymbal_notes",
+    "description": "Peak-time cymbal engine A embedded at 132 BPM."
+  },
+  {
+    "file": "13_Alt_Tempos/closed_hat_groove_A_8bar_134.mid",
+    "bars": 8,
+    "bpm": 134,
+    "type": "cymbal_notes",
+    "description": "Closed-hat groove A embedded at 134 BPM."
+  },
+  {
+    "file": "13_Alt_Tempos/open_hat_drive_A_8bar_134.mid",
+    "bars": 8,
+    "bpm": 134,
+    "type": "cymbal_notes",
+    "description": "Open-hat drive A embedded at 134 BPM."
+  },
+  {
+    "file": "13_Alt_Tempos/ride_pressure_A_8bar_134.mid",
+    "bars": 8,
+    "bpm": 134,
+    "type": "cymbal_notes",
+    "description": "Ride pressure A embedded at 134 BPM."
+  },
+  {
+    "file": "13_Alt_Tempos/hat_ride_combo_A_8bar_134.mid",
+    "bars": 8,
+    "bpm": 134,
+    "type": "cymbal_notes",
+    "description": "Hat+ride combo A embedded at 134 BPM."
+  },
+  {
+    "file": "13_Alt_Tempos/peak_time_cymbal_engine_A_8bar_134.mid",
+    "bars": 8,
+    "bpm": 134,
+    "type": "cymbal_notes",
+    "description": "Peak-time cymbal engine A embedded at 134 BPM."
+  },
+  {
+    "file": "13_Alt_Tempos/closed_hat_groove_A_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Closed-hat groove A embedded at 136 BPM."
+  },
+  {
+    "file": "13_Alt_Tempos/open_hat_drive_A_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Open-hat drive A embedded at 136 BPM."
+  },
+  {
+    "file": "13_Alt_Tempos/ride_pressure_A_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Ride pressure A embedded at 136 BPM."
+  },
+  {
+    "file": "13_Alt_Tempos/hat_ride_combo_A_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Hat+ride combo A embedded at 136 BPM."
+  },
+  {
+    "file": "13_Alt_Tempos/peak_time_cymbal_engine_A_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "cymbal_notes",
+    "description": "Peak-time cymbal engine A embedded at 136 BPM."
+  },
+  {
+    "file": "13_Alt_Tempos/closed_hat_groove_A_8bar_138.mid",
+    "bars": 8,
+    "bpm": 138,
+    "type": "cymbal_notes",
+    "description": "Closed-hat groove A embedded at 138 BPM."
+  },
+  {
+    "file": "13_Alt_Tempos/open_hat_drive_A_8bar_138.mid",
+    "bars": 8,
+    "bpm": 138,
+    "type": "cymbal_notes",
+    "description": "Open-hat drive A embedded at 138 BPM."
+  },
+  {
+    "file": "13_Alt_Tempos/ride_pressure_A_8bar_138.mid",
+    "bars": 8,
+    "bpm": 138,
+    "type": "cymbal_notes",
+    "description": "Ride pressure A embedded at 138 BPM."
+  },
+  {
+    "file": "13_Alt_Tempos/hat_ride_combo_A_8bar_138.mid",
+    "bars": 8,
+    "bpm": 138,
+    "type": "cymbal_notes",
+    "description": "Hat+ride combo A embedded at 138 BPM."
+  },
+  {
+    "file": "13_Alt_Tempos/peak_time_cymbal_engine_A_8bar_138.mid",
+    "bars": 8,
+    "bpm": 138,
+    "type": "cymbal_notes",
+    "description": "Peak-time cymbal engine A embedded at 138 BPM."
+  },
+  {
+    "file": "13_Alt_Tempos/closed_hat_groove_A_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "cymbal_notes",
+    "description": "Closed-hat groove A embedded at 140 BPM."
+  },
+  {
+    "file": "13_Alt_Tempos/open_hat_drive_A_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "cymbal_notes",
+    "description": "Open-hat drive A embedded at 140 BPM."
+  },
+  {
+    "file": "13_Alt_Tempos/ride_pressure_A_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "cymbal_notes",
+    "description": "Ride pressure A embedded at 140 BPM."
+  },
+  {
+    "file": "13_Alt_Tempos/hat_ride_combo_A_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "cymbal_notes",
+    "description": "Hat+ride combo A embedded at 140 BPM."
+  },
+  {
+    "file": "13_Alt_Tempos/peak_time_cymbal_engine_A_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "cymbal_notes",
+    "description": "Peak-time cymbal engine A embedded at 140 BPM."
+  },
+  {
+    "file": "14_Cymbal_CC_Macros/cymbal_brightness_opening_64bar_CC74_CC71_CC75.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "cc_only",
+    "description": "Filter/brightness opening."
+  },
+  {
+    "file": "14_Cymbal_CC_Macros/cymbal_decay_release_motion_64bar_CC73_CC72_CC77.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "cc_only",
+    "description": "Decay/release/attack motion."
+  },
+  {
+    "file": "14_Cymbal_CC_Macros/ride_space_send_motion_64bar_CC91_CC93_CC74.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "cc_only",
+    "description": "Ride reverb/delay motion."
+  },
+  {
+    "file": "14_Cymbal_CC_Macros/cymbal_density_drive_build_64bar_CC70_CC76_CC74.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "cc_only",
+    "description": "Density/drive/filter build."
+  },
+  {
+    "file": "14_Cymbal_CC_Macros/cymbal_strip_mixout_64bar_CC74_CC73_CC91.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "cc_only",
+    "description": "Strip/mixout macro."
+  },
+  {
+    "file": "14_Cymbal_CC_Macros/neutral_cymbal_macro_bed_64bar_CC74_CC73_CC91.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "cc_only",
+    "description": "Neutral cymbal macro bed."
+  },
+  {
+    "file": "14_Cymbal_CC_Macros/cymbal_brightness_fast_32bar_CC74_CC71_CC75.mid",
+    "bars": 32,
+    "bpm": 136,
+    "type": "cc_only",
+    "description": "32-bar brightness opening."
+  },
+  {
+    "file": "14_Cymbal_CC_Macros/cymbal_strip_fast_32bar_CC74_CC73_CC91.mid",
+    "bars": 32,
+    "bpm": 136,
+    "type": "cc_only",
+    "description": "32-bar strip/mixout."
+  }
+]

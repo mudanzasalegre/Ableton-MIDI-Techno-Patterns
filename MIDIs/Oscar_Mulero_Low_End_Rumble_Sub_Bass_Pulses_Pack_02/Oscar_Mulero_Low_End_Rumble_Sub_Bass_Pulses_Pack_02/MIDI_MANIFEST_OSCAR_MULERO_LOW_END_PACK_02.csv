@@ -1,0 +1,181 @@
+file,bars,bpm,type,description
+01_Rumble_Triggers/rumble_trigger_var_01_8bar_136.mid,8,136,note,Rumble trigger pattern variation 1; route to filtered reverb/delay/sub chain.
+01_Rumble_Triggers/rumble_trigger_var_01_16bar_136.mid,16,136,note,Extended rumble trigger pattern variation 1.
+01_Rumble_Triggers/rumble_trigger_var_02_8bar_136.mid,8,136,note,Rumble trigger pattern variation 2; route to filtered reverb/delay/sub chain.
+01_Rumble_Triggers/rumble_trigger_var_02_16bar_136.mid,16,136,note,Extended rumble trigger pattern variation 2.
+01_Rumble_Triggers/rumble_trigger_var_03_8bar_136.mid,8,136,note,Rumble trigger pattern variation 3; route to filtered reverb/delay/sub chain.
+01_Rumble_Triggers/rumble_trigger_var_03_16bar_136.mid,16,136,note,Extended rumble trigger pattern variation 3.
+01_Rumble_Triggers/rumble_trigger_var_04_8bar_136.mid,8,136,note,Rumble trigger pattern variation 4; route to filtered reverb/delay/sub chain.
+01_Rumble_Triggers/rumble_trigger_var_04_16bar_136.mid,16,136,note,Extended rumble trigger pattern variation 4.
+01_Rumble_Triggers/rumble_trigger_var_05_8bar_136.mid,8,136,note,Rumble trigger pattern variation 5; route to filtered reverb/delay/sub chain.
+01_Rumble_Triggers/rumble_trigger_var_05_16bar_136.mid,16,136,note,Extended rumble trigger pattern variation 5.
+01_Rumble_Triggers/rumble_trigger_var_06_8bar_136.mid,8,136,note,Rumble trigger pattern variation 6; route to filtered reverb/delay/sub chain.
+01_Rumble_Triggers/rumble_trigger_var_06_16bar_136.mid,16,136,note,Extended rumble trigger pattern variation 6.
+01_Rumble_Triggers/rumble_trigger_var_07_8bar_136.mid,8,136,note,Rumble trigger pattern variation 7; route to filtered reverb/delay/sub chain.
+01_Rumble_Triggers/rumble_trigger_var_07_16bar_136.mid,16,136,note,Extended rumble trigger pattern variation 7.
+01_Rumble_Triggers/rumble_trigger_var_08_8bar_136.mid,8,136,note,Rumble trigger pattern variation 8; route to filtered reverb/delay/sub chain.
+01_Rumble_Triggers/rumble_trigger_var_08_16bar_136.mid,16,136,note,Extended rumble trigger pattern variation 8.
+01_Rumble_Triggers/rumble_trigger_var_09_8bar_136.mid,8,136,note,Rumble trigger pattern variation 9; route to filtered reverb/delay/sub chain.
+01_Rumble_Triggers/rumble_trigger_var_09_16bar_136.mid,16,136,note,Extended rumble trigger pattern variation 9.
+01_Rumble_Triggers/rumble_trigger_var_10_8bar_136.mid,8,136,note,Rumble trigger pattern variation 10; route to filtered reverb/delay/sub chain.
+01_Rumble_Triggers/rumble_trigger_var_10_16bar_136.mid,16,136,note,Extended rumble trigger pattern variation 10.
+01_Rumble_Triggers/rumble_trigger_var_11_8bar_136.mid,8,136,note,Rumble trigger pattern variation 11; route to filtered reverb/delay/sub chain.
+01_Rumble_Triggers/rumble_trigger_var_11_16bar_136.mid,16,136,note,Extended rumble trigger pattern variation 11.
+01_Rumble_Triggers/rumble_trigger_var_12_8bar_136.mid,8,136,note,Rumble trigger pattern variation 12; route to filtered reverb/delay/sub chain.
+01_Rumble_Triggers/rumble_trigger_var_12_16bar_136.mid,16,136,note,Extended rumble trigger pattern variation 12.
+02_Sub_Pulse_Engines/sub_pulse_engine_var_01_8bar_136.mid,8,136,note,Sub pulse engine variation 1.
+02_Sub_Pulse_Engines/sub_pulse_engine_var_01_16bar_136.mid,16,136,note,Extended sub pulse engine variation 1.
+02_Sub_Pulse_Engines/sub_pulse_engine_var_02_8bar_136.mid,8,136,note,Sub pulse engine variation 2.
+02_Sub_Pulse_Engines/sub_pulse_engine_var_02_16bar_136.mid,16,136,note,Extended sub pulse engine variation 2.
+02_Sub_Pulse_Engines/sub_pulse_engine_var_03_8bar_136.mid,8,136,note,Sub pulse engine variation 3.
+02_Sub_Pulse_Engines/sub_pulse_engine_var_03_16bar_136.mid,16,136,note,Extended sub pulse engine variation 3.
+02_Sub_Pulse_Engines/sub_pulse_engine_var_04_8bar_136.mid,8,136,note,Sub pulse engine variation 4.
+02_Sub_Pulse_Engines/sub_pulse_engine_var_04_16bar_136.mid,16,136,note,Extended sub pulse engine variation 4.
+02_Sub_Pulse_Engines/sub_pulse_engine_var_05_8bar_136.mid,8,136,note,Sub pulse engine variation 5.
+02_Sub_Pulse_Engines/sub_pulse_engine_var_05_16bar_136.mid,16,136,note,Extended sub pulse engine variation 5.
+02_Sub_Pulse_Engines/sub_pulse_engine_var_06_8bar_136.mid,8,136,note,Sub pulse engine variation 6.
+02_Sub_Pulse_Engines/sub_pulse_engine_var_06_16bar_136.mid,16,136,note,Extended sub pulse engine variation 6.
+02_Sub_Pulse_Engines/sub_pulse_engine_var_07_8bar_136.mid,8,136,note,Sub pulse engine variation 7.
+02_Sub_Pulse_Engines/sub_pulse_engine_var_07_16bar_136.mid,16,136,note,Extended sub pulse engine variation 7.
+02_Sub_Pulse_Engines/sub_pulse_engine_var_08_8bar_136.mid,8,136,note,Sub pulse engine variation 8.
+02_Sub_Pulse_Engines/sub_pulse_engine_var_08_16bar_136.mid,16,136,note,Extended sub pulse engine variation 8.
+02_Sub_Pulse_Engines/sub_pulse_engine_var_09_8bar_136.mid,8,136,note,Sub pulse engine variation 9.
+02_Sub_Pulse_Engines/sub_pulse_engine_var_09_16bar_136.mid,16,136,note,Extended sub pulse engine variation 9.
+02_Sub_Pulse_Engines/sub_pulse_engine_var_10_8bar_136.mid,8,136,note,Sub pulse engine variation 10.
+02_Sub_Pulse_Engines/sub_pulse_engine_var_10_16bar_136.mid,16,136,note,Extended sub pulse engine variation 10.
+02_Sub_Pulse_Engines/sub_pulse_engine_var_11_8bar_136.mid,8,136,note,Sub pulse engine variation 11.
+02_Sub_Pulse_Engines/sub_pulse_engine_var_11_16bar_136.mid,16,136,note,Extended sub pulse engine variation 11.
+02_Sub_Pulse_Engines/sub_pulse_engine_var_12_8bar_136.mid,8,136,note,Sub pulse engine variation 12.
+02_Sub_Pulse_Engines/sub_pulse_engine_var_12_16bar_136.mid,16,136,note,Extended sub pulse engine variation 12.
+03_Low_Stabs/low_stabs_var_01_8bar_136.mid,8,136,note,Short mono low stabs variation 1.
+03_Low_Stabs/low_stabs_var_01_16bar_136.mid,16,136,note,Extended short mono low stabs variation 1.
+03_Low_Stabs/low_stabs_var_02_8bar_136.mid,8,136,note,Short mono low stabs variation 2.
+03_Low_Stabs/low_stabs_var_02_16bar_136.mid,16,136,note,Extended short mono low stabs variation 2.
+03_Low_Stabs/low_stabs_var_03_8bar_136.mid,8,136,note,Short mono low stabs variation 3.
+03_Low_Stabs/low_stabs_var_03_16bar_136.mid,16,136,note,Extended short mono low stabs variation 3.
+03_Low_Stabs/low_stabs_var_04_8bar_136.mid,8,136,note,Short mono low stabs variation 4.
+03_Low_Stabs/low_stabs_var_04_16bar_136.mid,16,136,note,Extended short mono low stabs variation 4.
+03_Low_Stabs/low_stabs_var_05_8bar_136.mid,8,136,note,Short mono low stabs variation 5.
+03_Low_Stabs/low_stabs_var_05_16bar_136.mid,16,136,note,Extended short mono low stabs variation 5.
+03_Low_Stabs/low_stabs_var_06_8bar_136.mid,8,136,note,Short mono low stabs variation 6.
+03_Low_Stabs/low_stabs_var_06_16bar_136.mid,16,136,note,Extended short mono low stabs variation 6.
+03_Low_Stabs/low_stabs_var_07_8bar_136.mid,8,136,note,Short mono low stabs variation 7.
+03_Low_Stabs/low_stabs_var_07_16bar_136.mid,16,136,note,Extended short mono low stabs variation 7.
+03_Low_Stabs/low_stabs_var_08_8bar_136.mid,8,136,note,Short mono low stabs variation 8.
+03_Low_Stabs/low_stabs_var_08_16bar_136.mid,16,136,note,Extended short mono low stabs variation 8.
+03_Low_Stabs/low_stabs_var_09_8bar_136.mid,8,136,note,Short mono low stabs variation 9.
+03_Low_Stabs/low_stabs_var_09_16bar_136.mid,16,136,note,Extended short mono low stabs variation 9.
+03_Low_Stabs/low_stabs_var_10_8bar_136.mid,8,136,note,Short mono low stabs variation 10.
+03_Low_Stabs/low_stabs_var_10_16bar_136.mid,16,136,note,Extended short mono low stabs variation 10.
+03_Low_Stabs/low_stabs_var_11_8bar_136.mid,8,136,note,Short mono low stabs variation 11.
+03_Low_Stabs/low_stabs_var_11_16bar_136.mid,16,136,note,Extended short mono low stabs variation 11.
+03_Low_Stabs/low_stabs_var_12_8bar_136.mid,8,136,note,Short mono low stabs variation 12.
+03_Low_Stabs/low_stabs_var_12_16bar_136.mid,16,136,note,Extended short mono low stabs variation 12.
+04_Tunnel_Bass_Lines/tunnel_bass_line_var_01_8bar_136.mid,8,136,note,Hypnotic tunnel bass line variation 1.
+04_Tunnel_Bass_Lines/tunnel_bass_line_var_01_16bar_136.mid,16,136,note,Extended hypnotic tunnel bass line variation 1.
+04_Tunnel_Bass_Lines/tunnel_bass_line_var_02_8bar_136.mid,8,136,note,Hypnotic tunnel bass line variation 2.
+04_Tunnel_Bass_Lines/tunnel_bass_line_var_02_16bar_136.mid,16,136,note,Extended hypnotic tunnel bass line variation 2.
+04_Tunnel_Bass_Lines/tunnel_bass_line_var_03_8bar_136.mid,8,136,note,Hypnotic tunnel bass line variation 3.
+04_Tunnel_Bass_Lines/tunnel_bass_line_var_03_16bar_136.mid,16,136,note,Extended hypnotic tunnel bass line variation 3.
+04_Tunnel_Bass_Lines/tunnel_bass_line_var_04_8bar_136.mid,8,136,note,Hypnotic tunnel bass line variation 4.
+04_Tunnel_Bass_Lines/tunnel_bass_line_var_04_16bar_136.mid,16,136,note,Extended hypnotic tunnel bass line variation 4.
+04_Tunnel_Bass_Lines/tunnel_bass_line_var_05_8bar_136.mid,8,136,note,Hypnotic tunnel bass line variation 5.
+04_Tunnel_Bass_Lines/tunnel_bass_line_var_05_16bar_136.mid,16,136,note,Extended hypnotic tunnel bass line variation 5.
+04_Tunnel_Bass_Lines/tunnel_bass_line_var_06_8bar_136.mid,8,136,note,Hypnotic tunnel bass line variation 6.
+04_Tunnel_Bass_Lines/tunnel_bass_line_var_06_16bar_136.mid,16,136,note,Extended hypnotic tunnel bass line variation 6.
+04_Tunnel_Bass_Lines/tunnel_bass_line_var_07_8bar_136.mid,8,136,note,Hypnotic tunnel bass line variation 7.
+04_Tunnel_Bass_Lines/tunnel_bass_line_var_07_16bar_136.mid,16,136,note,Extended hypnotic tunnel bass line variation 7.
+04_Tunnel_Bass_Lines/tunnel_bass_line_var_08_8bar_136.mid,8,136,note,Hypnotic tunnel bass line variation 8.
+04_Tunnel_Bass_Lines/tunnel_bass_line_var_08_16bar_136.mid,16,136,note,Extended hypnotic tunnel bass line variation 8.
+04_Tunnel_Bass_Lines/tunnel_bass_line_var_09_8bar_136.mid,8,136,note,Hypnotic tunnel bass line variation 9.
+04_Tunnel_Bass_Lines/tunnel_bass_line_var_09_16bar_136.mid,16,136,note,Extended hypnotic tunnel bass line variation 9.
+04_Tunnel_Bass_Lines/tunnel_bass_line_var_10_8bar_136.mid,8,136,note,Hypnotic tunnel bass line variation 10.
+04_Tunnel_Bass_Lines/tunnel_bass_line_var_10_16bar_136.mid,16,136,note,Extended hypnotic tunnel bass line variation 10.
+04_Tunnel_Bass_Lines/tunnel_bass_line_var_11_8bar_136.mid,8,136,note,Hypnotic tunnel bass line variation 11.
+04_Tunnel_Bass_Lines/tunnel_bass_line_var_11_16bar_136.mid,16,136,note,Extended hypnotic tunnel bass line variation 11.
+04_Tunnel_Bass_Lines/tunnel_bass_line_var_12_8bar_136.mid,8,136,note,Hypnotic tunnel bass line variation 12.
+04_Tunnel_Bass_Lines/tunnel_bass_line_var_12_16bar_136.mid,16,136,note,Extended hypnotic tunnel bass line variation 12.
+05_Drones_And_Textures/low_drone_texture_var_01_8bar_136.mid,8,136,note,Low drone / texture note pattern variation 1.
+05_Drones_And_Textures/low_drone_texture_var_01_16bar_136.mid,16,136,note,Extended low drone / texture note pattern variation 1.
+05_Drones_And_Textures/low_drone_texture_var_02_8bar_136.mid,8,136,note,Low drone / texture note pattern variation 2.
+05_Drones_And_Textures/low_drone_texture_var_02_16bar_136.mid,16,136,note,Extended low drone / texture note pattern variation 2.
+05_Drones_And_Textures/low_drone_texture_var_03_8bar_136.mid,8,136,note,Low drone / texture note pattern variation 3.
+05_Drones_And_Textures/low_drone_texture_var_03_16bar_136.mid,16,136,note,Extended low drone / texture note pattern variation 3.
+05_Drones_And_Textures/low_drone_texture_var_04_8bar_136.mid,8,136,note,Low drone / texture note pattern variation 4.
+05_Drones_And_Textures/low_drone_texture_var_04_16bar_136.mid,16,136,note,Extended low drone / texture note pattern variation 4.
+05_Drones_And_Textures/low_drone_texture_var_05_8bar_136.mid,8,136,note,Low drone / texture note pattern variation 5.
+05_Drones_And_Textures/low_drone_texture_var_05_16bar_136.mid,16,136,note,Extended low drone / texture note pattern variation 5.
+05_Drones_And_Textures/low_drone_texture_var_06_8bar_136.mid,8,136,note,Low drone / texture note pattern variation 6.
+05_Drones_And_Textures/low_drone_texture_var_06_16bar_136.mid,16,136,note,Extended low drone / texture note pattern variation 6.
+05_Drones_And_Textures/low_drone_texture_var_07_8bar_136.mid,8,136,note,Low drone / texture note pattern variation 7.
+05_Drones_And_Textures/low_drone_texture_var_07_16bar_136.mid,16,136,note,Extended low drone / texture note pattern variation 7.
+05_Drones_And_Textures/low_drone_texture_var_08_8bar_136.mid,8,136,note,Low drone / texture note pattern variation 8.
+05_Drones_And_Textures/low_drone_texture_var_08_16bar_136.mid,16,136,note,Extended low drone / texture note pattern variation 8.
+05_Drones_And_Textures/low_drone_texture_var_09_8bar_136.mid,8,136,note,Low drone / texture note pattern variation 9.
+05_Drones_And_Textures/low_drone_texture_var_09_16bar_136.mid,16,136,note,Extended low drone / texture note pattern variation 9.
+05_Drones_And_Textures/low_drone_texture_var_10_8bar_136.mid,8,136,note,Low drone / texture note pattern variation 10.
+05_Drones_And_Textures/low_drone_texture_var_10_16bar_136.mid,16,136,note,Extended low drone / texture note pattern variation 10.
+05_Drones_And_Textures/low_drone_texture_var_11_8bar_136.mid,8,136,note,Low drone / texture note pattern variation 11.
+05_Drones_And_Textures/low_drone_texture_var_11_16bar_136.mid,16,136,note,Extended low drone / texture note pattern variation 11.
+05_Drones_And_Textures/low_drone_texture_var_12_8bar_136.mid,8,136,note,Low drone / texture note pattern variation 12.
+05_Drones_And_Textures/low_drone_texture_var_12_16bar_136.mid,16,136,note,Extended low drone / texture note pattern variation 12.
+06_Broken_Low_End/broken_low_end_var_01_8bar_136.mid,8,136,note,Broken/off-kilter low-end pattern variation 1.
+06_Broken_Low_End/broken_low_end_var_01_16bar_136.mid,16,136,note,Extended broken/off-kilter low-end pattern variation 1.
+06_Broken_Low_End/broken_low_end_var_02_8bar_136.mid,8,136,note,Broken/off-kilter low-end pattern variation 2.
+06_Broken_Low_End/broken_low_end_var_02_16bar_136.mid,16,136,note,Extended broken/off-kilter low-end pattern variation 2.
+06_Broken_Low_End/broken_low_end_var_03_8bar_136.mid,8,136,note,Broken/off-kilter low-end pattern variation 3.
+06_Broken_Low_End/broken_low_end_var_03_16bar_136.mid,16,136,note,Extended broken/off-kilter low-end pattern variation 3.
+06_Broken_Low_End/broken_low_end_var_04_8bar_136.mid,8,136,note,Broken/off-kilter low-end pattern variation 4.
+06_Broken_Low_End/broken_low_end_var_04_16bar_136.mid,16,136,note,Extended broken/off-kilter low-end pattern variation 4.
+06_Broken_Low_End/broken_low_end_var_05_8bar_136.mid,8,136,note,Broken/off-kilter low-end pattern variation 5.
+06_Broken_Low_End/broken_low_end_var_05_16bar_136.mid,16,136,note,Extended broken/off-kilter low-end pattern variation 5.
+06_Broken_Low_End/broken_low_end_var_06_8bar_136.mid,8,136,note,Broken/off-kilter low-end pattern variation 6.
+06_Broken_Low_End/broken_low_end_var_06_16bar_136.mid,16,136,note,Extended broken/off-kilter low-end pattern variation 6.
+06_Broken_Low_End/broken_low_end_var_07_8bar_136.mid,8,136,note,Broken/off-kilter low-end pattern variation 7.
+06_Broken_Low_End/broken_low_end_var_07_16bar_136.mid,16,136,note,Extended broken/off-kilter low-end pattern variation 7.
+06_Broken_Low_End/broken_low_end_var_08_8bar_136.mid,8,136,note,Broken/off-kilter low-end pattern variation 8.
+06_Broken_Low_End/broken_low_end_var_08_16bar_136.mid,16,136,note,Extended broken/off-kilter low-end pattern variation 8.
+06_Broken_Low_End/broken_low_end_var_09_8bar_136.mid,8,136,note,Broken/off-kilter low-end pattern variation 9.
+06_Broken_Low_End/broken_low_end_var_09_16bar_136.mid,16,136,note,Extended broken/off-kilter low-end pattern variation 9.
+06_Broken_Low_End/broken_low_end_var_10_8bar_136.mid,8,136,note,Broken/off-kilter low-end pattern variation 10.
+06_Broken_Low_End/broken_low_end_var_10_16bar_136.mid,16,136,note,Extended broken/off-kilter low-end pattern variation 10.
+07_Call_Response_Low/call_response_low_var_01_8bar_136.mid,8,136,note,Two-bar call/response low-end phrase variation 1.
+07_Call_Response_Low/call_response_low_var_02_8bar_136.mid,8,136,note,Two-bar call/response low-end phrase variation 2.
+07_Call_Response_Low/call_response_low_var_03_8bar_136.mid,8,136,note,Two-bar call/response low-end phrase variation 3.
+07_Call_Response_Low/call_response_low_var_04_8bar_136.mid,8,136,note,Two-bar call/response low-end phrase variation 4.
+07_Call_Response_Low/call_response_low_var_05_8bar_136.mid,8,136,note,Two-bar call/response low-end phrase variation 5.
+07_Call_Response_Low/call_response_low_var_06_8bar_136.mid,8,136,note,Two-bar call/response low-end phrase variation 6.
+07_Call_Response_Low/call_response_low_var_07_8bar_136.mid,8,136,note,Two-bar call/response low-end phrase variation 7.
+07_Call_Response_Low/call_response_low_var_08_8bar_136.mid,8,136,note,Two-bar call/response low-end phrase variation 8.
+08_Low_End_Arrangements/low_end_arrangement_64bar_style_01_136.mid,64,136,note,"64-bar low-end arrangement style 1: rumble, bass and drone layers."
+08_Low_End_Arrangements/low_end_arrangement_64bar_style_02_136.mid,64,136,note,"64-bar low-end arrangement style 2: rumble, bass and drone layers."
+08_Low_End_Arrangements/low_end_arrangement_64bar_style_03_136.mid,64,136,note,"64-bar low-end arrangement style 3: rumble, bass and drone layers."
+08_Low_End_Arrangements/low_end_arrangement_64bar_style_04_136.mid,64,136,note,"64-bar low-end arrangement style 4: rumble, bass and drone layers."
+08_Low_End_Arrangements/low_end_arrangement_64bar_style_05_136.mid,64,136,note,"64-bar low-end arrangement style 5: rumble, bass and drone layers."
+08_Low_End_Arrangements/low_end_arrangement_64bar_style_06_136.mid,64,136,note,"64-bar low-end arrangement style 6: rumble, bass and drone layers."
+08_Low_End_Arrangements/low_end_arrangement_64bar_style_07_136.mid,64,136,note,"64-bar low-end arrangement style 7: rumble, bass and drone layers."
+08_Low_End_Arrangements/low_end_arrangement_64bar_style_08_136.mid,64,136,note,"64-bar low-end arrangement style 8: rumble, bass and drone layers."
+08_Low_End_Arrangements/low_end_arrangement_128bar_dark_tunnel_01_136.mid,128,136,note,128-bar dark tunnel low-end arrangement 1.
+08_Low_End_Arrangements/low_end_arrangement_128bar_dark_tunnel_02_136.mid,128,136,note,128-bar dark tunnel low-end arrangement 2.
+09_Alt_Tempos/rumble_trigger_A_8bar_132.mid,8,132,note,Rumble trigger A embedded at 132 BPM.
+09_Alt_Tempos/sub_pulse_A_8bar_132.mid,8,132,note,Sub pulse A embedded at 132 BPM.
+09_Alt_Tempos/tunnel_bass_A_8bar_132.mid,8,132,note,Tunnel bass A embedded at 132 BPM.
+09_Alt_Tempos/low_drone_A_8bar_132.mid,8,132,note,Low drone A embedded at 132 BPM.
+09_Alt_Tempos/rumble_trigger_A_8bar_134.mid,8,134,note,Rumble trigger A embedded at 134 BPM.
+09_Alt_Tempos/sub_pulse_A_8bar_134.mid,8,134,note,Sub pulse A embedded at 134 BPM.
+09_Alt_Tempos/tunnel_bass_A_8bar_134.mid,8,134,note,Tunnel bass A embedded at 134 BPM.
+09_Alt_Tempos/low_drone_A_8bar_134.mid,8,134,note,Low drone A embedded at 134 BPM.
+09_Alt_Tempos/rumble_trigger_A_8bar_138.mid,8,138,note,Rumble trigger A embedded at 138 BPM.
+09_Alt_Tempos/sub_pulse_A_8bar_138.mid,8,138,note,Sub pulse A embedded at 138 BPM.
+09_Alt_Tempos/tunnel_bass_A_8bar_138.mid,8,138,note,Tunnel bass A embedded at 138 BPM.
+09_Alt_Tempos/low_drone_A_8bar_138.mid,8,138,note,Low drone A embedded at 138 BPM.
+09_Alt_Tempos/rumble_trigger_A_8bar_140.mid,8,140,note,Rumble trigger A embedded at 140 BPM.
+09_Alt_Tempos/sub_pulse_A_8bar_140.mid,8,140,note,Sub pulse A embedded at 140 BPM.
+09_Alt_Tempos/tunnel_bass_A_8bar_140.mid,8,140,note,Tunnel bass A embedded at 140 BPM.
+09_Alt_Tempos/low_drone_A_8bar_140.mid,8,140,note,Low drone A embedded at 140 BPM.
+10_Low_End_CC_Macros/filter_resonance_64bar_CC74_CC71.mid,64,136,cc_only,CC74 filter/lowpass and CC71 resonance.
+10_Low_End_CC_Macros/drive_decay_64bar_CC76_CC73.mid,64,136,cc_only,CC76 drive/saturation and CC73 decay.
+10_Low_End_CC_Macros/sidechain_gate_release_64bar_CC70_CC72.mid,64,136,cc_only,CC70 sidechain/gate depth and CC72 release.
+10_Low_End_CC_Macros/rumble_space_sends_64bar_CC91_CC93.mid,64,136,cc_only,CC91 rumble/reverb send and CC93 delay/mod send.
+10_Low_End_CC_Macros/contour_attack_64bar_CC75_CC77.mid,64,136,cc_only,CC75 contour/shape and CC77 attack/noise macro.
+10_Low_End_CC_Macros/combined_lowend_motion_64bar_CC74_CC76_CC70.mid,64,136,cc_only,Combined low-end motion macro clip.

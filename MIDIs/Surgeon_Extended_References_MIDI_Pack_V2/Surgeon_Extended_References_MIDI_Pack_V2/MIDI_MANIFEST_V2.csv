@@ -1,0 +1,30 @@
+file,bars,bpm,tracks,description
+07_BlandAmbition_DynamicTension/drums_bland_roller_A_136.mid,8,136,Drum Rack - Bland Roller A,"Off-centre rolling 4x4 with ghost triggers, metal hit displacement and asymmetric snare details."
+07_BlandAmbition_DynamicTension/drums_bland_offcentre_B_136.mid,8,136,Drum Rack - Bland Offcentre B,Darker off-centre roller with 5-step metal behaviour and shifted snare/kick emphasis.
+07_BlandAmbition_DynamicTension/hats_bland_devilish_detailing_136.mid,8,136,Drum Rack - Bland Hat Detailing,High-pressure hat detailing clip: uneven accents and late ride/noise triggers.
+07_BlandAmbition_DynamicTension/perc_bland_speaker_humper_136.mid,8,136,Drum Rack - Bland Low/Metal Perc,Low tom body and metallic polyrhythm for speaker-pressure layering.
+07_BlandAmbition_DynamicTension/bass_bland_stab_F_Ab_Gb_136.mid,8,136,Bass - Bland F/Ab/Gb Stabs,"Short mono bass stabs around F, Ab and Gb; built for saturation and sidechain."
+07_BlandAmbition_DynamicTension/full_groove_bland_ambition_8bar_136.mid,8,136,"Drum Rack - Bland Full, Bass - Bland Stabs",Full 8-bar Dynamic Tension-style roller: straight pressure plus off-centre machine details.
+08_WaitingForMe_Counterbalance/drums_waiting_for_me_A_pounding_136.mid,8,136,Drum Rack - Waiting A Pounding,"Pounding Counterbalance-style loop: strict kick, sparse snare, high hat pressure."
+08_WaitingForMe_Counterbalance/drums_waiting_for_me_B_pursuit_136.mid,8,136,Drum Rack - Waiting B Pursuit,Tighter pursuit groove with extra ghost triggers and stricter drive.
+08_WaitingForMe_Counterbalance/hats_waiting_strict_open_closed_136.mid,8,136,Drum Rack - Waiting Strict Hats,Strict open/closed hat clip designed to sit on a hard 4x4 kick.
+08_WaitingForMe_Counterbalance/bass_waiting_for_me_F_C_Gb_136.mid,8,136,Bass - Waiting F/C/Gb,Short low stabs with occasional C2/Gb tension notes.
+08_WaitingForMe_Counterbalance/full_groove_waiting_for_me_8bar_136.mid,8,136,"Drum Rack - Waiting Full, Bass - Waiting F/C/Gb",Full 8-bar pounding Counterbalance-style groove.
+09_DynamicTension_EP_1995_2014Remaster/action_drums_action_136.mid,8,136,Drum Rack - DT EP Action,Abstract Action-oriented drum clip: original early-intensity Dynamic Tension grammar.
+09_DynamicTension_EP_1995_2014Remaster/action_bass_action_136.mid,8,136,Bass - DT EP Action,Original mono bass clip paired to Action-style drum logic.
+09_DynamicTension_EP_1995_2014Remaster/full_groove_action_8bar_136.mid,8,136,"Drum Rack - DT EP Action Full, Bass - DT EP Action","Full 8-bar groove named after the Action design idea; original, not a transcription."
+09_DynamicTension_EP_1995_2014Remaster/balance_drums_balance_136.mid,8,136,Drum Rack - DT EP Balance,Abstract Balance-oriented drum clip: original early-intensity Dynamic Tension grammar.
+09_DynamicTension_EP_1995_2014Remaster/balance_bass_balance_136.mid,8,136,Bass - DT EP Balance,Original mono bass clip paired to Balance-style drum logic.
+09_DynamicTension_EP_1995_2014Remaster/full_groove_balance_8bar_136.mid,8,136,"Drum Rack - DT EP Balance Full, Bass - DT EP Balance","Full 8-bar groove named after the Balance design idea; original, not a transcription."
+09_DynamicTension_EP_1995_2014Remaster/poise_drums_poise_136.mid,8,136,Drum Rack - DT EP Poise,Abstract Poise-oriented drum clip: original early-intensity Dynamic Tension grammar.
+09_DynamicTension_EP_1995_2014Remaster/poise_bass_poise_136.mid,8,136,Bass - DT EP Poise,Original mono bass clip paired to Poise-style drum logic.
+09_DynamicTension_EP_1995_2014Remaster/full_groove_poise_8bar_136.mid,8,136,"Drum Rack - DT EP Poise Full, Bass - DT EP Poise","Full 8-bar groove named after the Poise design idea; original, not a transcription."
+09_DynamicTension_EP_1995_2014Remaster/posture_drums_posture_136.mid,8,136,Drum Rack - DT EP Posture,Abstract Posture-oriented drum clip: original early-intensity Dynamic Tension grammar.
+09_DynamicTension_EP_1995_2014Remaster/posture_bass_posture_136.mid,8,136,Bass - DT EP Posture,Original mono bass clip paired to Posture-style drum logic.
+09_DynamicTension_EP_1995_2014Remaster/full_groove_posture_8bar_136.mid,8,136,"Drum Rack - DT EP Posture Full, Bass - DT EP Posture","Full 8-bar groove named after the Posture design idea; original, not a transcription."
+10_V2_Arrangements/arrangement_64bar_bland_ambition_roller_136.mid,64,136,"Drum Rack - Bland Arrangement Drums, Drum Rack - Bland Arrangement Perc, Bass - Bland Arrangement",64-bar off-centre roller arrangement focused on Bland Ambition-style pressure and detail.
+10_V2_Arrangements/arrangement_64bar_waiting_for_me_counterbalance_136.mid,64,136,"Drum Rack - Waiting Arrangement, Bass - Waiting Arrangement",64-bar pounding Counterbalance-style arrangement.
+10_V2_Arrangements/arrangement_128bar_dynamic_tension_early_to_modern_136.mid,128,136,"Drum Rack - DT 128 Drums, Drum Rack - DT 128 Perc, Bass - DT 128 Bass",128-bar arrangement moving from early Dynamic Tension logic into later off-centre roller pressure.
+11_CC_Automation/filter_brightness_resonance_64bar_CC74_CC71.mid,64,136,CC - Filter/Resonance,MIDI CC clip: CC74 brightness/filter and CC71 resonance over 64 bars.
+11_CC_Automation/reverb_delay_send_64bar_CC91_CC93.mid,64,136,CC - Send Reverb/Delay,MIDI CC clip: CC91 and CC93 send-style automation for spatial tension.
+11_CC_Automation/decay_drive_macro_64bar_CC73_CC76.mid,64,136,CC - Decay/Drive Macro,MIDI CC clip: CC73 and CC76 intended for decay/drive macro mapping.

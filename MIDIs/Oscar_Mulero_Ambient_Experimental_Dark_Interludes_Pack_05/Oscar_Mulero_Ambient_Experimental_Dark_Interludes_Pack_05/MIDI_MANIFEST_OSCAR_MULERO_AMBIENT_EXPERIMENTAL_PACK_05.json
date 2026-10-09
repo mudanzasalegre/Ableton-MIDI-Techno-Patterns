@@ -1,0 +1,2114 @@
+[
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_01_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar dark ambient drone variation 1."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_01_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar extended dark ambient drone variation 1."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_01_64bar_110.mid",
+    "bars": 64,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "64-bar long dark ambient drone variation 1."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_02_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar dark ambient drone variation 2."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_02_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar extended dark ambient drone variation 2."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_02_64bar_110.mid",
+    "bars": 64,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "64-bar long dark ambient drone variation 2."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_03_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar dark ambient drone variation 3."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_03_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar extended dark ambient drone variation 3."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_03_64bar_110.mid",
+    "bars": 64,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "64-bar long dark ambient drone variation 3."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_04_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar dark ambient drone variation 4."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_04_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar extended dark ambient drone variation 4."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_04_64bar_110.mid",
+    "bars": 64,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "64-bar long dark ambient drone variation 4."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_05_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar dark ambient drone variation 5."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_05_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar extended dark ambient drone variation 5."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_05_64bar_110.mid",
+    "bars": 64,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "64-bar long dark ambient drone variation 5."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_06_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar dark ambient drone variation 6."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_06_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar extended dark ambient drone variation 6."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_06_64bar_110.mid",
+    "bars": 64,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "64-bar long dark ambient drone variation 6."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_07_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar dark ambient drone variation 7."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_07_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar extended dark ambient drone variation 7."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_07_64bar_110.mid",
+    "bars": 64,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "64-bar long dark ambient drone variation 7."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_08_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar dark ambient drone variation 8."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_08_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar extended dark ambient drone variation 8."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_08_64bar_110.mid",
+    "bars": 64,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "64-bar long dark ambient drone variation 8."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_09_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar dark ambient drone variation 9."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_09_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar extended dark ambient drone variation 9."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_09_64bar_110.mid",
+    "bars": 64,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "64-bar long dark ambient drone variation 9."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_10_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar dark ambient drone variation 10."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_10_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar extended dark ambient drone variation 10."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_10_64bar_110.mid",
+    "bars": 64,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "64-bar long dark ambient drone variation 10."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_11_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar dark ambient drone variation 11."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_11_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar extended dark ambient drone variation 11."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_11_64bar_110.mid",
+    "bars": 64,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "64-bar long dark ambient drone variation 11."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_12_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar dark ambient drone variation 12."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_12_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar extended dark ambient drone variation 12."
+  },
+  {
+    "file": "01_Dark_Ambient_Drones/dark_ambient_drone_var_12_64bar_110.mid",
+    "bars": 64,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "64-bar long dark ambient drone variation 12."
+  },
+  {
+    "file": "02_Spectral_Clusters_And_Texture_Beds/spectral_cluster_var_01_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar spectral cluster / texture bed variation 1."
+  },
+  {
+    "file": "02_Spectral_Clusters_And_Texture_Beds/spectral_cluster_var_01_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar spectral cluster / texture bed variation 1."
+  },
+  {
+    "file": "02_Spectral_Clusters_And_Texture_Beds/spectral_cluster_var_02_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar spectral cluster / texture bed variation 2."
+  },
+  {
+    "file": "02_Spectral_Clusters_And_Texture_Beds/spectral_cluster_var_02_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar spectral cluster / texture bed variation 2."
+  },
+  {
+    "file": "02_Spectral_Clusters_And_Texture_Beds/spectral_cluster_var_03_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar spectral cluster / texture bed variation 3."
+  },
+  {
+    "file": "02_Spectral_Clusters_And_Texture_Beds/spectral_cluster_var_03_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar spectral cluster / texture bed variation 3."
+  },
+  {
+    "file": "02_Spectral_Clusters_And_Texture_Beds/spectral_cluster_var_04_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar spectral cluster / texture bed variation 4."
+  },
+  {
+    "file": "02_Spectral_Clusters_And_Texture_Beds/spectral_cluster_var_04_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar spectral cluster / texture bed variation 4."
+  },
+  {
+    "file": "02_Spectral_Clusters_And_Texture_Beds/spectral_cluster_var_05_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar spectral cluster / texture bed variation 5."
+  },
+  {
+    "file": "02_Spectral_Clusters_And_Texture_Beds/spectral_cluster_var_05_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar spectral cluster / texture bed variation 5."
+  },
+  {
+    "file": "02_Spectral_Clusters_And_Texture_Beds/spectral_cluster_var_06_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar spectral cluster / texture bed variation 6."
+  },
+  {
+    "file": "02_Spectral_Clusters_And_Texture_Beds/spectral_cluster_var_06_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar spectral cluster / texture bed variation 6."
+  },
+  {
+    "file": "02_Spectral_Clusters_And_Texture_Beds/spectral_cluster_var_07_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar spectral cluster / texture bed variation 7."
+  },
+  {
+    "file": "02_Spectral_Clusters_And_Texture_Beds/spectral_cluster_var_07_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar spectral cluster / texture bed variation 7."
+  },
+  {
+    "file": "02_Spectral_Clusters_And_Texture_Beds/spectral_cluster_var_08_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar spectral cluster / texture bed variation 8."
+  },
+  {
+    "file": "02_Spectral_Clusters_And_Texture_Beds/spectral_cluster_var_08_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar spectral cluster / texture bed variation 8."
+  },
+  {
+    "file": "02_Spectral_Clusters_And_Texture_Beds/spectral_cluster_var_09_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar spectral cluster / texture bed variation 9."
+  },
+  {
+    "file": "02_Spectral_Clusters_And_Texture_Beds/spectral_cluster_var_09_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar spectral cluster / texture bed variation 9."
+  },
+  {
+    "file": "02_Spectral_Clusters_And_Texture_Beds/spectral_cluster_var_10_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar spectral cluster / texture bed variation 10."
+  },
+  {
+    "file": "02_Spectral_Clusters_And_Texture_Beds/spectral_cluster_var_10_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar spectral cluster / texture bed variation 10."
+  },
+  {
+    "file": "02_Spectral_Clusters_And_Texture_Beds/spectral_cluster_var_11_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar spectral cluster / texture bed variation 11."
+  },
+  {
+    "file": "02_Spectral_Clusters_And_Texture_Beds/spectral_cluster_var_11_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar spectral cluster / texture bed variation 11."
+  },
+  {
+    "file": "02_Spectral_Clusters_And_Texture_Beds/spectral_cluster_var_12_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar spectral cluster / texture bed variation 12."
+  },
+  {
+    "file": "02_Spectral_Clusters_And_Texture_Beds/spectral_cluster_var_12_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar spectral cluster / texture bed variation 12."
+  },
+  {
+    "file": "03_Ritual_Industrial_Percussion/ritual_industrial_perc_var_01_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar sparse ritual/industrial percussion variation 1."
+  },
+  {
+    "file": "03_Ritual_Industrial_Percussion/ritual_industrial_perc_var_01_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar sparse ritual/industrial percussion variation 1."
+  },
+  {
+    "file": "03_Ritual_Industrial_Percussion/ritual_industrial_perc_var_02_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar sparse ritual/industrial percussion variation 2."
+  },
+  {
+    "file": "03_Ritual_Industrial_Percussion/ritual_industrial_perc_var_02_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar sparse ritual/industrial percussion variation 2."
+  },
+  {
+    "file": "03_Ritual_Industrial_Percussion/ritual_industrial_perc_var_03_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar sparse ritual/industrial percussion variation 3."
+  },
+  {
+    "file": "03_Ritual_Industrial_Percussion/ritual_industrial_perc_var_03_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar sparse ritual/industrial percussion variation 3."
+  },
+  {
+    "file": "03_Ritual_Industrial_Percussion/ritual_industrial_perc_var_04_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar sparse ritual/industrial percussion variation 4."
+  },
+  {
+    "file": "03_Ritual_Industrial_Percussion/ritual_industrial_perc_var_04_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar sparse ritual/industrial percussion variation 4."
+  },
+  {
+    "file": "03_Ritual_Industrial_Percussion/ritual_industrial_perc_var_05_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar sparse ritual/industrial percussion variation 5."
+  },
+  {
+    "file": "03_Ritual_Industrial_Percussion/ritual_industrial_perc_var_05_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar sparse ritual/industrial percussion variation 5."
+  },
+  {
+    "file": "03_Ritual_Industrial_Percussion/ritual_industrial_perc_var_06_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar sparse ritual/industrial percussion variation 6."
+  },
+  {
+    "file": "03_Ritual_Industrial_Percussion/ritual_industrial_perc_var_06_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar sparse ritual/industrial percussion variation 6."
+  },
+  {
+    "file": "03_Ritual_Industrial_Percussion/ritual_industrial_perc_var_07_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar sparse ritual/industrial percussion variation 7."
+  },
+  {
+    "file": "03_Ritual_Industrial_Percussion/ritual_industrial_perc_var_07_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar sparse ritual/industrial percussion variation 7."
+  },
+  {
+    "file": "03_Ritual_Industrial_Percussion/ritual_industrial_perc_var_08_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar sparse ritual/industrial percussion variation 8."
+  },
+  {
+    "file": "03_Ritual_Industrial_Percussion/ritual_industrial_perc_var_08_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar sparse ritual/industrial percussion variation 8."
+  },
+  {
+    "file": "03_Ritual_Industrial_Percussion/ritual_industrial_perc_var_09_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar sparse ritual/industrial percussion variation 9."
+  },
+  {
+    "file": "03_Ritual_Industrial_Percussion/ritual_industrial_perc_var_09_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar sparse ritual/industrial percussion variation 9."
+  },
+  {
+    "file": "03_Ritual_Industrial_Percussion/ritual_industrial_perc_var_10_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar sparse ritual/industrial percussion variation 10."
+  },
+  {
+    "file": "03_Ritual_Industrial_Percussion/ritual_industrial_perc_var_10_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar sparse ritual/industrial percussion variation 10."
+  },
+  {
+    "file": "03_Ritual_Industrial_Percussion/ritual_industrial_perc_var_11_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar sparse ritual/industrial percussion variation 11."
+  },
+  {
+    "file": "03_Ritual_Industrial_Percussion/ritual_industrial_perc_var_11_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar sparse ritual/industrial percussion variation 11."
+  },
+  {
+    "file": "03_Ritual_Industrial_Percussion/ritual_industrial_perc_var_12_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar sparse ritual/industrial percussion variation 12."
+  },
+  {
+    "file": "03_Ritual_Industrial_Percussion/ritual_industrial_perc_var_12_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar sparse ritual/industrial percussion variation 12."
+  },
+  {
+    "file": "04_No_Kick_Interludes/no_kick_interlude_var_01_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 4,
+    "description": "16-bar no-kick dark interlude variation 1."
+  },
+  {
+    "file": "04_No_Kick_Interludes/no_kick_interlude_var_01_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 4,
+    "description": "32-bar no-kick dark interlude variation 1."
+  },
+  {
+    "file": "04_No_Kick_Interludes/no_kick_interlude_var_02_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 4,
+    "description": "16-bar no-kick dark interlude variation 2."
+  },
+  {
+    "file": "04_No_Kick_Interludes/no_kick_interlude_var_02_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 4,
+    "description": "32-bar no-kick dark interlude variation 2."
+  },
+  {
+    "file": "04_No_Kick_Interludes/no_kick_interlude_var_03_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 4,
+    "description": "16-bar no-kick dark interlude variation 3."
+  },
+  {
+    "file": "04_No_Kick_Interludes/no_kick_interlude_var_03_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 4,
+    "description": "32-bar no-kick dark interlude variation 3."
+  },
+  {
+    "file": "04_No_Kick_Interludes/no_kick_interlude_var_04_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 4,
+    "description": "16-bar no-kick dark interlude variation 4."
+  },
+  {
+    "file": "04_No_Kick_Interludes/no_kick_interlude_var_04_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 4,
+    "description": "32-bar no-kick dark interlude variation 4."
+  },
+  {
+    "file": "04_No_Kick_Interludes/no_kick_interlude_var_05_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 4,
+    "description": "16-bar no-kick dark interlude variation 5."
+  },
+  {
+    "file": "04_No_Kick_Interludes/no_kick_interlude_var_05_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 4,
+    "description": "32-bar no-kick dark interlude variation 5."
+  },
+  {
+    "file": "04_No_Kick_Interludes/no_kick_interlude_var_06_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 4,
+    "description": "16-bar no-kick dark interlude variation 6."
+  },
+  {
+    "file": "04_No_Kick_Interludes/no_kick_interlude_var_06_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 4,
+    "description": "32-bar no-kick dark interlude variation 6."
+  },
+  {
+    "file": "04_No_Kick_Interludes/no_kick_interlude_var_07_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 4,
+    "description": "16-bar no-kick dark interlude variation 7."
+  },
+  {
+    "file": "04_No_Kick_Interludes/no_kick_interlude_var_07_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 4,
+    "description": "32-bar no-kick dark interlude variation 7."
+  },
+  {
+    "file": "04_No_Kick_Interludes/no_kick_interlude_var_08_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 4,
+    "description": "16-bar no-kick dark interlude variation 8."
+  },
+  {
+    "file": "04_No_Kick_Interludes/no_kick_interlude_var_08_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 4,
+    "description": "32-bar no-kick dark interlude variation 8."
+  },
+  {
+    "file": "04_No_Kick_Interludes/no_kick_interlude_var_09_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 4,
+    "description": "16-bar no-kick dark interlude variation 9."
+  },
+  {
+    "file": "04_No_Kick_Interludes/no_kick_interlude_var_09_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 4,
+    "description": "32-bar no-kick dark interlude variation 9."
+  },
+  {
+    "file": "04_No_Kick_Interludes/no_kick_interlude_var_10_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 4,
+    "description": "16-bar no-kick dark interlude variation 10."
+  },
+  {
+    "file": "04_No_Kick_Interludes/no_kick_interlude_var_10_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 4,
+    "description": "32-bar no-kick dark interlude variation 10."
+  },
+  {
+    "file": "04_No_Kick_Interludes/no_kick_interlude_var_11_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 4,
+    "description": "16-bar no-kick dark interlude variation 11."
+  },
+  {
+    "file": "04_No_Kick_Interludes/no_kick_interlude_var_11_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 4,
+    "description": "32-bar no-kick dark interlude variation 11."
+  },
+  {
+    "file": "04_No_Kick_Interludes/no_kick_interlude_var_12_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 4,
+    "description": "16-bar no-kick dark interlude variation 12."
+  },
+  {
+    "file": "04_No_Kick_Interludes/no_kick_interlude_var_12_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 4,
+    "description": "32-bar no-kick dark interlude variation 12."
+  },
+  {
+    "file": "05_FM_Noise_Signals/fm_noise_signal_var_01_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar FM/noise signal trigger variation 1."
+  },
+  {
+    "file": "05_FM_Noise_Signals/fm_noise_signal_var_01_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar FM/noise signal trigger variation 1."
+  },
+  {
+    "file": "05_FM_Noise_Signals/fm_noise_signal_var_02_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar FM/noise signal trigger variation 2."
+  },
+  {
+    "file": "05_FM_Noise_Signals/fm_noise_signal_var_02_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar FM/noise signal trigger variation 2."
+  },
+  {
+    "file": "05_FM_Noise_Signals/fm_noise_signal_var_03_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar FM/noise signal trigger variation 3."
+  },
+  {
+    "file": "05_FM_Noise_Signals/fm_noise_signal_var_03_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar FM/noise signal trigger variation 3."
+  },
+  {
+    "file": "05_FM_Noise_Signals/fm_noise_signal_var_04_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar FM/noise signal trigger variation 4."
+  },
+  {
+    "file": "05_FM_Noise_Signals/fm_noise_signal_var_04_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar FM/noise signal trigger variation 4."
+  },
+  {
+    "file": "05_FM_Noise_Signals/fm_noise_signal_var_05_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar FM/noise signal trigger variation 5."
+  },
+  {
+    "file": "05_FM_Noise_Signals/fm_noise_signal_var_05_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar FM/noise signal trigger variation 5."
+  },
+  {
+    "file": "05_FM_Noise_Signals/fm_noise_signal_var_06_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar FM/noise signal trigger variation 6."
+  },
+  {
+    "file": "05_FM_Noise_Signals/fm_noise_signal_var_06_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar FM/noise signal trigger variation 6."
+  },
+  {
+    "file": "05_FM_Noise_Signals/fm_noise_signal_var_07_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar FM/noise signal trigger variation 7."
+  },
+  {
+    "file": "05_FM_Noise_Signals/fm_noise_signal_var_07_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar FM/noise signal trigger variation 7."
+  },
+  {
+    "file": "05_FM_Noise_Signals/fm_noise_signal_var_08_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar FM/noise signal trigger variation 8."
+  },
+  {
+    "file": "05_FM_Noise_Signals/fm_noise_signal_var_08_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar FM/noise signal trigger variation 8."
+  },
+  {
+    "file": "05_FM_Noise_Signals/fm_noise_signal_var_09_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar FM/noise signal trigger variation 9."
+  },
+  {
+    "file": "05_FM_Noise_Signals/fm_noise_signal_var_09_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar FM/noise signal trigger variation 9."
+  },
+  {
+    "file": "05_FM_Noise_Signals/fm_noise_signal_var_10_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar FM/noise signal trigger variation 10."
+  },
+  {
+    "file": "05_FM_Noise_Signals/fm_noise_signal_var_10_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar FM/noise signal trigger variation 10."
+  },
+  {
+    "file": "05_FM_Noise_Signals/fm_noise_signal_var_11_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar FM/noise signal trigger variation 11."
+  },
+  {
+    "file": "05_FM_Noise_Signals/fm_noise_signal_var_11_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar FM/noise signal trigger variation 11."
+  },
+  {
+    "file": "05_FM_Noise_Signals/fm_noise_signal_var_12_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar FM/noise signal trigger variation 12."
+  },
+  {
+    "file": "05_FM_Noise_Signals/fm_noise_signal_var_12_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar FM/noise signal trigger variation 12."
+  },
+  {
+    "file": "06_Cinematic_Stings_Impacts/cinematic_sting_impact_var_01_8bar_110.mid",
+    "bars": 8,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 3,
+    "description": "8-bar cinematic sting/impact variation 1."
+  },
+  {
+    "file": "06_Cinematic_Stings_Impacts/cinematic_sting_impact_var_01_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 3,
+    "description": "16-bar cinematic sting/impact variation 1."
+  },
+  {
+    "file": "06_Cinematic_Stings_Impacts/cinematic_sting_impact_var_02_8bar_110.mid",
+    "bars": 8,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 3,
+    "description": "8-bar cinematic sting/impact variation 2."
+  },
+  {
+    "file": "06_Cinematic_Stings_Impacts/cinematic_sting_impact_var_02_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 3,
+    "description": "16-bar cinematic sting/impact variation 2."
+  },
+  {
+    "file": "06_Cinematic_Stings_Impacts/cinematic_sting_impact_var_03_8bar_110.mid",
+    "bars": 8,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 3,
+    "description": "8-bar cinematic sting/impact variation 3."
+  },
+  {
+    "file": "06_Cinematic_Stings_Impacts/cinematic_sting_impact_var_03_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 3,
+    "description": "16-bar cinematic sting/impact variation 3."
+  },
+  {
+    "file": "06_Cinematic_Stings_Impacts/cinematic_sting_impact_var_04_8bar_110.mid",
+    "bars": 8,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 3,
+    "description": "8-bar cinematic sting/impact variation 4."
+  },
+  {
+    "file": "06_Cinematic_Stings_Impacts/cinematic_sting_impact_var_04_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 3,
+    "description": "16-bar cinematic sting/impact variation 4."
+  },
+  {
+    "file": "06_Cinematic_Stings_Impacts/cinematic_sting_impact_var_05_8bar_110.mid",
+    "bars": 8,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 3,
+    "description": "8-bar cinematic sting/impact variation 5."
+  },
+  {
+    "file": "06_Cinematic_Stings_Impacts/cinematic_sting_impact_var_05_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 3,
+    "description": "16-bar cinematic sting/impact variation 5."
+  },
+  {
+    "file": "06_Cinematic_Stings_Impacts/cinematic_sting_impact_var_06_8bar_110.mid",
+    "bars": 8,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 3,
+    "description": "8-bar cinematic sting/impact variation 6."
+  },
+  {
+    "file": "06_Cinematic_Stings_Impacts/cinematic_sting_impact_var_06_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 3,
+    "description": "16-bar cinematic sting/impact variation 6."
+  },
+  {
+    "file": "06_Cinematic_Stings_Impacts/cinematic_sting_impact_var_07_8bar_110.mid",
+    "bars": 8,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 3,
+    "description": "8-bar cinematic sting/impact variation 7."
+  },
+  {
+    "file": "06_Cinematic_Stings_Impacts/cinematic_sting_impact_var_07_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 3,
+    "description": "16-bar cinematic sting/impact variation 7."
+  },
+  {
+    "file": "06_Cinematic_Stings_Impacts/cinematic_sting_impact_var_08_8bar_110.mid",
+    "bars": 8,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 3,
+    "description": "8-bar cinematic sting/impact variation 8."
+  },
+  {
+    "file": "06_Cinematic_Stings_Impacts/cinematic_sting_impact_var_08_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 3,
+    "description": "16-bar cinematic sting/impact variation 8."
+  },
+  {
+    "file": "06_Cinematic_Stings_Impacts/cinematic_sting_impact_var_09_8bar_110.mid",
+    "bars": 8,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 3,
+    "description": "8-bar cinematic sting/impact variation 9."
+  },
+  {
+    "file": "06_Cinematic_Stings_Impacts/cinematic_sting_impact_var_09_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 3,
+    "description": "16-bar cinematic sting/impact variation 9."
+  },
+  {
+    "file": "06_Cinematic_Stings_Impacts/cinematic_sting_impact_var_10_8bar_110.mid",
+    "bars": 8,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 3,
+    "description": "8-bar cinematic sting/impact variation 10."
+  },
+  {
+    "file": "06_Cinematic_Stings_Impacts/cinematic_sting_impact_var_10_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 3,
+    "description": "16-bar cinematic sting/impact variation 10."
+  },
+  {
+    "file": "07_Broken_Slow_Pulses/broken_slow_pulse_var_01_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar broken slow pulse variation 1."
+  },
+  {
+    "file": "07_Broken_Slow_Pulses/broken_slow_pulse_var_01_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar broken slow pulse variation 1."
+  },
+  {
+    "file": "07_Broken_Slow_Pulses/broken_slow_pulse_var_02_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar broken slow pulse variation 2."
+  },
+  {
+    "file": "07_Broken_Slow_Pulses/broken_slow_pulse_var_02_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar broken slow pulse variation 2."
+  },
+  {
+    "file": "07_Broken_Slow_Pulses/broken_slow_pulse_var_03_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar broken slow pulse variation 3."
+  },
+  {
+    "file": "07_Broken_Slow_Pulses/broken_slow_pulse_var_03_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar broken slow pulse variation 3."
+  },
+  {
+    "file": "07_Broken_Slow_Pulses/broken_slow_pulse_var_04_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar broken slow pulse variation 4."
+  },
+  {
+    "file": "07_Broken_Slow_Pulses/broken_slow_pulse_var_04_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar broken slow pulse variation 4."
+  },
+  {
+    "file": "07_Broken_Slow_Pulses/broken_slow_pulse_var_05_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar broken slow pulse variation 5."
+  },
+  {
+    "file": "07_Broken_Slow_Pulses/broken_slow_pulse_var_05_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar broken slow pulse variation 5."
+  },
+  {
+    "file": "07_Broken_Slow_Pulses/broken_slow_pulse_var_06_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar broken slow pulse variation 6."
+  },
+  {
+    "file": "07_Broken_Slow_Pulses/broken_slow_pulse_var_06_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar broken slow pulse variation 6."
+  },
+  {
+    "file": "07_Broken_Slow_Pulses/broken_slow_pulse_var_07_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar broken slow pulse variation 7."
+  },
+  {
+    "file": "07_Broken_Slow_Pulses/broken_slow_pulse_var_07_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar broken slow pulse variation 7."
+  },
+  {
+    "file": "07_Broken_Slow_Pulses/broken_slow_pulse_var_08_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar broken slow pulse variation 8."
+  },
+  {
+    "file": "07_Broken_Slow_Pulses/broken_slow_pulse_var_08_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar broken slow pulse variation 8."
+  },
+  {
+    "file": "07_Broken_Slow_Pulses/broken_slow_pulse_var_09_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar broken slow pulse variation 9."
+  },
+  {
+    "file": "07_Broken_Slow_Pulses/broken_slow_pulse_var_09_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar broken slow pulse variation 9."
+  },
+  {
+    "file": "07_Broken_Slow_Pulses/broken_slow_pulse_var_10_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar broken slow pulse variation 10."
+  },
+  {
+    "file": "07_Broken_Slow_Pulses/broken_slow_pulse_var_10_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar broken slow pulse variation 10."
+  },
+  {
+    "file": "07_Broken_Slow_Pulses/broken_slow_pulse_var_11_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar broken slow pulse variation 11."
+  },
+  {
+    "file": "07_Broken_Slow_Pulses/broken_slow_pulse_var_11_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar broken slow pulse variation 11."
+  },
+  {
+    "file": "07_Broken_Slow_Pulses/broken_slow_pulse_var_12_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar broken slow pulse variation 12."
+  },
+  {
+    "file": "07_Broken_Slow_Pulses/broken_slow_pulse_var_12_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar broken slow pulse variation 12."
+  },
+  {
+    "file": "08_Atonal_Mineral_Cells/atonal_mineral_cell_var_01_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar atonal mineral cell variation 1."
+  },
+  {
+    "file": "08_Atonal_Mineral_Cells/atonal_mineral_cell_var_01_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar atonal mineral cell variation 1."
+  },
+  {
+    "file": "08_Atonal_Mineral_Cells/atonal_mineral_cell_var_02_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar atonal mineral cell variation 2."
+  },
+  {
+    "file": "08_Atonal_Mineral_Cells/atonal_mineral_cell_var_02_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar atonal mineral cell variation 2."
+  },
+  {
+    "file": "08_Atonal_Mineral_Cells/atonal_mineral_cell_var_03_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar atonal mineral cell variation 3."
+  },
+  {
+    "file": "08_Atonal_Mineral_Cells/atonal_mineral_cell_var_03_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar atonal mineral cell variation 3."
+  },
+  {
+    "file": "08_Atonal_Mineral_Cells/atonal_mineral_cell_var_04_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar atonal mineral cell variation 4."
+  },
+  {
+    "file": "08_Atonal_Mineral_Cells/atonal_mineral_cell_var_04_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar atonal mineral cell variation 4."
+  },
+  {
+    "file": "08_Atonal_Mineral_Cells/atonal_mineral_cell_var_05_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar atonal mineral cell variation 5."
+  },
+  {
+    "file": "08_Atonal_Mineral_Cells/atonal_mineral_cell_var_05_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar atonal mineral cell variation 5."
+  },
+  {
+    "file": "08_Atonal_Mineral_Cells/atonal_mineral_cell_var_06_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar atonal mineral cell variation 6."
+  },
+  {
+    "file": "08_Atonal_Mineral_Cells/atonal_mineral_cell_var_06_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar atonal mineral cell variation 6."
+  },
+  {
+    "file": "08_Atonal_Mineral_Cells/atonal_mineral_cell_var_07_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar atonal mineral cell variation 7."
+  },
+  {
+    "file": "08_Atonal_Mineral_Cells/atonal_mineral_cell_var_07_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar atonal mineral cell variation 7."
+  },
+  {
+    "file": "08_Atonal_Mineral_Cells/atonal_mineral_cell_var_08_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar atonal mineral cell variation 8."
+  },
+  {
+    "file": "08_Atonal_Mineral_Cells/atonal_mineral_cell_var_08_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar atonal mineral cell variation 8."
+  },
+  {
+    "file": "08_Atonal_Mineral_Cells/atonal_mineral_cell_var_09_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar atonal mineral cell variation 9."
+  },
+  {
+    "file": "08_Atonal_Mineral_Cells/atonal_mineral_cell_var_09_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar atonal mineral cell variation 9."
+  },
+  {
+    "file": "08_Atonal_Mineral_Cells/atonal_mineral_cell_var_10_16bar_110.mid",
+    "bars": 16,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "16-bar atonal mineral cell variation 10."
+  },
+  {
+    "file": "08_Atonal_Mineral_Cells/atonal_mineral_cell_var_10_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "note",
+    "tracks": 1,
+    "description": "32-bar atonal mineral cell variation 10."
+  },
+  {
+    "file": "09_Intro_Outro_Scapes/dark_intro_scape_var_01_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 5,
+    "description": "32-bar dark ambient intro scape variation 1."
+  },
+  {
+    "file": "09_Intro_Outro_Scapes/dark_outro_scape_var_01_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 5,
+    "description": "32-bar dark ambient outro scape variation 1."
+  },
+  {
+    "file": "09_Intro_Outro_Scapes/dark_intro_scape_var_02_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 5,
+    "description": "32-bar dark ambient intro scape variation 2."
+  },
+  {
+    "file": "09_Intro_Outro_Scapes/dark_outro_scape_var_02_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 5,
+    "description": "32-bar dark ambient outro scape variation 2."
+  },
+  {
+    "file": "09_Intro_Outro_Scapes/dark_intro_scape_var_03_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 5,
+    "description": "32-bar dark ambient intro scape variation 3."
+  },
+  {
+    "file": "09_Intro_Outro_Scapes/dark_outro_scape_var_03_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 5,
+    "description": "32-bar dark ambient outro scape variation 3."
+  },
+  {
+    "file": "09_Intro_Outro_Scapes/dark_intro_scape_var_04_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 5,
+    "description": "32-bar dark ambient intro scape variation 4."
+  },
+  {
+    "file": "09_Intro_Outro_Scapes/dark_outro_scape_var_04_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 5,
+    "description": "32-bar dark ambient outro scape variation 4."
+  },
+  {
+    "file": "09_Intro_Outro_Scapes/dark_intro_scape_var_05_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 5,
+    "description": "32-bar dark ambient intro scape variation 5."
+  },
+  {
+    "file": "09_Intro_Outro_Scapes/dark_outro_scape_var_05_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 5,
+    "description": "32-bar dark ambient outro scape variation 5."
+  },
+  {
+    "file": "09_Intro_Outro_Scapes/dark_intro_scape_var_06_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 5,
+    "description": "32-bar dark ambient intro scape variation 6."
+  },
+  {
+    "file": "09_Intro_Outro_Scapes/dark_outro_scape_var_06_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 5,
+    "description": "32-bar dark ambient outro scape variation 6."
+  },
+  {
+    "file": "09_Intro_Outro_Scapes/dark_intro_scape_var_07_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 5,
+    "description": "32-bar dark ambient intro scape variation 7."
+  },
+  {
+    "file": "09_Intro_Outro_Scapes/dark_outro_scape_var_07_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 5,
+    "description": "32-bar dark ambient outro scape variation 7."
+  },
+  {
+    "file": "09_Intro_Outro_Scapes/dark_intro_scape_var_08_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 5,
+    "description": "32-bar dark ambient intro scape variation 8."
+  },
+  {
+    "file": "09_Intro_Outro_Scapes/dark_outro_scape_var_08_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 5,
+    "description": "32-bar dark ambient outro scape variation 8."
+  },
+  {
+    "file": "09_Intro_Outro_Scapes/dark_intro_scape_var_09_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 5,
+    "description": "32-bar dark ambient intro scape variation 9."
+  },
+  {
+    "file": "09_Intro_Outro_Scapes/dark_outro_scape_var_09_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 5,
+    "description": "32-bar dark ambient outro scape variation 9."
+  },
+  {
+    "file": "09_Intro_Outro_Scapes/dark_intro_scape_var_10_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 5,
+    "description": "32-bar dark ambient intro scape variation 10."
+  },
+  {
+    "file": "09_Intro_Outro_Scapes/dark_outro_scape_var_10_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 5,
+    "description": "32-bar dark ambient outro scape variation 10."
+  },
+  {
+    "file": "09_Intro_Outro_Scapes/dark_intro_scape_var_11_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 5,
+    "description": "32-bar dark ambient intro scape variation 11."
+  },
+  {
+    "file": "09_Intro_Outro_Scapes/dark_outro_scape_var_11_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 5,
+    "description": "32-bar dark ambient outro scape variation 11."
+  },
+  {
+    "file": "09_Intro_Outro_Scapes/dark_intro_scape_var_12_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 5,
+    "description": "32-bar dark ambient intro scape variation 12."
+  },
+  {
+    "file": "09_Intro_Outro_Scapes/dark_outro_scape_var_12_32bar_110.mid",
+    "bars": 32,
+    "bpm": 110,
+    "type": "multitrack_note",
+    "tracks": 5,
+    "description": "32-bar dark ambient outro scape variation 12."
+  },
+  {
+    "file": "10_Long_Form_Dark_Ambient_Arrangements/dark_ambient_arrangement_64bar_var_01_110.mid",
+    "bars": 64,
+    "bpm": 110,
+    "type": "long_multitrack_arrangement",
+    "tracks": 5,
+    "description": "64-bar dark ambient arrangement variation 1."
+  },
+  {
+    "file": "10_Long_Form_Dark_Ambient_Arrangements/dark_ambient_arrangement_64bar_var_02_110.mid",
+    "bars": 64,
+    "bpm": 110,
+    "type": "long_multitrack_arrangement",
+    "tracks": 5,
+    "description": "64-bar dark ambient arrangement variation 2."
+  },
+  {
+    "file": "10_Long_Form_Dark_Ambient_Arrangements/dark_ambient_arrangement_64bar_var_03_110.mid",
+    "bars": 64,
+    "bpm": 110,
+    "type": "long_multitrack_arrangement",
+    "tracks": 5,
+    "description": "64-bar dark ambient arrangement variation 3."
+  },
+  {
+    "file": "10_Long_Form_Dark_Ambient_Arrangements/dark_ambient_arrangement_64bar_var_04_110.mid",
+    "bars": 64,
+    "bpm": 110,
+    "type": "long_multitrack_arrangement",
+    "tracks": 5,
+    "description": "64-bar dark ambient arrangement variation 4."
+  },
+  {
+    "file": "10_Long_Form_Dark_Ambient_Arrangements/dark_ambient_arrangement_128bar_var_01_110.mid",
+    "bars": 128,
+    "bpm": 110,
+    "type": "long_multitrack_arrangement",
+    "tracks": 6,
+    "description": "128-bar dark ambient arrangement variation 1."
+  },
+  {
+    "file": "10_Long_Form_Dark_Ambient_Arrangements/dark_ambient_arrangement_128bar_var_02_110.mid",
+    "bars": 128,
+    "bpm": 110,
+    "type": "long_multitrack_arrangement",
+    "tracks": 6,
+    "description": "128-bar dark ambient arrangement variation 2."
+  },
+  {
+    "file": "10_Long_Form_Dark_Ambient_Arrangements/dark_ambient_arrangement_128bar_var_03_110.mid",
+    "bars": 128,
+    "bpm": 110,
+    "type": "long_multitrack_arrangement",
+    "tracks": 6,
+    "description": "128-bar dark ambient arrangement variation 3."
+  },
+  {
+    "file": "10_Long_Form_Dark_Ambient_Arrangements/dark_ambient_arrangement_128bar_var_04_110.mid",
+    "bars": 128,
+    "bpm": 110,
+    "type": "long_multitrack_arrangement",
+    "tracks": 6,
+    "description": "128-bar dark ambient arrangement variation 4."
+  },
+  {
+    "file": "10_Long_Form_Dark_Ambient_Arrangements/dark_ambient_arrangement_256bar_var_01_110.mid",
+    "bars": 256,
+    "bpm": 110,
+    "type": "long_multitrack_arrangement",
+    "tracks": 6,
+    "description": "256-bar long dark ambient arrangement variation 1."
+  },
+  {
+    "file": "10_Long_Form_Dark_Ambient_Arrangements/dark_ambient_arrangement_256bar_var_02_110.mid",
+    "bars": 256,
+    "bpm": 110,
+    "type": "long_multitrack_arrangement",
+    "tracks": 6,
+    "description": "256-bar long dark ambient arrangement variation 2."
+  },
+  {
+    "file": "10_Long_Form_Dark_Ambient_Arrangements/dark_ambient_arrangement_256bar_var_03_110.mid",
+    "bars": 256,
+    "bpm": 110,
+    "type": "long_multitrack_arrangement",
+    "tracks": 6,
+    "description": "256-bar long dark ambient arrangement variation 3."
+  },
+  {
+    "file": "10_Long_Form_Dark_Ambient_Arrangements/dark_ambient_arrangement_256bar_var_04_110.mid",
+    "bars": 256,
+    "bpm": 110,
+    "type": "long_multitrack_arrangement",
+    "tracks": 6,
+    "description": "256-bar long dark ambient arrangement variation 4."
+  },
+  {
+    "file": "11_Alt_Tempos_Freeform/dark_ambient_drone_A_32bar_80.mid",
+    "bars": 32,
+    "bpm": 80,
+    "type": "note",
+    "tracks": 1,
+    "description": "Dark ambient drone A embedded at 80 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos_Freeform/no_kick_interlude_A_32bar_80.mid",
+    "bars": 32,
+    "bpm": 80,
+    "type": "multitrack_note",
+    "tracks": 4,
+    "description": "No-kick interlude A embedded at 80 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos_Freeform/broken_slow_pulse_A_32bar_80.mid",
+    "bars": 32,
+    "bpm": 80,
+    "type": "note",
+    "tracks": 1,
+    "description": "Broken slow pulse A embedded at 80 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos_Freeform/dark_intro_scape_A_32bar_80.mid",
+    "bars": 32,
+    "bpm": 80,
+    "type": "multitrack_note",
+    "tracks": 5,
+    "description": "Dark intro scape A embedded at 80 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos_Freeform/dark_ambient_drone_A_32bar_90.mid",
+    "bars": 32,
+    "bpm": 90,
+    "type": "note",
+    "tracks": 1,
+    "description": "Dark ambient drone A embedded at 90 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos_Freeform/no_kick_interlude_A_32bar_90.mid",
+    "bars": 32,
+    "bpm": 90,
+    "type": "multitrack_note",
+    "tracks": 4,
+    "description": "No-kick interlude A embedded at 90 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos_Freeform/broken_slow_pulse_A_32bar_90.mid",
+    "bars": 32,
+    "bpm": 90,
+    "type": "note",
+    "tracks": 1,
+    "description": "Broken slow pulse A embedded at 90 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos_Freeform/dark_intro_scape_A_32bar_90.mid",
+    "bars": 32,
+    "bpm": 90,
+    "type": "multitrack_note",
+    "tracks": 5,
+    "description": "Dark intro scape A embedded at 90 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos_Freeform/dark_ambient_drone_A_32bar_100.mid",
+    "bars": 32,
+    "bpm": 100,
+    "type": "note",
+    "tracks": 1,
+    "description": "Dark ambient drone A embedded at 100 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos_Freeform/no_kick_interlude_A_32bar_100.mid",
+    "bars": 32,
+    "bpm": 100,
+    "type": "multitrack_note",
+    "tracks": 4,
+    "description": "No-kick interlude A embedded at 100 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos_Freeform/broken_slow_pulse_A_32bar_100.mid",
+    "bars": 32,
+    "bpm": 100,
+    "type": "note",
+    "tracks": 1,
+    "description": "Broken slow pulse A embedded at 100 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos_Freeform/dark_intro_scape_A_32bar_100.mid",
+    "bars": 32,
+    "bpm": 100,
+    "type": "multitrack_note",
+    "tracks": 5,
+    "description": "Dark intro scape A embedded at 100 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos_Freeform/dark_ambient_drone_A_32bar_120.mid",
+    "bars": 32,
+    "bpm": 120,
+    "type": "note",
+    "tracks": 1,
+    "description": "Dark ambient drone A embedded at 120 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos_Freeform/no_kick_interlude_A_32bar_120.mid",
+    "bars": 32,
+    "bpm": 120,
+    "type": "multitrack_note",
+    "tracks": 4,
+    "description": "No-kick interlude A embedded at 120 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos_Freeform/broken_slow_pulse_A_32bar_120.mid",
+    "bars": 32,
+    "bpm": 120,
+    "type": "note",
+    "tracks": 1,
+    "description": "Broken slow pulse A embedded at 120 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos_Freeform/dark_intro_scape_A_32bar_120.mid",
+    "bars": 32,
+    "bpm": 120,
+    "type": "multitrack_note",
+    "tracks": 5,
+    "description": "Dark intro scape A embedded at 120 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos_Freeform/dark_ambient_drone_A_32bar_128.mid",
+    "bars": 32,
+    "bpm": 128,
+    "type": "note",
+    "tracks": 1,
+    "description": "Dark ambient drone A embedded at 128 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos_Freeform/no_kick_interlude_A_32bar_128.mid",
+    "bars": 32,
+    "bpm": 128,
+    "type": "multitrack_note",
+    "tracks": 4,
+    "description": "No-kick interlude A embedded at 128 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos_Freeform/broken_slow_pulse_A_32bar_128.mid",
+    "bars": 32,
+    "bpm": 128,
+    "type": "note",
+    "tracks": 1,
+    "description": "Broken slow pulse A embedded at 128 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos_Freeform/dark_intro_scape_A_32bar_128.mid",
+    "bars": 32,
+    "bpm": 128,
+    "type": "multitrack_note",
+    "tracks": 5,
+    "description": "Dark intro scape A embedded at 128 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos_Freeform/dark_ambient_drone_A_32bar_136.mid",
+    "bars": 32,
+    "bpm": 136,
+    "type": "note",
+    "tracks": 1,
+    "description": "Dark ambient drone A embedded at 136 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos_Freeform/no_kick_interlude_A_32bar_136.mid",
+    "bars": 32,
+    "bpm": 136,
+    "type": "multitrack_note",
+    "tracks": 4,
+    "description": "No-kick interlude A embedded at 136 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos_Freeform/broken_slow_pulse_A_32bar_136.mid",
+    "bars": 32,
+    "bpm": 136,
+    "type": "note",
+    "tracks": 1,
+    "description": "Broken slow pulse A embedded at 136 BPM."
+  },
+  {
+    "file": "11_Alt_Tempos_Freeform/dark_intro_scape_A_32bar_136.mid",
+    "bars": 32,
+    "bpm": 136,
+    "type": "multitrack_note",
+    "tracks": 5,
+    "description": "Dark intro scape A embedded at 136 BPM."
+  },
+  {
+    "file": "12_Ambient_Experimental_CC_Macros/dark_fade_64bar_CC74_CC71_CC91_CC93.mid",
+    "bars": 64,
+    "bpm": 110,
+    "type": "cc_only",
+    "tracks": 1,
+    "description": "Dark fade macro: closing filter, more space, resonance drift."
+  },
+  {
+    "file": "12_Ambient_Experimental_CC_Macros/opening_drone_64bar_CC74_CC76_CC91_CC75.mid",
+    "bars": 64,
+    "bpm": 110,
+    "type": "cc_only",
+    "tracks": 1,
+    "description": "Opening drone macro: filter, drive, space and contour increase."
+  },
+  {
+    "file": "12_Ambient_Experimental_CC_Macros/ritual_density_64bar_CC70_CC76_CC74.mid",
+    "bars": 64,
+    "bpm": 110,
+    "type": "cc_only",
+    "tracks": 1,
+    "description": "Ritual density macro: density/gate, drive and filter movement."
+  },
+  {
+    "file": "12_Ambient_Experimental_CC_Macros/noise_space_64bar_CC91_CC93_CC77.mid",
+    "bars": 64,
+    "bpm": 110,
+    "type": "cc_only",
+    "tracks": 1,
+    "description": "Noise/space macro: reverb, delay and noise/attack movement."
+  },
+  {
+    "file": "12_Ambient_Experimental_CC_Macros/slow_filter_orbit_64bar_CC74_CC71_CC72.mid",
+    "bars": 64,
+    "bpm": 110,
+    "type": "cc_only",
+    "tracks": 1,
+    "description": "Slow filter orbit macro: filter, resonance and release motion."
+  },
+  {
+    "file": "12_Ambient_Experimental_CC_Macros/cinematic_hit_control_64bar_CC76_CC75_CC91.mid",
+    "bars": 64,
+    "bpm": 110,
+    "type": "cc_only",
+    "tracks": 1,
+    "description": "Cinematic hit macro: drive, shape and reverb send."
+  },
+  {
+    "file": "12_Ambient_Experimental_CC_Macros/sub_air_tail_64bar_CC74_CC72_CC91_CC70.mid",
+    "bars": 64,
+    "bpm": 110,
+    "type": "cc_only",
+    "tracks": 1,
+    "description": "Sub/air tail macro: filter down, release/space up, density down."
+  },
+  {
+    "file": "12_Ambient_Experimental_CC_Macros/neutral_dark_ambient_64bar_CC74_CC91_CC93.mid",
+    "bars": 64,
+    "bpm": 110,
+    "type": "cc_only",
+    "tracks": 1,
+    "description": "Neutral dark ambient CC bed."
+  }
+]

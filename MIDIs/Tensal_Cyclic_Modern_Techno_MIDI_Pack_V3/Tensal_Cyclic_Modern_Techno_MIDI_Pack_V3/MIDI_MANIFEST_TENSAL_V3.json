@@ -1,0 +1,198 @@
+[
+  {
+    "file": "12_Tensal_Cyclic_Modern/drums_cyclic_modern_A_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - Tensal Cyclic A",
+    "description": "Cyclic modern 4x4 with ghost rumble triggers, metal displacement and asymmetric snare accents."
+  },
+  {
+    "file": "12_Tensal_Cyclic_Modern/drums_cyclic_modern_B_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - Tensal Cyclic B",
+    "description": "Alternative cyclic groove with 7-step metal hits and tighter late ghost triggers."
+  },
+  {
+    "file": "12_Tensal_Cyclic_Modern/hats_cyclic_velocity_pressure_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - Cyclic Hat Pressure",
+    "description": "Open/closed hat pressure clip with uneven velocities and cyclic machine detail."
+  },
+  {
+    "file": "12_Tensal_Cyclic_Modern/perc_cyclic_modern_metal_grid_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - Cyclic Metal Grid",
+    "description": "5/7/11-step metallic grid for cyclic texture and filter-delay processing."
+  },
+  {
+    "file": "12_Tensal_Cyclic_Modern/bass_cyclic_F_Gb_Ab_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Bass - Tensal Cyclic F/Gb/Ab",
+    "description": "Sparse functional bass stabs around F, Gb and Ab."
+  },
+  {
+    "file": "12_Tensal_Cyclic_Modern/synth_line_cyclic_classic_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Synth - Classic Cyclic Line",
+    "description": "Classic mono synth sequence: short cyclic F/Gb/Ab/C motion for filter automation."
+  },
+  {
+    "file": "12_Tensal_Cyclic_Modern/full_groove_cyclic_modern_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - Cyclic Full Drums, Bass - Cyclic F/Gb/Ab, Synth - Cyclic Classic",
+    "description": "Full 8-bar cyclic modern groove with drums, metallic grid, bass and classic synth line."
+  },
+  {
+    "file": "13_Tensal_Broken_Atmospheric/drums_broken_atmospheric_A_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - Broken Atmospheric A",
+    "description": "Off-kilter/broken techno groove with atmospheric percussion space."
+  },
+  {
+    "file": "13_Tensal_Broken_Atmospheric/drums_broken_atmospheric_B_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - Broken Atmospheric B",
+    "description": "Broken/straight hybrid with shifted kicks and less obvious snare placement."
+  },
+  {
+    "file": "13_Tensal_Broken_Atmospheric/perc_atmospheric_noise_grid_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - Atmospheric Noise Grid",
+    "description": "Noise/ride/zap grid for atmospheric layering."
+  },
+  {
+    "file": "13_Tensal_Broken_Atmospheric/bass_broken_F_Eb_Gb_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Bass - Broken F/Eb/Gb",
+    "description": "Broken pattern bass around F, Eb and Gb with off-beat movement."
+  },
+  {
+    "file": "13_Tensal_Broken_Atmospheric/synth_line_atmospheric_IDM_lean_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Synth - Atmospheric Cyclic Line",
+    "description": "Sparse upper cyclic line for atmospheric/IDM-leaning techno texture."
+  },
+  {
+    "file": "13_Tensal_Broken_Atmospheric/full_groove_broken_atmospheric_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - Broken Atmospheric Full, Bass - Broken F/Eb/Gb, Synth - Atmospheric Line",
+    "description": "Full 8-bar broken/atmospheric groove with sparse synth line."
+  },
+  {
+    "file": "14_Tensal_Analog_Modular_Lines/synth_line_filter_tension_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Synth - Filter Tension Line",
+    "description": "Monophonic filter-tension synth line with compact accents."
+  },
+  {
+    "file": "14_Tensal_Analog_Modular_Lines/synth_line_cyclic_16th_machine_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Synth - 16th Machine Sequence",
+    "description": "Machine-like 8-note two-16th cyclic synth sequence for filter/drive macro work."
+  },
+  {
+    "file": "14_Tensal_Analog_Modular_Lines/bass_modular_pulse_F_C_Gb_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Bass - Modular Pulse F/C/Gb",
+    "description": "Modular pulse-style bass triggers with F/C/Gb/Eb tension."
+  },
+  {
+    "file": "14_Tensal_Analog_Modular_Lines/perc_low_modular_body_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - Low Modular Body",
+    "description": "Low tom/body and metal grid for modular-feeling physical percussion."
+  },
+  {
+    "file": "14_Tensal_Analog_Modular_Lines/full_groove_analog_modular_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - Analog Modular Drums, Bass - Modular Pulse, Synth - Filter Tension",
+    "description": "Full 8-bar analog/modular-feeling groove with cyclic synth/bass pressure."
+  },
+  {
+    "file": "15_Tensal_Hard_Driving/drums_hard_driving_straight_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - Hard Driving Straight",
+    "description": "Straight hard-driving version: 4x4 kick, metal grid, high hat pressure."
+  },
+  {
+    "file": "15_Tensal_Hard_Driving/drums_hard_driving_cutback_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - Hard Driving Cutback",
+    "description": "Cutback version for intros/breakdowns before the metal texture enters."
+  },
+  {
+    "file": "15_Tensal_Hard_Driving/bass_hard_driving_low_stabs_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Bass - Hard Driving Low Stabs",
+    "description": "Low stabs designed to work with strong sidechain and saturation."
+  },
+  {
+    "file": "15_Tensal_Hard_Driving/full_groove_hard_driving_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "tracks": "Drum Rack - Hard Driving Full, Bass - Hard Driving, Synth - 16th Machine",
+    "description": "Full 8-bar hard-driving Tensal-like groove: physical, cyclic and club-oriented."
+  },
+  {
+    "file": "16_Tensal_Arrangements/arrangement_64bar_cyclic_modern_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "tracks": "Drum Rack - 64 Cyclic Drums, Bass - 64 Cyclic Bass, Synth - 64 Cyclic Synth",
+    "description": "64-bar cyclic modern arrangement: progressive density, break and return."
+  },
+  {
+    "file": "16_Tensal_Arrangements/arrangement_64bar_broken_atmospheric_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "tracks": "Drum Rack - 64 Broken Drums, Bass - 64 Broken Bass, Synth - 64 Atmospheric Synth",
+    "description": "64-bar broken/atmospheric arrangement with off-kilter drum pressure."
+  },
+  {
+    "file": "16_Tensal_Arrangements/arrangement_128bar_modern_cyclic_modular_136.mid",
+    "bars": 128,
+    "bpm": 136,
+    "tracks": "Drum Rack - 128 Modern Cyclic Drums, Bass - 128 Bass, Synth - 128 Synth Lines, CC - 128 Filter/Drive Macros",
+    "description": "128-bar modern cyclic/modular arrangement with CC filter/drive macro track."
+  },
+  {
+    "file": "17_Tensal_CC_Macro/filter_resonance_drive_64bar_CC74_CC71_CC76.mid",
+    "bars": 64,
+    "bpm": 136,
+    "tracks": "CC - Filter Resonance Drive",
+    "description": "CC74/CC71/CC76 macro clip for filter, resonance and drive."
+  },
+  {
+    "file": "17_Tensal_CC_Macro/space_sends_64bar_CC91_CC93.mid",
+    "bars": 64,
+    "bpm": 136,
+    "tracks": "CC - Space Sends",
+    "description": "CC91/CC93 spatial send automation clip."
+  },
+  {
+    "file": "17_Tensal_CC_Macro/decay_shape_64bar_CC73_CC75.mid",
+    "bars": 64,
+    "bpm": 136,
+    "tracks": "CC - Decay Shape",
+    "description": "CC73/CC75 decay/shape macro clip for hats, synth or perc."
+  }
+]

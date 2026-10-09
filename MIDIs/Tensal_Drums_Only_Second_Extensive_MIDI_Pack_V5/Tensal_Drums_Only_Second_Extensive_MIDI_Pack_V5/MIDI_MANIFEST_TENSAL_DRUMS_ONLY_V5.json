@@ -1,0 +1,1115 @@
+[
+  {
+    "file": "01_Raw_Kick_Engines/kick_engine_raw_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Raw kick/ghost engine variation 1."
+  },
+  {
+    "file": "01_Raw_Kick_Engines/kick_engine_raw_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended raw kick/ghost engine variation 1."
+  },
+  {
+    "file": "01_Raw_Kick_Engines/kick_engine_raw_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Raw kick/ghost engine variation 2."
+  },
+  {
+    "file": "01_Raw_Kick_Engines/kick_engine_raw_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended raw kick/ghost engine variation 2."
+  },
+  {
+    "file": "01_Raw_Kick_Engines/kick_engine_raw_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Raw kick/ghost engine variation 3."
+  },
+  {
+    "file": "01_Raw_Kick_Engines/kick_engine_raw_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended raw kick/ghost engine variation 3."
+  },
+  {
+    "file": "01_Raw_Kick_Engines/kick_engine_raw_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Raw kick/ghost engine variation 4."
+  },
+  {
+    "file": "01_Raw_Kick_Engines/kick_engine_raw_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended raw kick/ghost engine variation 4."
+  },
+  {
+    "file": "01_Raw_Kick_Engines/kick_engine_raw_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Raw kick/ghost engine variation 5."
+  },
+  {
+    "file": "01_Raw_Kick_Engines/kick_engine_raw_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended raw kick/ghost engine variation 5."
+  },
+  {
+    "file": "01_Raw_Kick_Engines/kick_engine_raw_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Raw kick/ghost engine variation 6."
+  },
+  {
+    "file": "01_Raw_Kick_Engines/kick_engine_raw_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended raw kick/ghost engine variation 6."
+  },
+  {
+    "file": "01_Raw_Kick_Engines/kick_engine_raw_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Raw kick/ghost engine variation 7."
+  },
+  {
+    "file": "01_Raw_Kick_Engines/kick_engine_raw_var_07_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended raw kick/ghost engine variation 7."
+  },
+  {
+    "file": "01_Raw_Kick_Engines/kick_engine_raw_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Raw kick/ghost engine variation 8."
+  },
+  {
+    "file": "01_Raw_Kick_Engines/kick_engine_raw_var_08_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended raw kick/ghost engine variation 8."
+  },
+  {
+    "file": "02_Mineral_Top_Loops/mineral_top_hat_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Mineral top loop with hats/noise variation 1."
+  },
+  {
+    "file": "02_Mineral_Top_Loops/mineral_top_hat_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended mineral top loop variation 1."
+  },
+  {
+    "file": "02_Mineral_Top_Loops/mineral_top_hat_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Mineral top loop with hats/noise variation 2."
+  },
+  {
+    "file": "02_Mineral_Top_Loops/mineral_top_hat_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended mineral top loop variation 2."
+  },
+  {
+    "file": "02_Mineral_Top_Loops/mineral_top_hat_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Mineral top loop with hats/noise variation 3."
+  },
+  {
+    "file": "02_Mineral_Top_Loops/mineral_top_hat_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended mineral top loop variation 3."
+  },
+  {
+    "file": "02_Mineral_Top_Loops/mineral_top_hat_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Mineral top loop with hats/noise variation 4."
+  },
+  {
+    "file": "02_Mineral_Top_Loops/mineral_top_hat_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended mineral top loop variation 4."
+  },
+  {
+    "file": "02_Mineral_Top_Loops/mineral_top_hat_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Mineral top loop with hats/noise variation 5."
+  },
+  {
+    "file": "02_Mineral_Top_Loops/mineral_top_hat_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended mineral top loop variation 5."
+  },
+  {
+    "file": "02_Mineral_Top_Loops/mineral_top_hat_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Mineral top loop with hats/noise variation 6."
+  },
+  {
+    "file": "02_Mineral_Top_Loops/mineral_top_hat_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended mineral top loop variation 6."
+  },
+  {
+    "file": "02_Mineral_Top_Loops/mineral_top_hat_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Mineral top loop with hats/noise variation 7."
+  },
+  {
+    "file": "02_Mineral_Top_Loops/mineral_top_hat_var_07_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended mineral top loop variation 7."
+  },
+  {
+    "file": "02_Mineral_Top_Loops/mineral_top_hat_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Mineral top loop with hats/noise variation 8."
+  },
+  {
+    "file": "02_Mineral_Top_Loops/mineral_top_hat_var_08_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended mineral top loop variation 8."
+  },
+  {
+    "file": "02_Mineral_Top_Loops/mineral_top_hat_var_09_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Mineral top loop with hats/noise variation 9."
+  },
+  {
+    "file": "02_Mineral_Top_Loops/mineral_top_hat_var_09_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended mineral top loop variation 9."
+  },
+  {
+    "file": "02_Mineral_Top_Loops/mineral_top_hat_var_10_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Mineral top loop with hats/noise variation 10."
+  },
+  {
+    "file": "02_Mineral_Top_Loops/mineral_top_hat_var_10_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended mineral top loop variation 10."
+  },
+  {
+    "file": "03_Mineral_Percussion/mineral_perc_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Mineral/metal percussion grid variation 1."
+  },
+  {
+    "file": "03_Mineral_Percussion/mineral_perc_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended mineral/metal percussion grid variation 1."
+  },
+  {
+    "file": "03_Mineral_Percussion/mineral_perc_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Mineral/metal percussion grid variation 2."
+  },
+  {
+    "file": "03_Mineral_Percussion/mineral_perc_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended mineral/metal percussion grid variation 2."
+  },
+  {
+    "file": "03_Mineral_Percussion/mineral_perc_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Mineral/metal percussion grid variation 3."
+  },
+  {
+    "file": "03_Mineral_Percussion/mineral_perc_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended mineral/metal percussion grid variation 3."
+  },
+  {
+    "file": "03_Mineral_Percussion/mineral_perc_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Mineral/metal percussion grid variation 4."
+  },
+  {
+    "file": "03_Mineral_Percussion/mineral_perc_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended mineral/metal percussion grid variation 4."
+  },
+  {
+    "file": "03_Mineral_Percussion/mineral_perc_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Mineral/metal percussion grid variation 5."
+  },
+  {
+    "file": "03_Mineral_Percussion/mineral_perc_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended mineral/metal percussion grid variation 5."
+  },
+  {
+    "file": "03_Mineral_Percussion/mineral_perc_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Mineral/metal percussion grid variation 6."
+  },
+  {
+    "file": "03_Mineral_Percussion/mineral_perc_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended mineral/metal percussion grid variation 6."
+  },
+  {
+    "file": "03_Mineral_Percussion/mineral_perc_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Mineral/metal percussion grid variation 7."
+  },
+  {
+    "file": "03_Mineral_Percussion/mineral_perc_var_07_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended mineral/metal percussion grid variation 7."
+  },
+  {
+    "file": "03_Mineral_Percussion/mineral_perc_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Mineral/metal percussion grid variation 8."
+  },
+  {
+    "file": "03_Mineral_Percussion/mineral_perc_var_08_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended mineral/metal percussion grid variation 8."
+  },
+  {
+    "file": "03_Mineral_Percussion/mineral_perc_var_09_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Mineral/metal percussion grid variation 9."
+  },
+  {
+    "file": "03_Mineral_Percussion/mineral_perc_var_09_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended mineral/metal percussion grid variation 9."
+  },
+  {
+    "file": "03_Mineral_Percussion/mineral_perc_var_10_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Mineral/metal percussion grid variation 10."
+  },
+  {
+    "file": "03_Mineral_Percussion/mineral_perc_var_10_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended mineral/metal percussion grid variation 10."
+  },
+  {
+    "file": "04_Raw_Warehouse_4x4/warehouse_4x4_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Raw warehouse 4x4 full drum groove variation 1."
+  },
+  {
+    "file": "04_Raw_Warehouse_4x4/warehouse_4x4_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended raw warehouse 4x4 drum groove variation 1."
+  },
+  {
+    "file": "04_Raw_Warehouse_4x4/warehouse_4x4_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Raw warehouse 4x4 full drum groove variation 2."
+  },
+  {
+    "file": "04_Raw_Warehouse_4x4/warehouse_4x4_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended raw warehouse 4x4 drum groove variation 2."
+  },
+  {
+    "file": "04_Raw_Warehouse_4x4/warehouse_4x4_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Raw warehouse 4x4 full drum groove variation 3."
+  },
+  {
+    "file": "04_Raw_Warehouse_4x4/warehouse_4x4_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended raw warehouse 4x4 drum groove variation 3."
+  },
+  {
+    "file": "04_Raw_Warehouse_4x4/warehouse_4x4_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Raw warehouse 4x4 full drum groove variation 4."
+  },
+  {
+    "file": "04_Raw_Warehouse_4x4/warehouse_4x4_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended raw warehouse 4x4 drum groove variation 4."
+  },
+  {
+    "file": "04_Raw_Warehouse_4x4/warehouse_4x4_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Raw warehouse 4x4 full drum groove variation 5."
+  },
+  {
+    "file": "04_Raw_Warehouse_4x4/warehouse_4x4_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended raw warehouse 4x4 drum groove variation 5."
+  },
+  {
+    "file": "04_Raw_Warehouse_4x4/warehouse_4x4_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Raw warehouse 4x4 full drum groove variation 6."
+  },
+  {
+    "file": "04_Raw_Warehouse_4x4/warehouse_4x4_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended raw warehouse 4x4 drum groove variation 6."
+  },
+  {
+    "file": "04_Raw_Warehouse_4x4/warehouse_4x4_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Raw warehouse 4x4 full drum groove variation 7."
+  },
+  {
+    "file": "04_Raw_Warehouse_4x4/warehouse_4x4_var_07_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended raw warehouse 4x4 drum groove variation 7."
+  },
+  {
+    "file": "04_Raw_Warehouse_4x4/warehouse_4x4_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Raw warehouse 4x4 full drum groove variation 8."
+  },
+  {
+    "file": "04_Raw_Warehouse_4x4/warehouse_4x4_var_08_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended raw warehouse 4x4 drum groove variation 8."
+  },
+  {
+    "file": "05_Dub_Shadow_Tools/dub_shadow_drums_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dubby/shadow drum tool variation 1."
+  },
+  {
+    "file": "05_Dub_Shadow_Tools/dub_shadow_drums_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dubby/shadow drum tool variation 1."
+  },
+  {
+    "file": "05_Dub_Shadow_Tools/dub_shadow_drums_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dubby/shadow drum tool variation 2."
+  },
+  {
+    "file": "05_Dub_Shadow_Tools/dub_shadow_drums_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dubby/shadow drum tool variation 2."
+  },
+  {
+    "file": "05_Dub_Shadow_Tools/dub_shadow_drums_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dubby/shadow drum tool variation 3."
+  },
+  {
+    "file": "05_Dub_Shadow_Tools/dub_shadow_drums_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dubby/shadow drum tool variation 3."
+  },
+  {
+    "file": "05_Dub_Shadow_Tools/dub_shadow_drums_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dubby/shadow drum tool variation 4."
+  },
+  {
+    "file": "05_Dub_Shadow_Tools/dub_shadow_drums_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dubby/shadow drum tool variation 4."
+  },
+  {
+    "file": "05_Dub_Shadow_Tools/dub_shadow_drums_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dubby/shadow drum tool variation 5."
+  },
+  {
+    "file": "05_Dub_Shadow_Tools/dub_shadow_drums_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dubby/shadow drum tool variation 5."
+  },
+  {
+    "file": "05_Dub_Shadow_Tools/dub_shadow_drums_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Dubby/shadow drum tool variation 6."
+  },
+  {
+    "file": "05_Dub_Shadow_Tools/dub_shadow_drums_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended dubby/shadow drum tool variation 6."
+  },
+  {
+    "file": "06_Broken_Tool_Loops/broken_tool_drums_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Broken/off-kilter drum tool variation 1."
+  },
+  {
+    "file": "06_Broken_Tool_Loops/broken_tool_drums_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended broken/off-kilter drum tool variation 1."
+  },
+  {
+    "file": "06_Broken_Tool_Loops/broken_tool_drums_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Broken/off-kilter drum tool variation 2."
+  },
+  {
+    "file": "06_Broken_Tool_Loops/broken_tool_drums_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended broken/off-kilter drum tool variation 2."
+  },
+  {
+    "file": "06_Broken_Tool_Loops/broken_tool_drums_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Broken/off-kilter drum tool variation 3."
+  },
+  {
+    "file": "06_Broken_Tool_Loops/broken_tool_drums_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended broken/off-kilter drum tool variation 3."
+  },
+  {
+    "file": "06_Broken_Tool_Loops/broken_tool_drums_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Broken/off-kilter drum tool variation 4."
+  },
+  {
+    "file": "06_Broken_Tool_Loops/broken_tool_drums_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended broken/off-kilter drum tool variation 4."
+  },
+  {
+    "file": "06_Broken_Tool_Loops/broken_tool_drums_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Broken/off-kilter drum tool variation 5."
+  },
+  {
+    "file": "06_Broken_Tool_Loops/broken_tool_drums_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended broken/off-kilter drum tool variation 5."
+  },
+  {
+    "file": "06_Broken_Tool_Loops/broken_tool_drums_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Broken/off-kilter drum tool variation 6."
+  },
+  {
+    "file": "06_Broken_Tool_Loops/broken_tool_drums_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended broken/off-kilter drum tool variation 6."
+  },
+  {
+    "file": "06_Broken_Tool_Loops/broken_tool_drums_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Broken/off-kilter drum tool variation 7."
+  },
+  {
+    "file": "06_Broken_Tool_Loops/broken_tool_drums_var_07_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended broken/off-kilter drum tool variation 7."
+  },
+  {
+    "file": "06_Broken_Tool_Loops/broken_tool_drums_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Broken/off-kilter drum tool variation 8."
+  },
+  {
+    "file": "06_Broken_Tool_Loops/broken_tool_drums_var_08_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended broken/off-kilter drum tool variation 8."
+  },
+  {
+    "file": "07_Ride_Engines/ride_engine_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Ride/hats engine variation 1."
+  },
+  {
+    "file": "07_Ride_Engines/ride_engine_var_01_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended ride/hats engine variation 1."
+  },
+  {
+    "file": "07_Ride_Engines/ride_engine_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Ride/hats engine variation 2."
+  },
+  {
+    "file": "07_Ride_Engines/ride_engine_var_02_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended ride/hats engine variation 2."
+  },
+  {
+    "file": "07_Ride_Engines/ride_engine_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Ride/hats engine variation 3."
+  },
+  {
+    "file": "07_Ride_Engines/ride_engine_var_03_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended ride/hats engine variation 3."
+  },
+  {
+    "file": "07_Ride_Engines/ride_engine_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Ride/hats engine variation 4."
+  },
+  {
+    "file": "07_Ride_Engines/ride_engine_var_04_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended ride/hats engine variation 4."
+  },
+  {
+    "file": "07_Ride_Engines/ride_engine_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Ride/hats engine variation 5."
+  },
+  {
+    "file": "07_Ride_Engines/ride_engine_var_05_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended ride/hats engine variation 5."
+  },
+  {
+    "file": "07_Ride_Engines/ride_engine_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Ride/hats engine variation 6."
+  },
+  {
+    "file": "07_Ride_Engines/ride_engine_var_06_16bar_136.mid",
+    "bars": 16,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "Extended ride/hats engine variation 6."
+  },
+  {
+    "file": "08_Fills_Transitions/drum_fill_var_01_4bar_136.mid",
+    "bars": 4,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "4-bar drum transition/fill variation 1."
+  },
+  {
+    "file": "08_Fills_Transitions/drum_fill_var_01_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "8-bar drum transition/fill variation 1."
+  },
+  {
+    "file": "08_Fills_Transitions/drum_fill_var_02_4bar_136.mid",
+    "bars": 4,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "4-bar drum transition/fill variation 2."
+  },
+  {
+    "file": "08_Fills_Transitions/drum_fill_var_02_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "8-bar drum transition/fill variation 2."
+  },
+  {
+    "file": "08_Fills_Transitions/drum_fill_var_03_4bar_136.mid",
+    "bars": 4,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "4-bar drum transition/fill variation 3."
+  },
+  {
+    "file": "08_Fills_Transitions/drum_fill_var_03_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "8-bar drum transition/fill variation 3."
+  },
+  {
+    "file": "08_Fills_Transitions/drum_fill_var_04_4bar_136.mid",
+    "bars": 4,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "4-bar drum transition/fill variation 4."
+  },
+  {
+    "file": "08_Fills_Transitions/drum_fill_var_04_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "8-bar drum transition/fill variation 4."
+  },
+  {
+    "file": "08_Fills_Transitions/drum_fill_var_05_4bar_136.mid",
+    "bars": 4,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "4-bar drum transition/fill variation 5."
+  },
+  {
+    "file": "08_Fills_Transitions/drum_fill_var_05_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "8-bar drum transition/fill variation 5."
+  },
+  {
+    "file": "08_Fills_Transitions/drum_fill_var_06_4bar_136.mid",
+    "bars": 4,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "4-bar drum transition/fill variation 6."
+  },
+  {
+    "file": "08_Fills_Transitions/drum_fill_var_06_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "8-bar drum transition/fill variation 6."
+  },
+  {
+    "file": "08_Fills_Transitions/drum_fill_var_07_4bar_136.mid",
+    "bars": 4,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "4-bar drum transition/fill variation 7."
+  },
+  {
+    "file": "08_Fills_Transitions/drum_fill_var_07_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "8-bar drum transition/fill variation 7."
+  },
+  {
+    "file": "08_Fills_Transitions/drum_fill_var_08_4bar_136.mid",
+    "bars": 4,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "4-bar drum transition/fill variation 8."
+  },
+  {
+    "file": "08_Fills_Transitions/drum_fill_var_08_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "8-bar drum transition/fill variation 8."
+  },
+  {
+    "file": "08_Fills_Transitions/drum_fill_var_09_4bar_136.mid",
+    "bars": 4,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "4-bar drum transition/fill variation 9."
+  },
+  {
+    "file": "08_Fills_Transitions/drum_fill_var_09_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "8-bar drum transition/fill variation 9."
+  },
+  {
+    "file": "08_Fills_Transitions/drum_fill_var_10_4bar_136.mid",
+    "bars": 4,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "4-bar drum transition/fill variation 10."
+  },
+  {
+    "file": "08_Fills_Transitions/drum_fill_var_10_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "8-bar drum transition/fill variation 10."
+  },
+  {
+    "file": "08_Fills_Transitions/drum_fill_var_11_4bar_136.mid",
+    "bars": 4,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "4-bar drum transition/fill variation 11."
+  },
+  {
+    "file": "08_Fills_Transitions/drum_fill_var_11_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "8-bar drum transition/fill variation 11."
+  },
+  {
+    "file": "08_Fills_Transitions/drum_fill_var_12_4bar_136.mid",
+    "bars": 4,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "4-bar drum transition/fill variation 12."
+  },
+  {
+    "file": "08_Fills_Transitions/drum_fill_var_12_8bar_136.mid",
+    "bars": 8,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "8-bar drum transition/fill variation 12."
+  },
+  {
+    "file": "09_Drum_Arrangements/drum_arrangement_64bar_v5_style_01_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "64-bar V5 drums-only arrangement style 1."
+  },
+  {
+    "file": "09_Drum_Arrangements/drum_arrangement_64bar_v5_style_02_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "64-bar V5 drums-only arrangement style 2."
+  },
+  {
+    "file": "09_Drum_Arrangements/drum_arrangement_64bar_v5_style_03_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "64-bar V5 drums-only arrangement style 3."
+  },
+  {
+    "file": "09_Drum_Arrangements/drum_arrangement_64bar_v5_style_04_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "64-bar V5 drums-only arrangement style 4."
+  },
+  {
+    "file": "09_Drum_Arrangements/drum_arrangement_64bar_v5_style_05_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "64-bar V5 drums-only arrangement style 5."
+  },
+  {
+    "file": "09_Drum_Arrangements/drum_arrangement_64bar_v5_style_06_136.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "64-bar V5 drums-only arrangement style 6."
+  },
+  {
+    "file": "09_Drum_Arrangements/drum_arrangement_128bar_v5_full_tool_136.mid",
+    "bars": 128,
+    "bpm": 136,
+    "type": "drum_notes",
+    "description": "128-bar V5 drums-only full tool arrangement."
+  },
+  {
+    "file": "10_Alt_Tempos/warehouse_4x4_A_8bar_132.mid",
+    "bars": 8,
+    "bpm": 132,
+    "type": "drum_notes",
+    "description": "Warehouse 4x4 A embedded at 132 BPM."
+  },
+  {
+    "file": "10_Alt_Tempos/dub_shadow_A_8bar_132.mid",
+    "bars": 8,
+    "bpm": 132,
+    "type": "drum_notes",
+    "description": "Dub shadow A embedded at 132 BPM."
+  },
+  {
+    "file": "10_Alt_Tempos/broken_tool_A_8bar_132.mid",
+    "bars": 8,
+    "bpm": 132,
+    "type": "drum_notes",
+    "description": "Broken tool A embedded at 132 BPM."
+  },
+  {
+    "file": "10_Alt_Tempos/warehouse_4x4_A_8bar_134.mid",
+    "bars": 8,
+    "bpm": 134,
+    "type": "drum_notes",
+    "description": "Warehouse 4x4 A embedded at 134 BPM."
+  },
+  {
+    "file": "10_Alt_Tempos/dub_shadow_A_8bar_134.mid",
+    "bars": 8,
+    "bpm": 134,
+    "type": "drum_notes",
+    "description": "Dub shadow A embedded at 134 BPM."
+  },
+  {
+    "file": "10_Alt_Tempos/broken_tool_A_8bar_134.mid",
+    "bars": 8,
+    "bpm": 134,
+    "type": "drum_notes",
+    "description": "Broken tool A embedded at 134 BPM."
+  },
+  {
+    "file": "10_Alt_Tempos/warehouse_4x4_A_8bar_138.mid",
+    "bars": 8,
+    "bpm": 138,
+    "type": "drum_notes",
+    "description": "Warehouse 4x4 A embedded at 138 BPM."
+  },
+  {
+    "file": "10_Alt_Tempos/dub_shadow_A_8bar_138.mid",
+    "bars": 8,
+    "bpm": 138,
+    "type": "drum_notes",
+    "description": "Dub shadow A embedded at 138 BPM."
+  },
+  {
+    "file": "10_Alt_Tempos/broken_tool_A_8bar_138.mid",
+    "bars": 8,
+    "bpm": 138,
+    "type": "drum_notes",
+    "description": "Broken tool A embedded at 138 BPM."
+  },
+  {
+    "file": "10_Alt_Tempos/warehouse_4x4_A_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_notes",
+    "description": "Warehouse 4x4 A embedded at 140 BPM."
+  },
+  {
+    "file": "10_Alt_Tempos/dub_shadow_A_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_notes",
+    "description": "Dub shadow A embedded at 140 BPM."
+  },
+  {
+    "file": "10_Alt_Tempos/broken_tool_A_8bar_140.mid",
+    "bars": 8,
+    "bpm": 140,
+    "type": "drum_notes",
+    "description": "Broken tool A embedded at 140 BPM."
+  },
+  {
+    "file": "11_Drum_CC_Macros/filter_resonance_64bar_CC74_CC71.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "drum_cc_only",
+    "description": "Drum macro CC: CC74 filter/brightness and CC71 resonance."
+  },
+  {
+    "file": "11_Drum_CC_Macros/decay_drive_64bar_CC73_CC76.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "drum_cc_only",
+    "description": "Drum macro CC: CC73 decay and CC76 drive."
+  },
+  {
+    "file": "11_Drum_CC_Macros/space_sends_64bar_CC91_CC93.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "drum_cc_only",
+    "description": "Drum macro CC: CC91 reverb send and CC93 delay/mod send."
+  },
+  {
+    "file": "11_Drum_CC_Macros/shape_release_64bar_CC75_CC72.mid",
+    "bars": 64,
+    "bpm": 136,
+    "type": "drum_cc_only",
+    "description": "Drum macro CC: CC75 shape and CC72 release."
+  }
+]

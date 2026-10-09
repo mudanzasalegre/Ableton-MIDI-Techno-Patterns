@@ -1,0 +1,122 @@
+file,bars,bpm,type,description
+01_Cyclic_4x4/drums_cyclic_4x4_var_01_8bar_136.mid,8,136,drum_notes,Cyclic 4x4 drum groove variation 1.
+01_Cyclic_4x4/drums_cyclic_4x4_var_01_16bar_136.mid,16,136,drum_notes,Extended 16-bar cyclic 4x4 drum groove variation 1.
+01_Cyclic_4x4/drums_cyclic_4x4_var_02_8bar_136.mid,8,136,drum_notes,Cyclic 4x4 drum groove variation 2.
+01_Cyclic_4x4/drums_cyclic_4x4_var_02_16bar_136.mid,16,136,drum_notes,Extended 16-bar cyclic 4x4 drum groove variation 2.
+01_Cyclic_4x4/drums_cyclic_4x4_var_03_8bar_136.mid,8,136,drum_notes,Cyclic 4x4 drum groove variation 3.
+01_Cyclic_4x4/drums_cyclic_4x4_var_03_16bar_136.mid,16,136,drum_notes,Extended 16-bar cyclic 4x4 drum groove variation 3.
+01_Cyclic_4x4/drums_cyclic_4x4_var_04_8bar_136.mid,8,136,drum_notes,Cyclic 4x4 drum groove variation 4.
+01_Cyclic_4x4/drums_cyclic_4x4_var_04_16bar_136.mid,16,136,drum_notes,Extended 16-bar cyclic 4x4 drum groove variation 4.
+01_Cyclic_4x4/drums_cyclic_4x4_var_05_8bar_136.mid,8,136,drum_notes,Cyclic 4x4 drum groove variation 5.
+01_Cyclic_4x4/drums_cyclic_4x4_var_05_16bar_136.mid,16,136,drum_notes,Extended 16-bar cyclic 4x4 drum groove variation 5.
+01_Cyclic_4x4/drums_cyclic_4x4_var_06_8bar_136.mid,8,136,drum_notes,Cyclic 4x4 drum groove variation 6.
+01_Cyclic_4x4/drums_cyclic_4x4_var_06_16bar_136.mid,16,136,drum_notes,Extended 16-bar cyclic 4x4 drum groove variation 6.
+02_Hard_Driving/drums_hard_driving_var_01_8bar_136.mid,8,136,drum_notes,Hard-driving drum groove variation 1.
+02_Hard_Driving/drums_hard_driving_var_01_16bar_136.mid,16,136,drum_notes,Extended hard-driving drum groove variation 1.
+02_Hard_Driving/drums_hard_driving_var_02_8bar_136.mid,8,136,drum_notes,Hard-driving drum groove variation 2.
+02_Hard_Driving/drums_hard_driving_var_02_16bar_136.mid,16,136,drum_notes,Extended hard-driving drum groove variation 2.
+02_Hard_Driving/drums_hard_driving_var_03_8bar_136.mid,8,136,drum_notes,Hard-driving drum groove variation 3.
+02_Hard_Driving/drums_hard_driving_var_03_16bar_136.mid,16,136,drum_notes,Extended hard-driving drum groove variation 3.
+02_Hard_Driving/drums_hard_driving_var_04_8bar_136.mid,8,136,drum_notes,Hard-driving drum groove variation 4.
+02_Hard_Driving/drums_hard_driving_var_04_16bar_136.mid,16,136,drum_notes,Extended hard-driving drum groove variation 4.
+02_Hard_Driving/drums_hard_driving_var_05_8bar_136.mid,8,136,drum_notes,Hard-driving drum groove variation 5.
+02_Hard_Driving/drums_hard_driving_var_05_16bar_136.mid,16,136,drum_notes,Extended hard-driving drum groove variation 5.
+02_Hard_Driving/drums_hard_driving_var_06_8bar_136.mid,8,136,drum_notes,Hard-driving drum groove variation 6.
+02_Hard_Driving/drums_hard_driving_var_06_16bar_136.mid,16,136,drum_notes,Extended hard-driving drum groove variation 6.
+03_Broken_OffKilter/drums_broken_offkilter_var_01_8bar_136.mid,8,136,drum_notes,Broken/off-kilter drum groove variation 1.
+03_Broken_OffKilter/drums_broken_offkilter_var_01_16bar_136.mid,16,136,drum_notes,Extended broken/off-kilter drum groove variation 1.
+03_Broken_OffKilter/drums_broken_offkilter_var_02_8bar_136.mid,8,136,drum_notes,Broken/off-kilter drum groove variation 2.
+03_Broken_OffKilter/drums_broken_offkilter_var_02_16bar_136.mid,16,136,drum_notes,Extended broken/off-kilter drum groove variation 2.
+03_Broken_OffKilter/drums_broken_offkilter_var_03_8bar_136.mid,8,136,drum_notes,Broken/off-kilter drum groove variation 3.
+03_Broken_OffKilter/drums_broken_offkilter_var_03_16bar_136.mid,16,136,drum_notes,Extended broken/off-kilter drum groove variation 3.
+03_Broken_OffKilter/drums_broken_offkilter_var_04_8bar_136.mid,8,136,drum_notes,Broken/off-kilter drum groove variation 4.
+03_Broken_OffKilter/drums_broken_offkilter_var_04_16bar_136.mid,16,136,drum_notes,Extended broken/off-kilter drum groove variation 4.
+03_Broken_OffKilter/drums_broken_offkilter_var_05_8bar_136.mid,8,136,drum_notes,Broken/off-kilter drum groove variation 5.
+03_Broken_OffKilter/drums_broken_offkilter_var_05_16bar_136.mid,16,136,drum_notes,Extended broken/off-kilter drum groove variation 5.
+03_Broken_OffKilter/drums_broken_offkilter_var_06_8bar_136.mid,8,136,drum_notes,Broken/off-kilter drum groove variation 6.
+03_Broken_OffKilter/drums_broken_offkilter_var_06_16bar_136.mid,16,136,drum_notes,Extended broken/off-kilter drum groove variation 6.
+04_Hats_TopLoops/hats_only_pressure_var_01_8bar_136.mid,8,136,drum_notes,Hats-only pressure/top pattern variation 1.
+04_Hats_TopLoops/top_loop_no_kick_var_01_8bar_136.mid,8,136,drum_notes,Top loop without kick: hats + percussion variation 1.
+04_Hats_TopLoops/hats_only_pressure_var_02_8bar_136.mid,8,136,drum_notes,Hats-only pressure/top pattern variation 2.
+04_Hats_TopLoops/top_loop_no_kick_var_02_8bar_136.mid,8,136,drum_notes,Top loop without kick: hats + percussion variation 2.
+04_Hats_TopLoops/hats_only_pressure_var_03_8bar_136.mid,8,136,drum_notes,Hats-only pressure/top pattern variation 3.
+04_Hats_TopLoops/top_loop_no_kick_var_03_8bar_136.mid,8,136,drum_notes,Top loop without kick: hats + percussion variation 3.
+04_Hats_TopLoops/hats_only_pressure_var_04_8bar_136.mid,8,136,drum_notes,Hats-only pressure/top pattern variation 4.
+04_Hats_TopLoops/top_loop_no_kick_var_04_8bar_136.mid,8,136,drum_notes,Top loop without kick: hats + percussion variation 4.
+04_Hats_TopLoops/hats_only_pressure_var_05_8bar_136.mid,8,136,drum_notes,Hats-only pressure/top pattern variation 5.
+04_Hats_TopLoops/top_loop_no_kick_var_05_8bar_136.mid,8,136,drum_notes,Top loop without kick: hats + percussion variation 5.
+04_Hats_TopLoops/hats_only_pressure_var_06_8bar_136.mid,8,136,drum_notes,Hats-only pressure/top pattern variation 6.
+04_Hats_TopLoops/top_loop_no_kick_var_06_8bar_136.mid,8,136,drum_notes,Top loop without kick: hats + percussion variation 6.
+04_Hats_TopLoops/hats_only_pressure_var_07_8bar_136.mid,8,136,drum_notes,Hats-only pressure/top pattern variation 7.
+04_Hats_TopLoops/top_loop_no_kick_var_07_8bar_136.mid,8,136,drum_notes,Top loop without kick: hats + percussion variation 7.
+04_Hats_TopLoops/hats_only_pressure_var_08_8bar_136.mid,8,136,drum_notes,Hats-only pressure/top pattern variation 8.
+04_Hats_TopLoops/top_loop_no_kick_var_08_8bar_136.mid,8,136,drum_notes,Top loop without kick: hats + percussion variation 8.
+05_Percussion_Only/perc_metal_texture_var_01_8bar_136.mid,8,136,drum_notes,Percussion-only metal/texture grid variation 1.
+05_Percussion_Only/perc_metal_texture_var_01_16bar_136.mid,16,136,drum_notes,Extended percussion-only metal/texture grid variation 1.
+05_Percussion_Only/perc_metal_texture_var_02_8bar_136.mid,8,136,drum_notes,Percussion-only metal/texture grid variation 2.
+05_Percussion_Only/perc_metal_texture_var_02_16bar_136.mid,16,136,drum_notes,Extended percussion-only metal/texture grid variation 2.
+05_Percussion_Only/perc_metal_texture_var_03_8bar_136.mid,8,136,drum_notes,Percussion-only metal/texture grid variation 3.
+05_Percussion_Only/perc_metal_texture_var_03_16bar_136.mid,16,136,drum_notes,Extended percussion-only metal/texture grid variation 3.
+05_Percussion_Only/perc_metal_texture_var_04_8bar_136.mid,8,136,drum_notes,Percussion-only metal/texture grid variation 4.
+05_Percussion_Only/perc_metal_texture_var_04_16bar_136.mid,16,136,drum_notes,Extended percussion-only metal/texture grid variation 4.
+05_Percussion_Only/perc_metal_texture_var_05_8bar_136.mid,8,136,drum_notes,Percussion-only metal/texture grid variation 5.
+05_Percussion_Only/perc_metal_texture_var_05_16bar_136.mid,16,136,drum_notes,Extended percussion-only metal/texture grid variation 5.
+05_Percussion_Only/perc_metal_texture_var_06_8bar_136.mid,8,136,drum_notes,Percussion-only metal/texture grid variation 6.
+05_Percussion_Only/perc_metal_texture_var_06_16bar_136.mid,16,136,drum_notes,Extended percussion-only metal/texture grid variation 6.
+05_Percussion_Only/perc_metal_texture_var_07_8bar_136.mid,8,136,drum_notes,Percussion-only metal/texture grid variation 7.
+05_Percussion_Only/perc_metal_texture_var_07_16bar_136.mid,16,136,drum_notes,Extended percussion-only metal/texture grid variation 7.
+05_Percussion_Only/perc_metal_texture_var_08_8bar_136.mid,8,136,drum_notes,Percussion-only metal/texture grid variation 8.
+05_Percussion_Only/perc_metal_texture_var_08_16bar_136.mid,16,136,drum_notes,Extended percussion-only metal/texture grid variation 8.
+06_Kick_Rumble_Triggers/kick_rumble_trigger_var_01_8bar_136.mid,8,136,drum_notes,Kick and rumble-trigger pattern variation 1.
+06_Kick_Rumble_Triggers/kick_rumble_trigger_var_01_16bar_136.mid,16,136,drum_notes,Extended kick and rumble-trigger pattern variation 1.
+06_Kick_Rumble_Triggers/kick_rumble_trigger_var_02_8bar_136.mid,8,136,drum_notes,Kick and rumble-trigger pattern variation 2.
+06_Kick_Rumble_Triggers/kick_rumble_trigger_var_02_16bar_136.mid,16,136,drum_notes,Extended kick and rumble-trigger pattern variation 2.
+06_Kick_Rumble_Triggers/kick_rumble_trigger_var_03_8bar_136.mid,8,136,drum_notes,Kick and rumble-trigger pattern variation 3.
+06_Kick_Rumble_Triggers/kick_rumble_trigger_var_03_16bar_136.mid,16,136,drum_notes,Extended kick and rumble-trigger pattern variation 3.
+06_Kick_Rumble_Triggers/kick_rumble_trigger_var_04_8bar_136.mid,8,136,drum_notes,Kick and rumble-trigger pattern variation 4.
+06_Kick_Rumble_Triggers/kick_rumble_trigger_var_04_16bar_136.mid,16,136,drum_notes,Extended kick and rumble-trigger pattern variation 4.
+06_Kick_Rumble_Triggers/kick_rumble_trigger_var_05_8bar_136.mid,8,136,drum_notes,Kick and rumble-trigger pattern variation 5.
+06_Kick_Rumble_Triggers/kick_rumble_trigger_var_05_16bar_136.mid,16,136,drum_notes,Extended kick and rumble-trigger pattern variation 5.
+06_Kick_Rumble_Triggers/kick_rumble_trigger_var_06_8bar_136.mid,8,136,drum_notes,Kick and rumble-trigger pattern variation 6.
+06_Kick_Rumble_Triggers/kick_rumble_trigger_var_06_16bar_136.mid,16,136,drum_notes,Extended kick and rumble-trigger pattern variation 6.
+07_Fills_Transitions/fill_transition_var_01_4bar_136.mid,4,136,drum_notes,4-bar drum fill/transition variation 1.
+07_Fills_Transitions/fill_transition_var_01_8bar_136.mid,8,136,drum_notes,8-bar drum fill/transition variation 1.
+07_Fills_Transitions/fill_transition_var_02_4bar_136.mid,4,136,drum_notes,4-bar drum fill/transition variation 2.
+07_Fills_Transitions/fill_transition_var_02_8bar_136.mid,8,136,drum_notes,8-bar drum fill/transition variation 2.
+07_Fills_Transitions/fill_transition_var_03_4bar_136.mid,4,136,drum_notes,4-bar drum fill/transition variation 3.
+07_Fills_Transitions/fill_transition_var_03_8bar_136.mid,8,136,drum_notes,8-bar drum fill/transition variation 3.
+07_Fills_Transitions/fill_transition_var_04_4bar_136.mid,4,136,drum_notes,4-bar drum fill/transition variation 4.
+07_Fills_Transitions/fill_transition_var_04_8bar_136.mid,8,136,drum_notes,8-bar drum fill/transition variation 4.
+07_Fills_Transitions/fill_transition_var_05_4bar_136.mid,4,136,drum_notes,4-bar drum fill/transition variation 5.
+07_Fills_Transitions/fill_transition_var_05_8bar_136.mid,8,136,drum_notes,8-bar drum fill/transition variation 5.
+07_Fills_Transitions/fill_transition_var_06_4bar_136.mid,4,136,drum_notes,4-bar drum fill/transition variation 6.
+07_Fills_Transitions/fill_transition_var_06_8bar_136.mid,8,136,drum_notes,8-bar drum fill/transition variation 6.
+07_Fills_Transitions/fill_transition_var_07_4bar_136.mid,4,136,drum_notes,4-bar drum fill/transition variation 7.
+07_Fills_Transitions/fill_transition_var_07_8bar_136.mid,8,136,drum_notes,8-bar drum fill/transition variation 7.
+07_Fills_Transitions/fill_transition_var_08_4bar_136.mid,4,136,drum_notes,4-bar drum fill/transition variation 8.
+07_Fills_Transitions/fill_transition_var_08_8bar_136.mid,8,136,drum_notes,8-bar drum fill/transition variation 8.
+07_Fills_Transitions/fill_transition_var_09_4bar_136.mid,4,136,drum_notes,4-bar drum fill/transition variation 9.
+07_Fills_Transitions/fill_transition_var_09_8bar_136.mid,8,136,drum_notes,8-bar drum fill/transition variation 9.
+07_Fills_Transitions/fill_transition_var_10_4bar_136.mid,4,136,drum_notes,4-bar drum fill/transition variation 10.
+07_Fills_Transitions/fill_transition_var_10_8bar_136.mid,8,136,drum_notes,8-bar drum fill/transition variation 10.
+07_Fills_Transitions/fill_transition_var_11_4bar_136.mid,4,136,drum_notes,4-bar drum fill/transition variation 11.
+07_Fills_Transitions/fill_transition_var_11_8bar_136.mid,8,136,drum_notes,8-bar drum fill/transition variation 11.
+08_Drum_Arrangements/drum_arrangement_64bar_style_01_136.mid,64,136,drum_notes,64-bar drums-only arrangement style 1.
+08_Drum_Arrangements/drum_arrangement_64bar_style_02_136.mid,64,136,drum_notes,64-bar drums-only arrangement style 2.
+08_Drum_Arrangements/drum_arrangement_64bar_style_03_136.mid,64,136,drum_notes,64-bar drums-only arrangement style 3.
+08_Drum_Arrangements/drum_arrangement_64bar_style_04_136.mid,64,136,drum_notes,64-bar drums-only arrangement style 4.
+08_Drum_Arrangements/drum_arrangement_64bar_style_05_136.mid,64,136,drum_notes,64-bar drums-only arrangement style 5.
+08_Drum_Arrangements/drum_arrangement_64bar_style_06_136.mid,64,136,drum_notes,64-bar drums-only arrangement style 6.
+08_Drum_Arrangements/drum_arrangement_128bar_cyclic_modular_136.mid,128,136,drum_notes,128-bar drums-only cyclic/modular arrangement.
+09_Alt_Tempos/drums_cyclic_4x4_A_8bar_132.mid,8,132,drum_notes,Cyclic 4x4 variation A embedded at 132 BPM.
+09_Alt_Tempos/drums_broken_offkilter_A_8bar_132.mid,8,132,drum_notes,Broken/off-kilter variation A embedded at 132 BPM.
+09_Alt_Tempos/drums_hard_driving_A_8bar_132.mid,8,132,drum_notes,Hard-driving variation A embedded at 132 BPM.
+09_Alt_Tempos/drums_cyclic_4x4_A_8bar_138.mid,8,138,drum_notes,Cyclic 4x4 variation A embedded at 138 BPM.
+09_Alt_Tempos/drums_broken_offkilter_A_8bar_138.mid,8,138,drum_notes,Broken/off-kilter variation A embedded at 138 BPM.
+09_Alt_Tempos/drums_hard_driving_A_8bar_138.mid,8,138,drum_notes,Hard-driving variation A embedded at 138 BPM.
+09_Alt_Tempos/drums_cyclic_4x4_A_8bar_140.mid,8,140,drum_notes,Cyclic 4x4 variation A embedded at 140 BPM.
+09_Alt_Tempos/drums_broken_offkilter_A_8bar_140.mid,8,140,drum_notes,Broken/off-kilter variation A embedded at 140 BPM.
+09_Alt_Tempos/drums_hard_driving_A_8bar_140.mid,8,140,drum_notes,Hard-driving variation A embedded at 140 BPM.
+10_Drum_CC_Macros/drum_macro_filter_resonance_64bar_CC74_CC71.mid,64,136,drum_cc_only,Drum macro CC clip: CC74 filter/brightness and CC71 resonance.
+10_Drum_CC_Macros/drum_macro_decay_drive_64bar_CC73_CC76.mid,64,136,drum_cc_only,Drum macro CC clip: CC73 decay and CC76 drive.
+10_Drum_CC_Macros/drum_macro_space_sends_64bar_CC91_CC93.mid,64,136,drum_cc_only,Drum macro CC clip: CC91 reverb send and CC93 delay/mod send.
